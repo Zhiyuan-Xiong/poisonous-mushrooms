@@ -28,7 +28,7 @@ AI 素材工作流、可编辑 Godot 跑酷游戏与浏览器试玩。
 
 ### 2. AI 素材制作
 
-以结构化提示词生成森林、UI、角色、金币与怪兽素材，保留透明 PNG、高分辨率原图、完整动画帧和 GIF。提示词与生成记录位于 source_assets/ 和 制作提示词.json。
+使用 **Codex 内置 imagegen**，以已有画面为风格参考，通过结构化提示词生成或调整森林、UI、角色、金币与怪兽素材。保留透明 PNG、高分辨率原图、完整动画帧和 GIF；提示词与生成记录位于 [source_assets/](source_assets/) 和 [制作提示词.json](制作提示词.json)。
 
 ### 3. AI 辅助 Godot 搭建
 
@@ -36,11 +36,22 @@ AI 素材工作流、可编辑 Godot 跑酷游戏与浏览器试玩。
 
 ### 4. 人工调整与验证
 
-筛选视觉结果，调整透明边缘、画面比例、道路投影、场景密度、动画节奏和碰撞体验，使用原生运行截图和测试继续修正。
+筛选视觉结果，调整透明边缘、画面比例、道路投影、场景密度、动画节奏和碰撞体验。UI 徽章去除生成图中的文字，再由 Godot 使用项目字体排字，统一中文显示；使用原生运行截图和测试继续修正。
 
 ### 5. 可交付成果
 
 浏览器试玩、Windows 完整包、可编辑 Godot 工程及全部素材。复用素材清单、帧序列和提示词减少重复整理；未记录量化工时对比。
+
+## 工作流证据
+
+| 环节 | 可以检查的材料 |
+| --- | --- |
+| AI 生成与编辑 | [素材制作提示词](制作提示词.json)、[角色生成记录](source_assets/runner/生成提示词.json) |
+| 动画与资产整理 | [关键帧总览](source_assets/runner/关键帧总览.png)、[跑步图集参数](source_assets/runner/跑步图集参数.json)、[素材清单](assets/asset_manifest.json) |
+| 人工视觉控制 | [UI 制作说明](source_assets/ui-components/使用说明.txt)、[草地过渡检查](previews/六种草地过渡总览.png) |
+| Godot 搭建与验证 | [游戏逻辑](scripts/runner_model.gd)、[集成测试](tests/test_integration.gd)、[浏览器检查](verification/browser-results.json) |
+
+<p align="center"><img src="previews/毒蘑菇_游戏运行示意.gif" alt="原生 Godot 游戏运行预览" width="320"></p>
 
 ## 仓库内容
 
