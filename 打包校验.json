@@ -1,0 +1,3184 @@
+{
+  "game": "毒蘑菇",
+  "originalFilesVerified": 226,
+  "fontHash": "66ae8164b0b00b3d8467cffc9eeeca2385960beb9f36e5b19dbb6671e932805d",
+  "files": [
+    {
+      "path": "assets/asset_manifest.json",
+      "bytes": 33967,
+      "sha256": "61f8fcfb032900a0baf41ec1823daa1eb8c6e2c3c1b539c897ace06e396aa9e1"
+    },
+    {
+      "path": "assets/floating/frame-01.png",
+      "bytes": 201559,
+      "sha256": "48e77aba87fb74c491f71e459000f109708dde80b8b9f2dc7ec3e87b2c1bc3ae"
+    },
+    {
+      "path": "assets/floating/frame-01.png.import",
+      "bytes": 944,
+      "sha256": "7d07448699307e30d2a338a4d9e61ebba9ffaf57af1d76dce8f150fa92154fc9"
+    },
+    {
+      "path": "assets/floating/frame-02.png",
+      "bytes": 203973,
+      "sha256": "55ccb88e2f3b74dc48f2b4a6b22a247844c4a520d3f819eb7b08ccf5bfb959f3"
+    },
+    {
+      "path": "assets/floating/frame-02.png.import",
+      "bytes": 944,
+      "sha256": "81dc0d7a838720ba53f63b203f75085205f8ffc15aacfb9f5a92c6a56276b033"
+    },
+    {
+      "path": "assets/floating/frame-03.png",
+      "bytes": 203476,
+      "sha256": "9ad3897aa80dcf30fcb95149f8be5a7b3c60607120c786d67806a60e6dc14644"
+    },
+    {
+      "path": "assets/floating/frame-03.png.import",
+      "bytes": 944,
+      "sha256": "ae1fadf8d906fa68a631b95de48be72f316c846aec3fcbcb1ddfc8cb1363726c"
+    },
+    {
+      "path": "assets/floating/frame-04.png",
+      "bytes": 209504,
+      "sha256": "6f8d7f788c245d7b2eb35e6fc0f90e1cb18a922bd4d42825710e78313e296c04"
+    },
+    {
+      "path": "assets/floating/frame-04.png.import",
+      "bytes": 944,
+      "sha256": "173becedd8b74dad7ef073483875b29717d6b7b961088e67186d2f6b046893d8"
+    },
+    {
+      "path": "assets/floating/frame-05.png",
+      "bytes": 220095,
+      "sha256": "bc415335bf67056dc5cc24aadf0a814258f285a9026b1ceaecc6b845b9261c02"
+    },
+    {
+      "path": "assets/floating/frame-05.png.import",
+      "bytes": 943,
+      "sha256": "35874f65a7b222f47efd35b7f9bdb4a9ce6229ea49e87b90ee1dce44a49b8bdf"
+    },
+    {
+      "path": "assets/floating/frame-06.png",
+      "bytes": 223591,
+      "sha256": "467808d46448dff776a7301a1bb2891101839d8fb4bab671eb91b33d5a85f0b7"
+    },
+    {
+      "path": "assets/floating/frame-06.png.import",
+      "bytes": 943,
+      "sha256": "daa555bd2f88fc063813da882f6a46743356c265ee4d40a0ffc100bef199dd01"
+    },
+    {
+      "path": "assets/floating/frame-07.png",
+      "bytes": 223700,
+      "sha256": "123a8f13c9f328b378557244422aa29d2c2337cbd245d00ecb4506f9c0b96490"
+    },
+    {
+      "path": "assets/floating/frame-07.png.import",
+      "bytes": 944,
+      "sha256": "d6d843359fa438b6e7f193b4a2ad8c30e09d8efe3aa8850c62a785520adb8d2b"
+    },
+    {
+      "path": "assets/floating/frame-08.png",
+      "bytes": 219788,
+      "sha256": "78bb2cd4ad7c34ea0383ba7ce3e7dd8c2eed759c36035026d2770ae47df5b2b7"
+    },
+    {
+      "path": "assets/floating/frame-08.png.import",
+      "bytes": 944,
+      "sha256": "bf9b861ed763d4a06f7e69636d8c039dcd560cabcb7db9f8567b7b916a21250b"
+    },
+    {
+      "path": "assets/floating/frame-09.png",
+      "bytes": 213252,
+      "sha256": "ab9c89ed118905ef50577425103253447b3b9d8c9707e8da414d3bac81c3dcbf"
+    },
+    {
+      "path": "assets/floating/frame-09.png.import",
+      "bytes": 943,
+      "sha256": "2cd0b67b1ec0acfbcbd092cc2cf286d349556d52f05528c83d5ae417c53acdfd"
+    },
+    {
+      "path": "assets/floating/frame-10.png",
+      "bytes": 204461,
+      "sha256": "39d30a43e2de425a907cbc13d8adb6216fe1d23e35fab82b2005bc538754069b"
+    },
+    {
+      "path": "assets/floating/frame-10.png.import",
+      "bytes": 944,
+      "sha256": "0b4e2f74ba29be207d39fd23d8885727763b7d86b910d06076bd4e4644921482"
+    },
+    {
+      "path": "assets/floating/frame-11.png",
+      "bytes": 197232,
+      "sha256": "9307a0028eb934aa52034f117a9cc7dac94fef2680c4f0294e87b9da0a87fc44"
+    },
+    {
+      "path": "assets/floating/frame-11.png.import",
+      "bytes": 944,
+      "sha256": "c35912285b0c773dcec34a68bfe2b31e343e6d38fef599f1796a00f2e520f6eb"
+    },
+    {
+      "path": "assets/floating/frame-12.png",
+      "bytes": 199568,
+      "sha256": "55d474efe6fc6008423a4fc2efe406773efd0e1adf796c10c0eea9d27b33d8a7"
+    },
+    {
+      "path": "assets/floating/frame-12.png.import",
+      "bytes": 944,
+      "sha256": "6ec0c278c90c92afa8bfcb802d0223668f8f53ee3c72e6cf8eba8d10c057e26e"
+    },
+    {
+      "path": "assets/fonts/WenCangShuFang-2.ttf",
+      "bytes": 2879732,
+      "sha256": "66ae8164b0b00b3d8467cffc9eeeca2385960beb9f36e5b19dbb6671e932805d"
+    },
+    {
+      "path": "assets/fonts/WenCangShuFang-2.ttf.import",
+      "bytes": 786,
+      "sha256": "6d4bcb4e333ad7b32811530bced68a9af2e9ec3964798f78ee7c9fce656a7140"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_01.png",
+      "bytes": 177219,
+      "sha256": "51e8d826d85e568ded9162a6706756208c0d8ac0be6532ae61738603684f0433"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_01.png.import",
+      "bytes": 952,
+      "sha256": "1c967d76a964241c30d17754e93a48c84b0fb626e193646be8aaa7729f343903"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_02.png",
+      "bytes": 176074,
+      "sha256": "c4d57a80d2fabf1fca96990e5b3c1801277701e801fb824c7c203eb694a00449"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_02.png.import",
+      "bytes": 951,
+      "sha256": "4829cd18edee2316f3e4fdb1005fb8773aa7ae99e3b0a8f0b509811df083b93a"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_03.png",
+      "bytes": 151052,
+      "sha256": "68afdee46ac7928d61bcbe83bf708e4305322eeb8b7d567fb0622de44ae9ca3e"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_03.png.import",
+      "bytes": 951,
+      "sha256": "f42790201d492c2a43ae0d910dd9498e141662f19ed78b1ca8710f3bcbc369ed"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_04.png",
+      "bytes": 132060,
+      "sha256": "904b4a2c554bad5e4df8f175a9e0a810adb0da2fa3109aa62a2754f49b5a0fd8"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_04.png.import",
+      "bytes": 952,
+      "sha256": "c8fd821b00bc27bbd14e2836c5263a88ca48b4c08246cb248a7faad368a48e1f"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_05.png",
+      "bytes": 160353,
+      "sha256": "1647192428dd3315c01e1c936cbb79625ddc858f5b2ab6c21cee8ce8b0c30813"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_05.png.import",
+      "bytes": 952,
+      "sha256": "740aedeb40e3ccdde05c457fe3f8f4dfeb1e2bc77965124cb67414b306714f59"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_06.png",
+      "bytes": 180088,
+      "sha256": "a381a13cec68737d2f8bc3d5f5c6b869437dfba477ea8d4a00718ddfb17222be"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_06.png.import",
+      "bytes": 951,
+      "sha256": "3a4d56d827771d69f433a94b7d09f13a1f749dca669048cbb718943446db5766"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_07.png",
+      "bytes": 200984,
+      "sha256": "95d96af641cfc32ccdaef5e50956bf5becb3498ba88c3e3f73d232383a911bc5"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_07.png.import",
+      "bytes": 951,
+      "sha256": "2f77636b7f0212d88df49bb7a0cbfac0c5420fbf6b0d5ba7b6c8269769d2e059"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_08.png",
+      "bytes": 186942,
+      "sha256": "38baa7640861549387b01174db27316e56614eb332541359d68045a423e3719e"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_08.png.import",
+      "bytes": 952,
+      "sha256": "e1d2e997d89ce001c79e2645540dd31e580b1be834ca9ff58d3c3416cea74003"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_09.png",
+      "bytes": 178104,
+      "sha256": "144ad17eae9d3a999f9c2c5b4803bc4d9f219efbb9c440487b66179b57ad3544"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_09.png.import",
+      "bytes": 952,
+      "sha256": "8ad26cd7d1f9796c1805ca28b3b15d85ada7657b7b23f740334485c0c541f727"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_10.png",
+      "bytes": 177369,
+      "sha256": "817dc78adff85a7cefce8e33158a8c7055d8fde6758a66eab086846f0dacfe30"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_10.png.import",
+      "bytes": 952,
+      "sha256": "b475649212eaf67a45f38e62b37348b595e4fae5388be440b06af798967e814b"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_11.png",
+      "bytes": 183258,
+      "sha256": "bba82ce2e539d7a9223b9bf4b27d46666078047e13a55ee293bd14ecdff7ca65"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_11.png.import",
+      "bytes": 952,
+      "sha256": "51ceb36416208a39f0a2b6f89c6247b95c767319bdd67d3b2e7f7c7cd2c83517"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_12.png",
+      "bytes": 174401,
+      "sha256": "37701b747bcf3843316dd93753ea72f2d4e87bf6a75eedcaece92705aefee376"
+    },
+    {
+      "path": "assets/monsters/01_chomper/idle_12.png.import",
+      "bytes": 952,
+      "sha256": "a5ebaf83265f7cdaeeeb1301387532b3e618626a6eaca13cd87f62edeb2c36fe"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_01.png",
+      "bytes": 173404,
+      "sha256": "ca33c5cd25199c40042a799f75da953823d9afa3641cc6fb55bdf2603c890e23"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_01.png.import",
+      "bytes": 949,
+      "sha256": "90e9093ad37c4da1a43018983e2ddcaee4c167a2e882d91c70adc7cc196cd5ec"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_02.png",
+      "bytes": 175612,
+      "sha256": "ab89626f789782fa5d281f6400f154328840258125a52eca540e41e28e30e72d"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_02.png.import",
+      "bytes": 948,
+      "sha256": "536cdeb75641a62d0afc54af0ee556ad9957dbb357c35fd689d6efb149124ee1"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_03.png",
+      "bytes": 176015,
+      "sha256": "91f26534a39deadcbc133c89353d130d7afc13161fb23a7e3087b94eba87b65d"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_03.png.import",
+      "bytes": 949,
+      "sha256": "2cedda596b59ac6589076e03e124f8280dfaa55787eb03a797a2b07979b3f773"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_04.png",
+      "bytes": 177073,
+      "sha256": "cb7edef52de88cbf8fefd32b80fcb07b5a43b768cca9c51b8c7d6815ba1d4bca"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_04.png.import",
+      "bytes": 949,
+      "sha256": "61b75f22a0aba8a2edc4764919fb073ee35e8324651a6f4bc0d599f414ebe612"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_05.png",
+      "bytes": 180790,
+      "sha256": "6812e686f0b42656b63d4e1a5cede4f63f44727c65ed55d9ca25b49bf996f10b"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_05.png.import",
+      "bytes": 949,
+      "sha256": "24f635a1ca0e36660a6036fc9873e401b7eda869d5ee48b062efe7afceb8fedf"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_06.png",
+      "bytes": 180930,
+      "sha256": "402c512f9218ae55ebfc7e0c0e21bc25d2eeda0cb31399c1784d8354d6c68b45"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_06.png.import",
+      "bytes": 949,
+      "sha256": "4098cd5772834d0fc2f6fb26f9a0d7d0ddcf45e4f172a0ba046af3eb1b78d3e4"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_07.png",
+      "bytes": 174291,
+      "sha256": "5b9c79e16d2071e4a8ae348284f175b8c9bf0ad0386e63006fb4e36d4461665e"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_07.png.import",
+      "bytes": 949,
+      "sha256": "34b47a22d6b3a91331bbf9b82c27da5836412ac691d7af316afe9e57bf1f7edb"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_08.png",
+      "bytes": 177790,
+      "sha256": "a8d6964dd90c763665dd137e1f422b84e69c1e937e9849fbe64d19009fb20bcb"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_08.png.import",
+      "bytes": 949,
+      "sha256": "d1e367f8de698f7c0755cb104688c1cbf033734f8e70263d479cb9430b1dd57a"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_09.png",
+      "bytes": 175980,
+      "sha256": "1454eee67311a1120a0eaf7e8389a270dd5d358e2e770be20e0840430c1ad78c"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_09.png.import",
+      "bytes": 949,
+      "sha256": "6b5509b1ee2f96a769baa9f6e0e071254e32ccd8f17b648bf068bb4a7cae6825"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_10.png",
+      "bytes": 179271,
+      "sha256": "87f31b89314bc6d2fcdebd148d0c62df2213063a74ba87df17ce723463ee01e4"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_10.png.import",
+      "bytes": 949,
+      "sha256": "7d49aedab036976366f648f7451f96b9e090f8ddf029abfccdea7dad679651c6"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_11.png",
+      "bytes": 177360,
+      "sha256": "4c23a589c4facc9e258946cb8cd7405b8d4dd004ff3178f3d27bd0a02f0031d3"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_11.png.import",
+      "bytes": 949,
+      "sha256": "84580927f8fba00e67bf3990e08d7043a968c9bd6d4140e1c97db945f531cd8f"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_12.png",
+      "bytes": 181891,
+      "sha256": "52e2fe771b866760b8f2ea2f59b352a4b555493cf97d7461d38279834ed0d1ea"
+    },
+    {
+      "path": "assets/monsters/01_chomper/run_12.png.import",
+      "bytes": 949,
+      "sha256": "e9685d9a79ab375e132c0ee00dd762a290716593130bd82fc64749257dcf2eae"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_01.png",
+      "bytes": 195107,
+      "sha256": "d2bffb1fbb127ed18aef830ae2dfb0636711042e75f6d003f69fe5219914ec59"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_01.png.import",
+      "bytes": 959,
+      "sha256": "93d997849abc16f66e4d9bbdc5faed4a869b6af2cf7299afd01bd0cd938da09b"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_02.png",
+      "bytes": 200049,
+      "sha256": "00a69fc4b5c95163ba76d0008a7bb9120a6a78a64a68aebc8ca1d3aa9998301f"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_02.png.import",
+      "bytes": 959,
+      "sha256": "27419792de6c215513513de91b01d1c22ef6ae9b09d0891f761bbfc787c68acf"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_03.png",
+      "bytes": 212607,
+      "sha256": "d23be6e13ab40ea554e06efdfa26d64526fc24669fd6cd3fa88a7906ad527a25"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_03.png.import",
+      "bytes": 960,
+      "sha256": "c58ef2f92ecbedd73fb945e80ad78d02464213e2c4c40fc7683fa021c269dfba"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_04.png",
+      "bytes": 215363,
+      "sha256": "e760af500b971b8dd093ba5fe5cbf827638393603da6b4673f0791dddfde72f2"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_04.png.import",
+      "bytes": 960,
+      "sha256": "bda1753526071ab055593583f4016bf4aafc5242fe411317e0b13656d22d54d2"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_05.png",
+      "bytes": 202170,
+      "sha256": "650430ab5dc6a0c87b2dc49455d8a6bad67c73366572832f884beaccffda8fbb"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_05.png.import",
+      "bytes": 960,
+      "sha256": "6fc9adb42e62a8fa50f949e8f124805977e1a0c9a4dd260da90bdb641cf10550"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_06.png",
+      "bytes": 199201,
+      "sha256": "68663dcc2cf52f5d3eb222b427c95792793af6983af384aeffb7afba31e68a0e"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_06.png.import",
+      "bytes": 960,
+      "sha256": "7dde2f6d79479e6e8cfebe397a25d1ba79e4da1aeda3bb4c6ab620595ad1fb4e"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_07.png",
+      "bytes": 194452,
+      "sha256": "7f05b71a5928bee9fcff1cf3df65dac9f99366e81bd25b0b5e6df7d931b9b4e7"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_07.png.import",
+      "bytes": 959,
+      "sha256": "f59ea2d2cd79fc3169eb76a06ad08ee0c2cb7233ad416db5478ae22ade266f18"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_08.png",
+      "bytes": 179081,
+      "sha256": "11537f69e905d4e19838ffadfcf765b09e8300e77fa17972452adb7173f279e4"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_08.png.import",
+      "bytes": 960,
+      "sha256": "472009f1ba577d5f7ac131ffa2ea3d8c3af07f4dbe08457c99c120479932ce51"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_09.png",
+      "bytes": 171016,
+      "sha256": "ec9bec000529f345936e5dfc20ab963fc9f61fa7cb3a7f058338f43f02aa9685"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_09.png.import",
+      "bytes": 959,
+      "sha256": "6fe04973de67e339295ae0b5e2614fcbd326d491e60ee31fa49b2a53fb8adcb2"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_10.png",
+      "bytes": 192970,
+      "sha256": "98ddff4b23d2789f2ed0c6de9945d0b99d7a5f3e4fb99fbbb4be65efb88debe5"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_10.png.import",
+      "bytes": 960,
+      "sha256": "a3a1b9fc18ae26d5389ae75192c0ef41e5f3eb68c907e7b9a7cd37b74ad85208"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_11.png",
+      "bytes": 199489,
+      "sha256": "2d602ce18826f161854cacd65958fc4357ac6bb711562e6f410b72ef479cd711"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_11.png.import",
+      "bytes": 960,
+      "sha256": "4d9684a1e94a89f4e176a9539985f5e5a8195f363e7c8aba173b2af36474d208"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_12.png",
+      "bytes": 195709,
+      "sha256": "d27e1b4fba358ad17dfe1d19241d6eb0931d29ab9528fab3b1d4a8cbaf817abe"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/idle_12.png.import",
+      "bytes": 960,
+      "sha256": "c89f7703a2c0c0a625f967c8c056166ad674abaa072eef109aa01cad2962a1ea"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_01.png",
+      "bytes": 208858,
+      "sha256": "686582c92832e0e538a84516df1a15f8f7faac7d112569e143afbc637ab3f50a"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_01.png.import",
+      "bytes": 957,
+      "sha256": "f9a1d965866f6ef9148b823c90f9eab685f04720eae9dbcc2e7734709f5cd270"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_02.png",
+      "bytes": 202227,
+      "sha256": "cb1f631411a8434376c6a365811605e7bcba1659046eea82add9dd4b7bdc9fe2"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_02.png.import",
+      "bytes": 957,
+      "sha256": "afb8199f2f02d5f8483b3319695a293a7e040c5da54c1edb7fd17d7ca0f7bda8"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_03.png",
+      "bytes": 209743,
+      "sha256": "659cb67b86d74b6326e68c63d0721aaa55dca11fa02170bca29e8413b6ef26de"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_03.png.import",
+      "bytes": 957,
+      "sha256": "e876bb98d1f7ad72fc87e86987545fa1b200022369866c42c5e44b5ccf317d87"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_04.png",
+      "bytes": 217375,
+      "sha256": "b73f7f247a5be9ee88a357915ed738431f4b15b00829e601871e0438ad9a0fa3"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_04.png.import",
+      "bytes": 957,
+      "sha256": "d3d60c6e4dbc6e418111bf4bea86060620a8f8f420b28553f8713cacbf025082"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_05.png",
+      "bytes": 208988,
+      "sha256": "77f7a924d4eac4c125c72ab5a758ff5c64b8a213461c6cac238370969b3283f8"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_05.png.import",
+      "bytes": 957,
+      "sha256": "406d1a2cb7a7d5bb888dd251296d1970b59f27dbaac1b9bbcd5c3543d62858a7"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_06.png",
+      "bytes": 214596,
+      "sha256": "d52f363bbf46e200d74f312ae517ce50d87294ef23d3dc901e7153557110030d"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_06.png.import",
+      "bytes": 956,
+      "sha256": "ce24282ad404c14a4c0e278ea2b775728761a9bf4accd770d2d43c3fac01a074"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_07.png",
+      "bytes": 212280,
+      "sha256": "eb80beddbfca3555a4dfa599a4937d77c17723b6a39ad3571b8878ace1badb72"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_07.png.import",
+      "bytes": 957,
+      "sha256": "c41e43b3405ecf8c7f1e4e3be7eef552e596174352887ff082a577f7fdd0c19f"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_08.png",
+      "bytes": 204883,
+      "sha256": "7a98ec94a2b0ca787a4f8ad10c7a2e26b5e1afbccdc4888ecd176df4fd5f35e8"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_08.png.import",
+      "bytes": 957,
+      "sha256": "c08bfb5d70605b60797f20c89bcb6b5c65e577c0381004b1003d592e2994efd0"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_09.png",
+      "bytes": 206232,
+      "sha256": "12153f37a6dadaa5728ed6b6c0520818795157144cb0a7cf8821fe73f8cab76a"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_09.png.import",
+      "bytes": 957,
+      "sha256": "08f85b7ed7acb881d5ae9407af9e6756bf902cc56968201e6e6f0ed74c665339"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_10.png",
+      "bytes": 215805,
+      "sha256": "90baa8f5a1dcc377f2b7070f236884abdea5de3b6608752838b55c73cb12cd16"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_10.png.import",
+      "bytes": 957,
+      "sha256": "7fd3ddb8e80aadab86dd86612422c87917b265f1cf86351e8519d77d4462c4ab"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_11.png",
+      "bytes": 207662,
+      "sha256": "e8ff619b4c6187bc9dc99da74278b6863891cfa6110ae3824a45f6dccc327961"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_11.png.import",
+      "bytes": 956,
+      "sha256": "234850f17e7677137235f77ef06cc6b597fcba50836a4fbcdc53c6f7888540e3"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_12.png",
+      "bytes": 211498,
+      "sha256": "4aa26e3cdd0b58c224d04af586638dbf5b00373f76cd9ba09ebdd7acc465ba5a"
+    },
+    {
+      "path": "assets/monsters/02_three_eye_morel/run_12.png.import",
+      "bytes": 956,
+      "sha256": "763c23cf2594230a77cc25e186f3503cbf9b24910370c6799d9b9b927a3096bc"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_01.png",
+      "bytes": 152668,
+      "sha256": "40563dccc52edbaa8562fe1408aa302a409a1c32c77c543698118f8131134da1"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_01.png.import",
+      "bytes": 955,
+      "sha256": "f05e3317508246fe532ebc48a83d52ec01fa6e87cba08e383883912b7d2c206c"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_02.png",
+      "bytes": 150027,
+      "sha256": "43d173092b4f13ced0924b6b8c28fd5dbfcc3fedf9c6c38104feb75b25a0da3d"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_02.png.import",
+      "bytes": 955,
+      "sha256": "7d9ccc784f0d5f0251dbbea452ebd3aa54c537de6298b6d18f81e836ea3989de"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_03.png",
+      "bytes": 153085,
+      "sha256": "7f51c8f05d3fe362df0a9784e43bdc83151356f44f1cc0897714cbad5b0f3fd9"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_03.png.import",
+      "bytes": 954,
+      "sha256": "c9a48d9b40fb9a5c55b4979d5a09782bd988b4aa188bc5ffff8d1d1fa316036e"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_04.png",
+      "bytes": 151184,
+      "sha256": "62fca993e6ccaebed1ae3f3af2b263887cf3e0a26da94a2b2b28723bfc8de442"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_04.png.import",
+      "bytes": 955,
+      "sha256": "718fb63c6f107509571f455497689c4edb05f8f05d684d76118af830aad35013"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_05.png",
+      "bytes": 151842,
+      "sha256": "6c06ff36a4748d176d5e3dc109f80d719ba50f81453272d8d5351dc83206bb3c"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_05.png.import",
+      "bytes": 954,
+      "sha256": "c62ae871c0cb4417abe84e9268af25c27a2fb16b24204b57f4023855a6d35dfa"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_06.png",
+      "bytes": 153201,
+      "sha256": "7f38ac15075609e94e9a5c31410381fdb80764cf0bff07ef3622b6397207b5f9"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_06.png.import",
+      "bytes": 955,
+      "sha256": "a2c13cc2044facd8e3097998578f2f69fde5421b23a322d0a520404c54eda329"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_07.png",
+      "bytes": 153583,
+      "sha256": "d5982b1a48877400954e8965ccb3ddc8e60b5af088818be6ee68764c74ee8385"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_07.png.import",
+      "bytes": 955,
+      "sha256": "81b150947fd1a4ce7994c5265bddc402ad000294311ab6405889011e5c50c5b9"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_08.png",
+      "bytes": 151564,
+      "sha256": "0a32a2f26de5709c3e165162fe11b0ef6d50f5ef922d09e1f8bea685346041a5"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_08.png.import",
+      "bytes": 954,
+      "sha256": "7b87742b9bfaad7e5d7e1207568d04d373f4687ce1bc4394ca347b46ce154dd5"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_09.png",
+      "bytes": 154290,
+      "sha256": "3000e8472e66d608cd62cbdbaf5cfab004239f02be1731c142bb05602967719c"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_09.png.import",
+      "bytes": 955,
+      "sha256": "9d0658617238dc6d09559961fd3e73d53ea46bbec2f4c302122ff548c24b0dea"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_10.png",
+      "bytes": 153823,
+      "sha256": "5092a60a8684ad2ac86d677fd0a2ac7676457b55fb80b98a1bcc6ab405c5159f"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_10.png.import",
+      "bytes": 955,
+      "sha256": "0db0ceef2cc1d03bc3b5bd92f1e406252f0f4ba39ae220756e924f8455eeea87"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_11.png",
+      "bytes": 152757,
+      "sha256": "ca7f06c877c1754795bbd66a65c7414b2b3673c8891a9d905cb7777f9e5b1aef"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_11.png.import",
+      "bytes": 955,
+      "sha256": "715444afddca2514ae0c05b91b4879988d17c27156d3e6abfc0d3df80731f752"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_12.png",
+      "bytes": 154334,
+      "sha256": "fdaa9fa308b3adaacd846d8b684879e2788b5c660ebc19a597942f8fe630aaed"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/idle_12.png.import",
+      "bytes": 955,
+      "sha256": "526eda654babdd6dc09e30659fe24064fcc73ba3639e36fb1d53a5676ba20ebe"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_01.png",
+      "bytes": 168827,
+      "sha256": "d8723fe47a0857a0f0db9c5cf3de796988584f8d0be9f77bbbc236abe2f0493c"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_01.png.import",
+      "bytes": 952,
+      "sha256": "a395664f26ab9766aa0914fb550c17dc78ac37aebb1024cd66eb7eab6c7955b9"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_02.png",
+      "bytes": 165945,
+      "sha256": "405d0832b5217fb1482f54eb8982dc107f97aff3c4a2141a1e9d9784bf6b6c9e"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_02.png.import",
+      "bytes": 952,
+      "sha256": "bda6c50fa348aaf2c22b5f8f4f8e3bd6dd1c1a9751a6965182222777f9404ee0"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_03.png",
+      "bytes": 167874,
+      "sha256": "06edcac6d39d8fd557f42874af04a557a40cf414a9d4c67246049058beb09830"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_03.png.import",
+      "bytes": 951,
+      "sha256": "d26287bb596bbc8198609d3e8f8ac86385ca737a687046cac6d7014b4235ad62"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_04.png",
+      "bytes": 165599,
+      "sha256": "ba7da48024d741ac01aed18389fd6eb34034a969b57b0b87a5c30ee455bf6329"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_04.png.import",
+      "bytes": 951,
+      "sha256": "90ab35de8c35052b76e634d0bba8414bdb65db9a4932687f82a7b8aa1e312d5c"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_05.png",
+      "bytes": 165776,
+      "sha256": "74a21f947557d28d063ad7d54a0de7a61c4c6cef19b0a0b4ea102aa78f46e4ba"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_05.png.import",
+      "bytes": 951,
+      "sha256": "82a92a88916434f2bcf872691551d6d150becd7aca190221aedbbba8daf4ee5e"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_06.png",
+      "bytes": 168617,
+      "sha256": "065260e88830d6c9e0b6c7030ca09d4be40a86b8b172aea3f89f49220d8f2f71"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_06.png.import",
+      "bytes": 951,
+      "sha256": "a0c321ba79640902a8f6eb0bd74e7b2ef989775679759a8632a5bed318050213"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_07.png",
+      "bytes": 167053,
+      "sha256": "6a5df0ee281ca41cb9f6a97f5c0aa7376e2d79e38f8ffbc6ba379028c0543be8"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_07.png.import",
+      "bytes": 952,
+      "sha256": "895d549eadb0241fbde5d31e63caa41f03944bfcc51523766937e8cc2fe1f608"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_08.png",
+      "bytes": 166993,
+      "sha256": "b4a307054c6b730970b711ab590536b73255b11c668e20371aa3978ea1de2b3d"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_08.png.import",
+      "bytes": 952,
+      "sha256": "5d69d49241cf7ca897243a36869a39daeb302a5da9ab31ad28654e8b5d4b731f"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_09.png",
+      "bytes": 166758,
+      "sha256": "f990d703f9eb770dc5863baa40ae21d6ac2f1daf97043e794cfcb92c99121ddf"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_09.png.import",
+      "bytes": 951,
+      "sha256": "bebc2d266654e0e580af64e56d4d4343288d07bbc01e7fc5eedb37af327e0d0f"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_10.png",
+      "bytes": 166828,
+      "sha256": "e65c6cfc49b2fbcda994016749a1e136e29b2d3e615c9ede583209a52d177a36"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_10.png.import",
+      "bytes": 952,
+      "sha256": "8aaa9c358dbbf77dd1c8d7d3c795952910a5cacd1e60261983a067c1f139fc93"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_11.png",
+      "bytes": 167632,
+      "sha256": "f27b0aa27ab16e185d1c7419d166557eba15623bf2c8aa1f9e92bd4e078c27af"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_11.png.import",
+      "bytes": 952,
+      "sha256": "9fb59561ea7d6c9015efb731d2e8df49a14d46d632423ebb58a383422f6d2580"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_12.png",
+      "bytes": 169252,
+      "sha256": "62cd51cd0432f21c04cd51d5008780e970e4ff063763ca1f989fdf6013f1e231"
+    },
+    {
+      "path": "assets/monsters/03_bell_toxin/run_12.png.import",
+      "bytes": 952,
+      "sha256": "d486fd46fc818c5bca33c09a1df6a67bbd4dc1832bf198c4635806c6f644cc77"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_01.png",
+      "bytes": 166385,
+      "sha256": "9ffa4389c4f5b4a0f5a7fad961fb5045d3336a460e6514e2b79ca67af41ac1eb"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_01.png.import",
+      "bytes": 953,
+      "sha256": "5c66da783bbc728c29afd884cbc15a67dd023d0fea9e3727968a33faac584991"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_02.png",
+      "bytes": 164444,
+      "sha256": "d04d973d68fd7e3e742c7363aadfcfe1dfad51f375c4f72d84328ce489a3b987"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_02.png.import",
+      "bytes": 952,
+      "sha256": "b9c4260a3df745b543ffab5c66e216c710f589ee1ecd55aeebcbe920e09f187d"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_03.png",
+      "bytes": 163068,
+      "sha256": "a9f7a6b20ae6fec54984ce38536e13967e42f837f8f59be51b8349ac6b98137e"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_03.png.import",
+      "bytes": 952,
+      "sha256": "ffd7c95137124fe65a205e8658b19c1c2e0d03034630c44c1e48a9e2c47e55a2"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_04.png",
+      "bytes": 171000,
+      "sha256": "6d2ff0c3fa76bbf28d113774dc5cf649b6dc30bfa396d452aeac36d7279f1f50"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_04.png.import",
+      "bytes": 952,
+      "sha256": "81fe22e7f9872302f503181227b96706130b6c8dc07bd8f152e5bca4ca9bbcc7"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_05.png",
+      "bytes": 168866,
+      "sha256": "45e30cb77506623a89f960e7af6606dfa9e592d5e0eef33b6fc9403dd03ec918"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_05.png.import",
+      "bytes": 953,
+      "sha256": "74690e5618b4f9a6cef4cf6c64fd8466307784efa50701d99c8913539fcc92a8"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_06.png",
+      "bytes": 166688,
+      "sha256": "75350bbc4a1425bf820db253fc0baa0af8fc1226f319a63ff35b5d0eb7afca45"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_06.png.import",
+      "bytes": 952,
+      "sha256": "beb435052bd53fcbd459777317271dcf612924fac028ef0825cc34fb14fd57e9"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_07.png",
+      "bytes": 170801,
+      "sha256": "d87839e9036fbdeb90bb97e7b94fc19f9afd1c612c2bc1fe78081bc9c8e0a9b0"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_07.png.import",
+      "bytes": 953,
+      "sha256": "a0d83303b3bf17f74aa1527b5d037fde58d1cf2a2c7fb60606a544c4ff09fad9"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_08.png",
+      "bytes": 165027,
+      "sha256": "45032858c16969d1fa98c672621744f0f579d3f8d7171299d38341328408d23a"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_08.png.import",
+      "bytes": 952,
+      "sha256": "703e601a4a77f4bab6a6aff405ad72cdde8c629deb88d46e3931ced785af07ce"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_09.png",
+      "bytes": 169394,
+      "sha256": "64139483dad4730a9cd92800f55aa842b49c4f121f47b0e4cafcd1930a372265"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_09.png.import",
+      "bytes": 953,
+      "sha256": "545d089010c4f89991bb300b64c1b1d3b27898b7d4d5fb125d27462265de698c"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_10.png",
+      "bytes": 169138,
+      "sha256": "ce8acdc6139f1cf68846e533caf63300cfe5785f48db596a0f78375ac6052f63"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_10.png.import",
+      "bytes": 953,
+      "sha256": "a45627193b4792a137ce3b6a972d4c147081e4b5579437847dc2886f42d4c813"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_11.png",
+      "bytes": 164257,
+      "sha256": "0e09dd3b19abc26fb6c5cb096c1da64a6c2def1f884559651bba2e885871697d"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_11.png.import",
+      "bytes": 953,
+      "sha256": "b2c2aa1a031bfa0c18ba5c2ce44bd5ffa7bc457d5cf0400d8b3e6a315ce2dd84"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_12.png",
+      "bytes": 166753,
+      "sha256": "2693251fa87e088f41751dd81f2b29ca56e8a477c0a577f7e89fc1464935c0e2"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/idle_12.png.import",
+      "bytes": 953,
+      "sha256": "6f86a2534d76fb3796132001ad786de901e17752ee4a7f57f0fe62bc5b7fd88f"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_01.png",
+      "bytes": 187962,
+      "sha256": "d0ad27bd177382b3aff97b5815458e1e7dea7256492dac91954a8abf878c649c"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_01.png.import",
+      "bytes": 950,
+      "sha256": "6f0e44ee3ddd2c19d2b172c3fd0bfd279c9cf4cdea5993ebd16575b822df5446"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_02.png",
+      "bytes": 179813,
+      "sha256": "8264d3b437a88d3899b3e3a550d3cd58acdf05b62c93b85b60f3a061002354a5"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_02.png.import",
+      "bytes": 950,
+      "sha256": "87ed6f34b9c63f66d174c4fe7d3fa6ff3723fc1d1ff0a12139818aa5d951467a"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_03.png",
+      "bytes": 185576,
+      "sha256": "aa5f7f22a664902f8194611aee2cb1ae8a354d43748889c44cd5a3cf8827d1aa"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_03.png.import",
+      "bytes": 950,
+      "sha256": "6104fc5bb9bd0b5f99d869dbb25b105e6ea952f5c7ca9aa5f8a5ab5a9d28e766"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_04.png",
+      "bytes": 186450,
+      "sha256": "c0da67054936bc0be150bf03a93934e5637a197f46e3998ea261544989384c7b"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_04.png.import",
+      "bytes": 949,
+      "sha256": "4e4e4dcdc4e085f793aeb2d0ae60349c5bdbec61acae94ab03b09480f57847b8"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_05.png",
+      "bytes": 187526,
+      "sha256": "a8d1e5179c2b28e3b58ced55fc9837aa8020777c44f0fab7b5b6b4870a34a15a"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_05.png.import",
+      "bytes": 949,
+      "sha256": "1099ade7d7691ee4d2b7b22eadf69e97298342891bd9ec1e357209292a5087f6"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_06.png",
+      "bytes": 189089,
+      "sha256": "d02ff22bf8db75b0ab02ca1e0d836a1d863a8b96d07862becec775a71dde35e6"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_06.png.import",
+      "bytes": 950,
+      "sha256": "9f16972aaa8b782abb528efbe3c26dcd13eafefa430bcff9592d6802ceefceb9"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_07.png",
+      "bytes": 187084,
+      "sha256": "23e3d89e0e2895af3c51a52676811fa79051a8095900bbcb3bf9cf2a66464dc6"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_07.png.import",
+      "bytes": 949,
+      "sha256": "f57ae8563157f447f251c12b51bff3d6b95d8a6326775b59e573549eb2b38c6d"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_08.png",
+      "bytes": 183895,
+      "sha256": "23a037e7e1ecea392daf810e662de1934963a51f3cc4f40903b14ba6e1c390f7"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_08.png.import",
+      "bytes": 950,
+      "sha256": "fbaaf0488f5f350c8c256b7b07a826e91b5809b1177b464da7f18b98fb7f6def"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_09.png",
+      "bytes": 184087,
+      "sha256": "a9ed2d88e74b55e77475fa9ca52d10ab3b8ef98a3864d0539b93b3c8d87dff3f"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_09.png.import",
+      "bytes": 950,
+      "sha256": "a569015eb2a88f6e2affc346463f3639f885675cd4ff7fe128c8a7db3b495277"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_10.png",
+      "bytes": 192120,
+      "sha256": "1bfb854cedd4a26459758460ae202de17c20eb8a75981d3326914a451adf8bb0"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_10.png.import",
+      "bytes": 949,
+      "sha256": "f1a57e053d89cbd86cf5b20d2f04e9a84d05237c0342a051bc3a16792e41024e"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_11.png",
+      "bytes": 190026,
+      "sha256": "11e5f1b9187841ff1385a3feef8b2c8688df290e254a1c177e08efd5c7dabaab"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_11.png.import",
+      "bytes": 950,
+      "sha256": "8ef5a3351e59af13c0bce208970b47ddb35148a5aa934b78b7ae631730b9c86d"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_12.png",
+      "bytes": 190664,
+      "sha256": "186cec93d4eb2a33fe29618175e3a0afa160c5b1c5f4fe8c1b941251d67d025a"
+    },
+    {
+      "path": "assets/monsters/04_curl_hat/run_12.png.import",
+      "bytes": 950,
+      "sha256": "373e272ee3c54e9e8dc9622bb30932cd5322326ddb6dca6e018ce37cf616dc0a"
+    },
+    {
+      "path": "assets/pickups/mushroom_coin.png",
+      "bytes": 320068,
+      "sha256": "e9cb6416464a66fc467a77b4e3a69c5aa36bbbd78e1974feab69093e809567fc"
+    },
+    {
+      "path": "assets/pickups/mushroom_coin.png.import",
+      "bytes": 958,
+      "sha256": "3fea9bd509ed8b6c1e70a118ad33f7435b465f7bde1b207be7053c16d1adc6f5"
+    },
+    {
+      "path": "assets/player/idle.png",
+      "bytes": 170368,
+      "sha256": "1066471231bcf92e5a643b95b9b9840e0e095a766cc6419d3642fdbcb2089e75"
+    },
+    {
+      "path": "assets/player/idle.png.import",
+      "bytes": 930,
+      "sha256": "d9e43967644aab8ee11658e9f82bc98b58516234ab19a3542d977f2ea5c7b70c"
+    },
+    {
+      "path": "assets/player/run_01.png",
+      "bytes": 157670,
+      "sha256": "24af27d6e073d91cf409fad35fb30b921f7e1f6683abbc6d171f9bd079e09af5"
+    },
+    {
+      "path": "assets/player/run_01.png.import",
+      "bytes": 936,
+      "sha256": "d5d2470b55652b2f6b2341c6974bcb1a6452076325c7b640b0ce641a3e39ccc9"
+    },
+    {
+      "path": "assets/player/run_02.png",
+      "bytes": 154776,
+      "sha256": "7f353696ae139b7631cc7df58568c04668e8afa66ac2685911b151aac3a8f99b"
+    },
+    {
+      "path": "assets/player/run_02.png.import",
+      "bytes": 936,
+      "sha256": "6d835d86c8d261cf9b47f2ab60f6f5a4c90a14204357ad7c28e9c2acc3cdbdc6"
+    },
+    {
+      "path": "assets/player/run_03.png",
+      "bytes": 153684,
+      "sha256": "a9e13667e9bed4a3c5d86dacb28d1a99636dd67d74bd95e421e50d0050ab7a68"
+    },
+    {
+      "path": "assets/player/run_03.png.import",
+      "bytes": 936,
+      "sha256": "7336897623e7e90e638bbd5c5e6a7b7ba30ce2fbab7d821bf97a8d6c93420a15"
+    },
+    {
+      "path": "assets/player/run_04.png",
+      "bytes": 143393,
+      "sha256": "3372579c5ae3b33de13ffedb67c63a9e6c9c8f563e8eaab0ce6204159c6c8a1c"
+    },
+    {
+      "path": "assets/player/run_04.png.import",
+      "bytes": 936,
+      "sha256": "74bccee21e44cc32de5e449b9e10c63ac656c1aafcb26889943288a969de999d"
+    },
+    {
+      "path": "assets/player/run_05.png",
+      "bytes": 161770,
+      "sha256": "181865f13e854388482b67d98e209d6001aad30d21ead1f4e75cc39388cb4895"
+    },
+    {
+      "path": "assets/player/run_05.png.import",
+      "bytes": 935,
+      "sha256": "beffb7869bd0152bbd0cb60f90c9847c1a54ab8beb568ff276682a01ca46e368"
+    },
+    {
+      "path": "assets/player/run_06.png",
+      "bytes": 155209,
+      "sha256": "1b46fc3389e6544537a47e8b540702095cd64a5e87ebedf5cceaa44c17fb440a"
+    },
+    {
+      "path": "assets/player/run_06.png.import",
+      "bytes": 936,
+      "sha256": "38c2dfb66b06fbfeeb880b03f64d91c4101dd696392210b0650fd61d6a5d72e2"
+    },
+    {
+      "path": "assets/player/run_07.png",
+      "bytes": 153017,
+      "sha256": "ad1d9521c1ecd7b6cb465bd4398bd21cf533bdc1774b3b3f64ca54c14c4952e0"
+    },
+    {
+      "path": "assets/player/run_07.png.import",
+      "bytes": 935,
+      "sha256": "4c77d6d13c54a86aac89455b7ebf97f688da6efc7a357200d57f163c4ea7f547"
+    },
+    {
+      "path": "assets/player/run_08.png",
+      "bytes": 146477,
+      "sha256": "73e241f453d7b9c46237392b1341a97ef1e032b9b4bd7e04e2b43957245f2d69"
+    },
+    {
+      "path": "assets/player/run_08.png.import",
+      "bytes": 936,
+      "sha256": "ff30caa63bfac274f1cce677b8e87a5b6fec5b6d4bc835a0b136e00a4707d8df"
+    },
+    {
+      "path": "assets/props/11_tall_reeds.png",
+      "bytes": 341019,
+      "sha256": "2ec5f48419f6ad28eea2e5f08bda081c7efc6429d6b13f7c1f90941969738854"
+    },
+    {
+      "path": "assets/props/11_tall_reeds.png.import",
+      "bytes": 956,
+      "sha256": "9caea3cf58d4bd4f1ed5a765d048b73237eb09eb2f156566768837ce59f0e9b1"
+    },
+    {
+      "path": "assets/props/12_grass_bank.png",
+      "bytes": 430764,
+      "sha256": "968feaea409952f69cb0a704e58b0b651ba7cb66f25ae9a743e7f5ccd0ed7754"
+    },
+    {
+      "path": "assets/props/12_grass_bank.png.import",
+      "bytes": 956,
+      "sha256": "f585472fa826d72e21661254b7285a4699c4c5840a60c21b6a44fd3220caae08"
+    },
+    {
+      "path": "assets/props/13_fern_skirt.png",
+      "bytes": 458311,
+      "sha256": "27e20392538134d91dcfc7504e344d2127adbe03e802e66f777fba821ccc5a14"
+    },
+    {
+      "path": "assets/props/13_fern_skirt.png.import",
+      "bytes": 956,
+      "sha256": "aa8d14dca1d85706051f6c451f1b59168fe35b17cde5fda2ce55f630ca7353d1"
+    },
+    {
+      "path": "assets/props/14_terraced_bank.png",
+      "bytes": 264525,
+      "sha256": "6f622cebe333a3dcea92b1d266e9a57339dfebef0e1f38f6f0a07ee682d885a3"
+    },
+    {
+      "path": "assets/props/14_terraced_bank.png.import",
+      "bytes": 965,
+      "sha256": "788ca250398479f483fedbc0729dcf09117e1a3ed53817fd977ce11f3eb047cf"
+    },
+    {
+      "path": "assets/props/15_curved_verge.png",
+      "bytes": 203920,
+      "sha256": "34b0d9ccf16114d2f3577c820cff96b25f3f2493e3ad91cb6060c26faf8bcea7"
+    },
+    {
+      "path": "assets/props/15_curved_verge.png.import",
+      "bytes": 961,
+      "sha256": "7c3ad1a7c5e4edbf4005fee672d66fb7d430240be9f7880bf3cde487188d06b1"
+    },
+    {
+      "path": "assets/props/16_grass_hummock.png",
+      "bytes": 467717,
+      "sha256": "4b6bccde69d98372770d9f45f60f4558b09641a7551c172efd11deb160683d77"
+    },
+    {
+      "path": "assets/props/16_grass_hummock.png.import",
+      "bytes": 965,
+      "sha256": "37d549a87d205f98af23632d16b52e76a6449eee219db1069926b39f7d105a02"
+    },
+    {
+      "path": "assets/scene/background.png",
+      "bytes": 2195706,
+      "sha256": "87e67154c56ad602192a6a81057e95f8a7eba2a60325d7d3fb40a8cef1deb681"
+    },
+    {
+      "path": "assets/scene/background.png.import",
+      "bytes": 947,
+      "sha256": "642405d41c589fa214636ddae85658bcb12c362410baed1baa157cebf64a67f9"
+    },
+    {
+      "path": "assets/scene/canopy.png",
+      "bytes": 2776270,
+      "sha256": "31ad1d3baae73ce9b9c52980474a730fc03279d7155e2af0b4f67f63f2a732f4"
+    },
+    {
+      "path": "assets/scene/canopy.png.import",
+      "bytes": 935,
+      "sha256": "187a61279f8c91765717d21feff7d2e8dc396d3ac3faa5743d4fbd8df3210ae4"
+    },
+    {
+      "path": "assets/scene/checker_grass.png",
+      "bytes": 1810988,
+      "sha256": "8a0fdff1378869da444519066790417b9df2575e9d8acf228ca386edb4b43405"
+    },
+    {
+      "path": "assets/scene/checker_grass.png.import",
+      "bytes": 956,
+      "sha256": "8d3846ad24fbf81a6f907d3f4400ded6ad58c482fc8ad55d6955381d6b5900de"
+    },
+    {
+      "path": "assets/scene/distant_fog.png",
+      "bytes": 1504220,
+      "sha256": "cf08852793dd72ede4c4d6b803b4b3e0d5804b7250e0064c7c2827e9971ae1e8"
+    },
+    {
+      "path": "assets/scene/distant_fog.png.import",
+      "bytes": 950,
+      "sha256": "1dfe481802d7b456b27068f3a5a55ca789862ed120412797640e9955ed2dcb62"
+    },
+    {
+      "path": "assets/scene/grass_contact.png",
+      "bytes": 350590,
+      "sha256": "6de7f4d3aa5443b8447e19295b2e7bb13fc310b1a66db243dbed7da5778b5e0f"
+    },
+    {
+      "path": "assets/scene/grass_contact.png.import",
+      "bytes": 956,
+      "sha256": "d8dea47e846785977d9fea1714da040093e98dada7d19244374d1682ed72817d"
+    },
+    {
+      "path": "assets/scene/meadow_grass.png",
+      "bytes": 1340151,
+      "sha256": "621e04c20be0133593ff77b46ce315e04f2ef33ff70e59688feed47736e20697"
+    },
+    {
+      "path": "assets/scene/meadow_grass.png.import",
+      "bytes": 953,
+      "sha256": "59a0b6620f63ef35b9dcd9ff35bc1557b87315928394329a57b0958dda0cd9ea"
+    },
+    {
+      "path": "assets/scenery/01_low_grass.png",
+      "bytes": 563129,
+      "sha256": "d27ad28d207d73faf8ddd25cf0e00d2fe485806de4528b6fad5ed5d3ec6bb889"
+    },
+    {
+      "path": "assets/scenery/01_low_grass.png.import",
+      "bytes": 955,
+      "sha256": "b83844bcf46dcadc8848c75126956bfe30ea3242c34d265c6d3ba37877afaf1b"
+    },
+    {
+      "path": "assets/scenery/02_fern_bush.png",
+      "bytes": 866814,
+      "sha256": "40a6299a25e7d1669bee818ab54d0c52ea3781a9a6ba14131f8d166dc0810f97"
+    },
+    {
+      "path": "assets/scenery/02_fern_bush.png.import",
+      "bytes": 954,
+      "sha256": "fca8964f74bf19d60e0e7a9b1b13ddff1a3bba9e76c2208c8436cddc129d9bb1"
+    },
+    {
+      "path": "assets/scenery/03_broad_leaves.png",
+      "bytes": 865313,
+      "sha256": "1d1e8e0895e26d4891c82de35c40c35319c610c2d4facd639730fe9e2bdc4761"
+    },
+    {
+      "path": "assets/scenery/03_broad_leaves.png.import",
+      "bytes": 964,
+      "sha256": "4c30063a3f10da01a0f18f7d1a24646245b86b4aa12be80b87d293b22ffb1bc3"
+    },
+    {
+      "path": "assets/scenery/04_twisted_tree.png",
+      "bytes": 515944,
+      "sha256": "5362806c7d0cb5ce84b2add6892aaf2ee26acd5df6f9f0d830e0498684b05728"
+    },
+    {
+      "path": "assets/scenery/04_twisted_tree.png.import",
+      "bytes": 963,
+      "sha256": "135b4d2004e5955e53782326b01b0cd38632b4d2916ef95eb809f723ec460516"
+    },
+    {
+      "path": "assets/scenery/05_round_crown_tree.png",
+      "bytes": 784485,
+      "sha256": "dbf3e6bbf6e246e5f54a6f9e426b0e56d0ede5c8dabd5fd09a786059307bf090"
+    },
+    {
+      "path": "assets/scenery/05_round_crown_tree.png.import",
+      "bytes": 976,
+      "sha256": "79dd1d0dbd1518ebb4c0719279f1cb3b9ab483b4dad96a1ad48f9dc1ec0fb4ba"
+    },
+    {
+      "path": "assets/scenery/06_moss_boulder.png",
+      "bytes": 679105,
+      "sha256": "b733e3c7cbcd7c865f72420dc22bfa4b7de52190d17ae06b9a03e980b5dc57bb"
+    },
+    {
+      "path": "assets/scenery/06_moss_boulder.png.import",
+      "bytes": 964,
+      "sha256": "4d9c1cd9bcda89c9e3a6029532a621e787481aa846d9a72bcf2bd4b2537c0903"
+    },
+    {
+      "path": "assets/scenery/07_three_rocks.png",
+      "bytes": 650136,
+      "sha256": "15892e394421b61b7a9644a1ce8a27fa8f9f37ab091849d71a0d118197611392"
+    },
+    {
+      "path": "assets/scenery/07_three_rocks.png.import",
+      "bytes": 961,
+      "sha256": "59cba0175ab50077c19e683ea44f1d0bdf261068115755bd9f996320eebc33c4"
+    },
+    {
+      "path": "assets/scenery/08_upright_stone.png",
+      "bytes": 740888,
+      "sha256": "fd2d1f111fe0bba7b880bd8507ab8e6318dee817e5d8f887ca5724bed9f65c21"
+    },
+    {
+      "path": "assets/scenery/08_upright_stone.png.import",
+      "bytes": 966,
+      "sha256": "7106a9ba508c0e708bc9df23bedc893c23f0506fa338f36b246ad1d135e7cfc8"
+    },
+    {
+      "path": "assets/scenery/09_hollow_stump.png",
+      "bytes": 627173,
+      "sha256": "499b3b95cbb4401457f5a2fc1df23ad34a48784940dec5a16e45e0ab9d31fc98"
+    },
+    {
+      "path": "assets/scenery/09_hollow_stump.png.import",
+      "bytes": 963,
+      "sha256": "e17b3971faa292e0324506754352f2e1d6f1716e554036058104084479723903"
+    },
+    {
+      "path": "assets/scenery/10_curled_roots.png",
+      "bytes": 563119,
+      "sha256": "fd5bbbab855faf4511890f61c708bd4211ad7199861c642e3536988e1375fb57"
+    },
+    {
+      "path": "assets/scenery/10_curled_roots.png.import",
+      "bytes": 964,
+      "sha256": "338fb1e183d563c29c278d38394a519ea540446b8d58f7c66af03f55f5e285b9"
+    },
+    {
+      "path": "assets/scenery/mushroom_01.png",
+      "bytes": 1509625,
+      "sha256": "7c474e0e92fc4ddbd489cb836f8505371205e95c15b1c6fd29eabce79306b131"
+    },
+    {
+      "path": "assets/scenery/mushroom_01.png.import",
+      "bytes": 952,
+      "sha256": "8e3a51f95edd598bb8ed66a75e7c2df28e8c8bdfcdc3e19dd94892f69df70941"
+    },
+    {
+      "path": "assets/scenery/mushroom_02.png",
+      "bytes": 1103522,
+      "sha256": "50d9a239af431d68d010b1f13b13ac6b5cbdbb80868f0a1bb2abff0073d2eef3"
+    },
+    {
+      "path": "assets/scenery/mushroom_02.png.import",
+      "bytes": 952,
+      "sha256": "86b27377b174571acd5667c700b7177f92652ea6970e98dc464a7e81352deb72"
+    },
+    {
+      "path": "assets/scenery/mushroom_03.png",
+      "bytes": 877226,
+      "sha256": "1ce6ffc1300a70cd1ff3450133957138f29ade25a9d1c226c3569e36cc898900"
+    },
+    {
+      "path": "assets/scenery/mushroom_03.png.import",
+      "bytes": 952,
+      "sha256": "d09967a1ac68a608468505cf6519e0e9078973c07ea059f13613b9901f639683"
+    },
+    {
+      "path": "assets/scenery/mushroom_04.png",
+      "bytes": 873796,
+      "sha256": "b49cee479e966fa47cb0ebf5fb3f2a751e489595210d0c123c9b20bcadc1cc55"
+    },
+    {
+      "path": "assets/scenery/mushroom_04.png.import",
+      "bytes": 951,
+      "sha256": "22904ded5f8f775b94578060bfa00734ef270dac0ac7b88fe07a4f84b3c70f4f"
+    },
+    {
+      "path": "assets/scenery/mushroom_05.png",
+      "bytes": 1491146,
+      "sha256": "450397cf40c98a494351cdd4b821971702a981d3b07553865ab1b32fb1ba9e61"
+    },
+    {
+      "path": "assets/scenery/mushroom_05.png.import",
+      "bytes": 952,
+      "sha256": "9420f5262f3fd66f7ae7213e53ccd3488e76b30c0c93845530f37e3a331c10f3"
+    },
+    {
+      "path": "assets/scenery/mushroom_06.png",
+      "bytes": 843518,
+      "sha256": "0f777cbc1fdbede5cb0c0a67837601501d2d0e6d11ff288f40cd787f632d8977"
+    },
+    {
+      "path": "assets/scenery/mushroom_06.png.import",
+      "bytes": 951,
+      "sha256": "1afb5bd64d7e5daf454feeef242e23b5cd1f8e53dcfc80111cce7eedcc57b631"
+    },
+    {
+      "path": "assets/scenery/mushroom_07.png",
+      "bytes": 1045617,
+      "sha256": "2d9091944422802dc3456b41a6d4d44362664744fcd2b7b259a4db77741b2bc0"
+    },
+    {
+      "path": "assets/scenery/mushroom_07.png.import",
+      "bytes": 952,
+      "sha256": "c3fb9acbc748ae601855622b24ab949a62529b63dccee90150617e1cdb6d02ef"
+    },
+    {
+      "path": "assets/scenery/mushroom_08.png",
+      "bytes": 893096,
+      "sha256": "c42e9a99a669104613b8ecde47d9bc6331bcc0ae442713e33996ee41410fbfa4"
+    },
+    {
+      "path": "assets/scenery/mushroom_08.png.import",
+      "bytes": 951,
+      "sha256": "0cb5ba5323603e5e5aad6962bcbee43663a008e411ae271de7f42991e4de06af"
+    },
+    {
+      "path": "assets/scenery/mushroom_09.png",
+      "bytes": 1003844,
+      "sha256": "f7f311663eb8085fcc24d242f1ae094b7b459ac5fa4140add8d3c74cd4dbad25"
+    },
+    {
+      "path": "assets/scenery/mushroom_09.png.import",
+      "bytes": 951,
+      "sha256": "33c50bb0d269feb97ae7691f6a425e1afa1b2b6388c6392130231e1f4103b078"
+    },
+    {
+      "path": "assets/scenery/mushroom_10.png",
+      "bytes": 799482,
+      "sha256": "e7844b0ee8233236016fb3776ba06e4a3e28ccddd4d907a1fee5bed31b9f0307"
+    },
+    {
+      "path": "assets/scenery/mushroom_10.png.import",
+      "bytes": 952,
+      "sha256": "e3697b94fdd68256c6a0d6059ba69da239eb16eaa92982db8860546965517150"
+    },
+    {
+      "path": "assets/scenery/mushroom_11.png",
+      "bytes": 1035372,
+      "sha256": "44bf533c28ebdfae5d3fa4129ecae3829707a1f235ec8cb0e17dc2c425542398"
+    },
+    {
+      "path": "assets/scenery/mushroom_11.png.import",
+      "bytes": 952,
+      "sha256": "a9bb1e14e2de452577c7caa21aadf232a27bc3d81cc522e5632396b04ad61bc8"
+    },
+    {
+      "path": "assets/scenery/mushroom_12.png",
+      "bytes": 1319086,
+      "sha256": "e74ccc81215bcef453a89bf4e8351032b3cddb38bfe9e7fbbd00c27fc5f19bcd"
+    },
+    {
+      "path": "assets/scenery/mushroom_12.png.import",
+      "bytes": 951,
+      "sha256": "e7fbf7e93bf8c20e81e5c6907439953e4126a521911f898678378e5926276859"
+    },
+    {
+      "path": "assets/ui/failure.png",
+      "bytes": 1524198,
+      "sha256": "7ea0158b33980e9071d8d4ece477e93fe15f54e04281820f68a5334b3d9ccba3"
+    },
+    {
+      "path": "assets/ui/failure.png.import",
+      "bytes": 934,
+      "sha256": "83242ece7970050f2c7d18f3c61381e373f869541cc27772f31cb890075b65dc"
+    },
+    {
+      "path": "assets/ui/frame.png",
+      "bytes": 3614391,
+      "sha256": "3a3ea6b56c4f94b53fa8e6ec429e63d6455c3bbc9e6f8ef72632ac3afa66035d"
+    },
+    {
+      "path": "assets/ui/frame.png.import",
+      "bytes": 929,
+      "sha256": "3eac426400a2947eff278bf9b2afec657a3a1bdfe915036a4f3aee004bbc6f62"
+    },
+    {
+      "path": "assets/ui/start.png",
+      "bytes": 1570886,
+      "sha256": "7f1e21bd9a0a1a733a02a263a797e2fe4ecb29e47d2ec6777e7c066f47c4bc85"
+    },
+    {
+      "path": "assets/ui/start.png.import",
+      "bytes": 928,
+      "sha256": "19af5079a1c62baf36c2cd8bf0221a645a3c10dde90678c9b086d1ca31449b36"
+    },
+    {
+      "path": "assets/ui/victory.png",
+      "bytes": 1626895,
+      "sha256": "a75a91c598388a90ab17c9f44bf913ae25845570e3f55d5d4439284cfbe5448e"
+    },
+    {
+      "path": "assets/ui/victory.png.import",
+      "bytes": 935,
+      "sha256": "ed162e4c0ea4d30cac91cd2abd95f7a4b59d67a12340988da1b4301e364a346b"
+    },
+    {
+      "path": "audio/coin.wav",
+      "bytes": 11510,
+      "sha256": "2969757e8c467b54be8c80ba6e8936a56b873cc71ddc9d1a2ae4c3019196d7bd"
+    },
+    {
+      "path": "audio/coin.wav.import",
+      "bytes": 476,
+      "sha256": "fdd64255a6c931527ae227e840aaec289311e43b22e2789d152fdcb95f9570e4"
+    },
+    {
+      "path": "audio/default_bus_layout.tres",
+      "bytes": 181,
+      "sha256": "7fdccebd14680993160fe3b28b654042244f700d3989bd8d0e1ba66063adabd5"
+    },
+    {
+      "path": "audio/failure.wav",
+      "bytes": 44586,
+      "sha256": "5c8254b5dae810a7cb3fe2728d013f7fd22dc931f9a960496f95bd32889c44e5"
+    },
+    {
+      "path": "audio/failure.wav.import",
+      "bytes": 485,
+      "sha256": "ed2d48f973afab061326e286919630dac7d7685cad86899113910078b684efa7"
+    },
+    {
+      "path": "audio/forest_run.wav",
+      "bytes": 1365722,
+      "sha256": "6251336c91327c9d7a94293879319ad6a6e120b5bfaa95d9f367866e48b6835a"
+    },
+    {
+      "path": "audio/forest_run.wav.import",
+      "bytes": 494,
+      "sha256": "a75472974912eef1c680ad65108eeeb7270978525aedafa1ebd5d05051cffd13"
+    },
+    {
+      "path": "audio/jump.wav",
+      "bytes": 13274,
+      "sha256": "b9d85f760601d16cd4e5324a18435bcdaa2ae6a32c07103f4c8157731a37681f"
+    },
+    {
+      "path": "audio/jump.wav.import",
+      "bytes": 475,
+      "sha256": "5d00e4f4e5744f64e1a3af2aa3740aa187a792749faf9022dfdb8521ac4e157f"
+    },
+    {
+      "path": "audio/victory.wav",
+      "bytes": 55610,
+      "sha256": "f70cb9272f51c02297f66db93c981b6fe8eac5fd1afb8cdb80ce94bc40ef74aa"
+    },
+    {
+      "path": "audio/victory.wav.import",
+      "bytes": 484,
+      "sha256": "09e452ba8b67bfa00f76ba6a55d83e350894703c58fc425459f28a0b8fc33c0c"
+    },
+    {
+      "path": "audio/音频说明.json",
+      "bytes": 600,
+      "sha256": "cc167b442e85149f33cfd482cab84eca2e411aa8ee939863e5f6cc290a7f0446"
+    },
+    {
+      "path": "previews/.gdignore",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "previews/250米漂浮蘑菇预览.png",
+      "bytes": 1422581,
+      "sha256": "45ba97ce2af069d698acd022e8368dabf71cc72ad48bd855cdfe16e771532b1d"
+    },
+    {
+      "path": "previews/六种草地过渡总览.png",
+      "bytes": 451228,
+      "sha256": "3733745698acd49787d20639e2f07bbd6d1a6bc0248862b928576f269740c728"
+    },
+    {
+      "path": "previews/奔跑场景预览.png",
+      "bytes": 1410089,
+      "sha256": "ffed17b18547bd475e4c101868b10e215116b5038c3e7fb5ba1ee643e1b7fa15"
+    },
+    {
+      "path": "previews/毒蘑菇_游戏运行示意.gif",
+      "bytes": 7197791,
+      "sha256": "e4de6c306092d254e47d73bfe272d50e8025dd23b578cc6c9a2e0b5d9865def1"
+    },
+    {
+      "path": "previews/游戏失败预览.png",
+      "bytes": 1030253,
+      "sha256": "fa175d4d5636eb3573d0636dd30237b282b430f2bfc9662e94050062811e964f"
+    },
+    {
+      "path": "previews/游戏开始预览.png",
+      "bytes": 1421455,
+      "sha256": "62f61f5efb805ddf1953e9867655e93836f30c2540984bc051b8b442a868845b"
+    },
+    {
+      "path": "previews/游戏成功预览.png",
+      "bytes": 1049650,
+      "sha256": "54e41b6eed062428b461f0f4dee3ea9c6c88365a14c9dbd29040fb2f08e6dac2"
+    },
+    {
+      "path": "previews/游戏暂停预览.png",
+      "bytes": 941825,
+      "sha256": "4706ec0eedbb38632c12eeb95a1a19d2f434078a5e08136fe2431b5baa8e1bbe"
+    },
+    {
+      "path": "previews/连续场景检查.png",
+      "bytes": 1687205,
+      "sha256": "cbd8d0c15a40781deffb2042c897d2004879cd99b58d5ac40a58d132ef64f7f4"
+    },
+    {
+      "path": "project.godot",
+      "bytes": 839,
+      "sha256": "1ddb733502cfad05d958394722bb3046bf9e63c6bbf620238723067fbe82a8d9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5305,
+      "sha256": "2dbb0d354e32748f275e5ce66ca5c6ccddc03ddcabe21e85b6db8150179e2fd6"
+    },
+    {
+      "path": "scenes/main.tscn",
+      "bytes": 441,
+      "sha256": "138fde0cf70dac2f118dbd1a7429b3b255a70a012c40dcf6b321f95777e1a7d9"
+    },
+    {
+      "path": "scripts/effects.gd",
+      "bytes": 1527,
+      "sha256": "b5d5976ea4c41387482cab6ee68795c6a2ba58689ee2b9050a2a545fbeacd565"
+    },
+    {
+      "path": "scripts/effects.gd.uid",
+      "bytes": 20,
+      "sha256": "382f1a6090836aa5222c5f94c505272119027182162581e9b790324c56986cc2"
+    },
+    {
+      "path": "scripts/main.gd",
+      "bytes": 12318,
+      "sha256": "435a1ae878e78edd1bf0ad2b9720a03d491fa66049666914cb5ff66a88410c51"
+    },
+    {
+      "path": "scripts/main.gd.uid",
+      "bytes": 20,
+      "sha256": "2bba261f6062f046d8617d30d5667643da99a552fae205d8091ada70b0ea9efa"
+    },
+    {
+      "path": "scripts/runner_model.gd",
+      "bytes": 9451,
+      "sha256": "c2fea07cc3912fed67d924e8c666e049549ebff355991d550fca17f113637f80"
+    },
+    {
+      "path": "scripts/runner_model.gd.uid",
+      "bytes": 19,
+      "sha256": "99a6d88d56d0953d89e994d84a7e0c29605215b84b98431db2e077a61119f622"
+    },
+    {
+      "path": "scripts/world.gd",
+      "bytes": 17123,
+      "sha256": "77086c4f07d42e399f8676084f8450c2c939137960ba63fb0790bfa04575adfc"
+    },
+    {
+      "path": "scripts/world.gd.uid",
+      "bytes": 20,
+      "sha256": "c03c26882a5f6895d51850c206752c5b65c4a3907954941a01e7eebd1eff3748"
+    },
+    {
+      "path": "shaders/distance_soften.gdshader",
+      "bytes": 637,
+      "sha256": "857c186f284c31cdf5a96c66890e6dea56800a12eafd0d8488fce6fb3874070f"
+    },
+    {
+      "path": "shaders/distance_soften.gdshader.uid",
+      "bytes": 20,
+      "sha256": "dcf48b86835161debc822d4a261e8b9a41f316b6607b5f0c94334a53c2d45abb"
+    },
+    {
+      "path": "shaders/mist.gdshader",
+      "bytes": 280,
+      "sha256": "d2d6bf195c387a9e35d971f51eba7dccf3daeef8375c34d3b91bb986a934ac64"
+    },
+    {
+      "path": "shaders/mist.gdshader.uid",
+      "bytes": 19,
+      "sha256": "0d95c172b433584942aa688adbfc3d258bed69dbc54a9bd95a1669338457d632"
+    },
+    {
+      "path": "shaders/vignette.gdshader",
+      "bytes": 378,
+      "sha256": "f107143ea179879d9555c37c8604c9d83da8b0c587aaf9ad898b79089d1d7d28"
+    },
+    {
+      "path": "shaders/vignette.gdshader.uid",
+      "bytes": 20,
+      "sha256": "b71576b79f41e867aa3bd025a521b85ba1b8318fbbb4ff1307b59a2a10d6d154"
+    },
+    {
+      "path": "source_assets/.gdignore",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-01.png",
+      "bytes": 201559,
+      "sha256": "48e77aba87fb74c491f71e459000f109708dde80b8b9f2dc7ec3e87b2c1bc3ae"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-02.png",
+      "bytes": 203973,
+      "sha256": "55ccb88e2f3b74dc48f2b4a6b22a247844c4a520d3f819eb7b08ccf5bfb959f3"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-03.png",
+      "bytes": 203476,
+      "sha256": "9ad3897aa80dcf30fcb95149f8be5a7b3c60607120c786d67806a60e6dc14644"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-04.png",
+      "bytes": 209504,
+      "sha256": "6f8d7f788c245d7b2eb35e6fc0f90e1cb18a922bd4d42825710e78313e296c04"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-05.png",
+      "bytes": 220095,
+      "sha256": "bc415335bf67056dc5cc24aadf0a814258f285a9026b1ceaecc6b845b9261c02"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-06.png",
+      "bytes": 223591,
+      "sha256": "467808d46448dff776a7301a1bb2891101839d8fb4bab671eb91b33d5a85f0b7"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-07.png",
+      "bytes": 223700,
+      "sha256": "123a8f13c9f328b378557244422aa29d2c2337cbd245d00ecb4506f9c0b96490"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-08.png",
+      "bytes": 219788,
+      "sha256": "78bb2cd4ad7c34ea0383ba7ce3e7dd8c2eed759c36035026d2770ae47df5b2b7"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-09.png",
+      "bytes": 213252,
+      "sha256": "ab9c89ed118905ef50577425103253447b3b9d8c9707e8da414d3bac81c3dcbf"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-10.png",
+      "bytes": 204461,
+      "sha256": "39d30a43e2de425a907cbc13d8adb6216fe1d23e35fab82b2005bc538754069b"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-11.png",
+      "bytes": 197232,
+      "sha256": "9307a0028eb934aa52034f117a9cc7dac94fef2680c4f0294e87b9da0a87fc44"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/frame-12.png",
+      "bytes": 199568,
+      "sha256": "55d474efe6fc6008423a4fc2efe406773efd0e1adf796c10c0eea9d27b33d8a7"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/动画参数与提示词.json",
+      "bytes": 2288,
+      "sha256": "0729fead3ccb15f78c283a0f0099d2c7904366ca36e76b9c84308b2d1df3f25a"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/原始生成图.png",
+      "bytes": 1330269,
+      "sha256": "1cf7a9c9f2362442aef9cb7f3677bc60022ae3e9f4eafb5515441be83ed1a46d"
+    },
+    {
+      "path": "source_assets/floating-tooth-mushroom/张嘴示意.gif",
+      "bytes": 688391,
+      "sha256": "e58540aaa2a7443620bf8b522b195dd5528e3ad9c9d052e5fb13e232b9d52311"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/background_distant_forest_2160x4680.png",
+      "bytes": 5174301,
+      "sha256": "488d610bd224cf1e607a7d37b5a4cd2248399f3dd7d5ec05dfe767f74c750c99"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/ground_checker_albedo.png",
+      "bytes": 1265216,
+      "sha256": "a11b1f43ee3c13abbbe7ee99a2da06e4bd95884b39301ce29d9623f6b22002ef"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/mushroom_pale.png",
+      "bytes": 348086,
+      "sha256": "d6efbc3ebab468a9025abd0e336d180c2c79c8d9b5bcd6f0486c999e735cd5db"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/mushroom_rose.png",
+      "bytes": 390961,
+      "sha256": "87defe112f1803cd668fe96120c758d367b5ea95f40456ec0e9ac80bc1fe0dd5"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/native/background_distant_forest_native.png",
+      "bytes": 1177520,
+      "sha256": "d2b423fb016fa14695e4a08eb24d8e541eaad7b45c5bfd4c1ec88df9220a290b"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/top_tree_canopy.png",
+      "bytes": 1888416,
+      "sha256": "d4d4b827d2304b1dc622f88b450ff7c26798d8b112c0f177948ba586919c3b1b"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/使用说明.txt",
+      "bytes": 1944,
+      "sha256": "e2e16cf42c8f2faadccfce7c56faf12311d7d7fab8aff09eb2e8d302aa676073"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/生成提示词.json",
+      "bytes": 19445,
+      "sha256": "4b4e58be90d6b87682b6ce64735d9a2c5609b059a77c1c1d4c3cdaa4df464a0c"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/素材参数.json",
+      "bytes": 3781,
+      "sha256": "f54e1fc2a58c0693d5512b1ca959a35a0e15fad344b9d2a7332fcfe0b45b025e"
+    },
+    {
+      "path": "source_assets/godot-scene-assets/素材总览.png",
+      "bytes": 2247512,
+      "sha256": "e044ab57b1ec543c2e20418b3aafcb758b6064feb398d72ebdd1ba070bda43d3"
+    },
+    {
+      "path": "source_assets/grass-transitions/11_tall_reeds.png",
+      "bytes": 976207,
+      "sha256": "1316459a0fe423b584c7308ae3e0d102385e113f1f46be98c0627504216912fe"
+    },
+    {
+      "path": "source_assets/grass-transitions/12_grass_bank.png",
+      "bytes": 1031692,
+      "sha256": "785b6768f707656b4618ed4d2af1906fc5687deb0b3d62357a284780dd917302"
+    },
+    {
+      "path": "source_assets/grass-transitions/13_fern_skirt.png",
+      "bytes": 1079447,
+      "sha256": "264b792d95db5cef6b982501bf288022cdf9f4061825fdcd79d897cdfc36d66f"
+    },
+    {
+      "path": "source_assets/grass-transitions/14_terraced_bank.png",
+      "bytes": 901088,
+      "sha256": "b90a8285de531a93f067dc38950369ce6eff33f282dba54d0b656dc17ad99cc8"
+    },
+    {
+      "path": "source_assets/grass-transitions/15_curved_verge.png",
+      "bytes": 706727,
+      "sha256": "04bad129acca8a5c11ca3a429a66f3b46ba15ee48b281239693325f711968294"
+    },
+    {
+      "path": "source_assets/grass-transitions/16_grass_hummock.png",
+      "bytes": 1404232,
+      "sha256": "fc2726bc3ea52ddce25d75a628c0778758ca776ca144607599a6867bf52e99a1"
+    },
+    {
+      "path": "source_assets/grass-transitions/生成提示词.json",
+      "bytes": 6826,
+      "sha256": "a0680a1b5123614dd72bbb6543091664f431c7f36e300d04d1770242dff57cd3"
+    },
+    {
+      "path": "source_assets/mushroom-assets/01-大嘴蘑菇.png",
+      "bytes": 1664340,
+      "sha256": "3ed4e3a4edf2d2b08e5473df421d8ba89918ce7bc141fa6cb1d2a82e53431c2e"
+    },
+    {
+      "path": "source_assets/mushroom-assets/02-洞穴罩形蘑菇.png",
+      "bytes": 1142579,
+      "sha256": "21b95a1dfb2ae4991af7817b878fe2c84f750eb721763fd59cd61136cac952ec"
+    },
+    {
+      "path": "source_assets/mushroom-assets/03-巨伞笑口蘑菇.png",
+      "bytes": 1334786,
+      "sha256": "1614c29dd934080225a1d543adf9682ae8fe566ab46767700ca4472bc12c2d03"
+    },
+    {
+      "path": "source_assets/mushroom-assets/04-双生吐舌蘑菇.png",
+      "bytes": 1076026,
+      "sha256": "f7c1eef2728c9966d93e668e7b29c4dcf1a045e4c3556f495fc3d6c734a8b7f9"
+    },
+    {
+      "path": "source_assets/mushroom-assets/05-三株眼斑蘑菇.png",
+      "bytes": 1411843,
+      "sha256": "af852569662a315b9fc6ef981a93d359b4431f4d3479918354025e8380c17641"
+    },
+    {
+      "path": "source_assets/mushroom-assets/06-高脚眼斑蘑菇.png",
+      "bytes": 850341,
+      "sha256": "245a222d680e5de260ef05cfc66c988b4a39bf05ae1e52e47f95a57c6d542c7e"
+    },
+    {
+      "path": "source_assets/mushroom-assets/07-宽檐胡须蘑菇.png",
+      "bytes": 1237092,
+      "sha256": "27812bad69409eb460289f9b67bde6ccc7bbc31afea4e2cd45b5ff130753fd64"
+    },
+    {
+      "path": "source_assets/mushroom-assets/08-大馒头圆团蘑菇.png",
+      "bytes": 1287274,
+      "sha256": "6fb8633fe3d200c6fbdef24757b4ff8366e3599473499d68d10cc61893bb73f8"
+    },
+    {
+      "path": "source_assets/mushroom-assets/09-咕咕羊肚菌.png",
+      "bytes": 1868269,
+      "sha256": "3b24d7049d543ae7f4a645d726e599748559514440eb52337a452faf058801b4"
+    },
+    {
+      "path": "source_assets/mushroom-assets/10-姑姑菌群草台.png",
+      "bytes": 1476348,
+      "sha256": "e63b27fb66c37d5d12d9dec2459a05280186827bd767f55a61bdab0bbbe24887"
+    },
+    {
+      "path": "source_assets/mushroom-assets/11-细长眼冠菌丛.png",
+      "bytes": 1570941,
+      "sha256": "ef43e620c1e434b9d238ecf86eb6a4e0bbde71e273d607ecba6c90d18c675e47"
+    },
+    {
+      "path": "source_assets/mushroom-assets/12-藤枝蘑菇组合.png",
+      "bytes": 1342062,
+      "sha256": "1dada8d18eb4a4449f99a715b55f8f2d4b66e60c583ae57c0d4bfc953d06a6de"
+    },
+    {
+      "path": "source_assets/mushroom-assets/使用说明.txt",
+      "bytes": 2687,
+      "sha256": "2984daf2fbe903b0ac45af621c8af12f5adea5ea8af82d4fb6f6947cd930c90e"
+    },
+    {
+      "path": "source_assets/mushroom-assets/生成提示词与原图对应.json",
+      "bytes": 48902,
+      "sha256": "2bdde257a1d568d883e4ff24b4a50a172ba57bcb9effc874c0dd00e01413d86c"
+    },
+    {
+      "path": "source_assets/mushroom-coin/mushroom_coin_128.png",
+      "bytes": 24226,
+      "sha256": "106a6ba5246ac4ede3b6449cbaff881a54df5f8615abe87fa12f970f3d987764"
+    },
+    {
+      "path": "source_assets/mushroom-coin/mushroom_coin_256.png",
+      "bytes": 74283,
+      "sha256": "b73b4bb864ac15a0f2ba7cc968004361e093e7b436e4d69dcfd9f307ad8effa2"
+    },
+    {
+      "path": "source_assets/mushroom-coin/mushroom_coin_512.png",
+      "bytes": 248291,
+      "sha256": "8c4970400f217dd44b2e99034874ab3c770b1d4db6287489be2fb375b910be0b"
+    },
+    {
+      "path": "source_assets/mushroom-coin/mushroom_coin_original.png",
+      "bytes": 968051,
+      "sha256": "14c08c9e6b08a962cdd1aa22cb787b7480d5941dc54e5f2386705747d8ead891"
+    },
+    {
+      "path": "source_assets/mushroom-coin/使用说明.txt",
+      "bytes": 602,
+      "sha256": "1b04334fc46ab562dabb2e0ffa2e244ef6393847434b72d927c663a96a00e804"
+    },
+    {
+      "path": "source_assets/mushroom-coin/生成提示词.json",
+      "bytes": 2774,
+      "sha256": "bf3abf74488452ea912adb0038d0a7c6623b2a1f3ef9f98cd825e3ba0f74416f"
+    },
+    {
+      "path": "source_assets/mushroom-coin/素材尺寸与透明检查.json",
+      "bytes": 2112,
+      "sha256": "2ec29fd500bb0edf7c5fbe304ce6015f3f2260da82d9a1563a6086fab59b5fb0"
+    },
+    {
+      "path": "source_assets/mushroom-coin/金币预览.png",
+      "bytes": 326916,
+      "sha256": "3cdb101836f4e004b7b6504c172e5ba3bbb7363292dbbf16d462d3e6c484e10f"
+    },
+    {
+      "path": "source_assets/native-font-ui/distant-fog-original.png",
+      "bytes": 1504220,
+      "sha256": "cf08852793dd72ede4c4d6b803b4b3e0d5804b7250e0064c7c2827e9971ae1e8"
+    },
+    {
+      "path": "source_assets/native-font-ui/failure-badge-corrected.png",
+      "bytes": 1553061,
+      "sha256": "e3b9a4e9640c16627fc6b19bd45db2f4fbef6a5c5153c7151831d33abf2a8ced"
+    },
+    {
+      "path": "source_assets/native-font-ui/failure-blank.png",
+      "bytes": 1524198,
+      "sha256": "7ea0158b33980e9071d8d4ece477e93fe15f54e04281820f68a5334b3d9ccba3"
+    },
+    {
+      "path": "source_assets/native-font-ui/grass-contact-native.png",
+      "bytes": 785913,
+      "sha256": "f1f3f144a60181cfba8d236dcfad6a044a6f1f47ba996d4411af64c23823a23c"
+    },
+    {
+      "path": "source_assets/native-font-ui/meadow-grass-original.png",
+      "bytes": 1340151,
+      "sha256": "621e04c20be0133593ff77b46ce315e04f2ef33ff70e59688feed47736e20697"
+    },
+    {
+      "path": "source_assets/native-font-ui/start-blank.png",
+      "bytes": 1570886,
+      "sha256": "7f1e21bd9a0a1a733a02a263a797e2fe4ecb29e47d2ec6777e7c066f47c4bc85"
+    },
+    {
+      "path": "source_assets/native-font-ui/victory-blank.png",
+      "bytes": 1626895,
+      "sha256": "a75a91c598388a90ab17c9f44bf913ae25845570e3f55d5d4439284cfbe5448e"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/character.png",
+      "bytes": 177219,
+      "sha256": "51e8d826d85e568ded9162a6706756208c0d8ac0be6532ae61738603684f0433"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/atlas_3x4.png",
+      "bytes": 2081697,
+      "sha256": "fa480075cd6f600a2053fe05fff54f276c1f6f5a70aff6da6919ecb4ee1f1cc4"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_01.png",
+      "bytes": 177219,
+      "sha256": "51e8d826d85e568ded9162a6706756208c0d8ac0be6532ae61738603684f0433"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_02.png",
+      "bytes": 176074,
+      "sha256": "c4d57a80d2fabf1fca96990e5b3c1801277701e801fb824c7c203eb694a00449"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_03.png",
+      "bytes": 151052,
+      "sha256": "68afdee46ac7928d61bcbe83bf708e4305322eeb8b7d567fb0622de44ae9ca3e"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_04.png",
+      "bytes": 132060,
+      "sha256": "904b4a2c554bad5e4df8f175a9e0a810adb0da2fa3109aa62a2754f49b5a0fd8"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_05.png",
+      "bytes": 160353,
+      "sha256": "1647192428dd3315c01e1c936cbb79625ddc858f5b2ab6c21cee8ce8b0c30813"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_06.png",
+      "bytes": 180088,
+      "sha256": "a381a13cec68737d2f8bc3d5f5c6b869437dfba477ea8d4a00718ddfb17222be"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_07.png",
+      "bytes": 200984,
+      "sha256": "95d96af641cfc32ccdaef5e50956bf5becb3498ba88c3e3f73d232383a911bc5"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_08.png",
+      "bytes": 186942,
+      "sha256": "38baa7640861549387b01174db27316e56614eb332541359d68045a423e3719e"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_09.png",
+      "bytes": 178104,
+      "sha256": "144ad17eae9d3a999f9c2c5b4803bc4d9f219efbb9c440487b66179b57ad3544"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_10.png",
+      "bytes": 177369,
+      "sha256": "817dc78adff85a7cefce8e33158a8c7055d8fde6758a66eab086846f0dacfe30"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_11.png",
+      "bytes": 183258,
+      "sha256": "bba82ce2e539d7a9223b9bf4b27d46666078047e13a55ee293bd14ecdff7ca65"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/frames/idle_12.png",
+      "bytes": 174401,
+      "sha256": "37701b747bcf3843316dd93753ea72f2d4e87bf6a75eedcaece92705aefee376"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/preview.apng",
+      "bytes": 2078581,
+      "sha256": "ff40dd276ecf8967f333c7fda14d03d7ba5dd6cec910b2dfc6b2150e6cc2ee08"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/preview.gif",
+      "bytes": 656520,
+      "sha256": "c1ae2c6016b9022d1ea57ff75181f19b287fa271b90824a4b5899d3441d8254a"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/idle/关键帧总览.png",
+      "bytes": 1323298,
+      "sha256": "d8f4d6bf754218894570bef5be8ca683929d1d0dd8c996497aca471764e6dab0"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/native/idle_generated.png",
+      "bytes": 1388264,
+      "sha256": "b2f1695498e96ea6354f318753801a1ab89600b0451e26ef19e8830fd1272499"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/native/run_generated.png",
+      "bytes": 1419702,
+      "sha256": "f23538bb15c965e91c7b04f9c79ee7b78cfe48084b3e8f08ae859e72db2b1aa1"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/atlas_3x4.png",
+      "bytes": 2112725,
+      "sha256": "94f26dcbc356d21f3b0dcd6ed51c4833fe4c091f0c262fbff471473fa3d71f3b"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_01.png",
+      "bytes": 173404,
+      "sha256": "ca33c5cd25199c40042a799f75da953823d9afa3641cc6fb55bdf2603c890e23"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_02.png",
+      "bytes": 175612,
+      "sha256": "ab89626f789782fa5d281f6400f154328840258125a52eca540e41e28e30e72d"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_03.png",
+      "bytes": 176015,
+      "sha256": "91f26534a39deadcbc133c89353d130d7afc13161fb23a7e3087b94eba87b65d"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_04.png",
+      "bytes": 177073,
+      "sha256": "cb7edef52de88cbf8fefd32b80fcb07b5a43b768cca9c51b8c7d6815ba1d4bca"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_05.png",
+      "bytes": 180790,
+      "sha256": "6812e686f0b42656b63d4e1a5cede4f63f44727c65ed55d9ca25b49bf996f10b"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_06.png",
+      "bytes": 180930,
+      "sha256": "402c512f9218ae55ebfc7e0c0e21bc25d2eeda0cb31399c1784d8354d6c68b45"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_07.png",
+      "bytes": 174291,
+      "sha256": "5b9c79e16d2071e4a8ae348284f175b8c9bf0ad0386e63006fb4e36d4461665e"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_08.png",
+      "bytes": 177790,
+      "sha256": "a8d6964dd90c763665dd137e1f422b84e69c1e937e9849fbe64d19009fb20bcb"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_09.png",
+      "bytes": 175980,
+      "sha256": "1454eee67311a1120a0eaf7e8389a270dd5d358e2e770be20e0840430c1ad78c"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_10.png",
+      "bytes": 179271,
+      "sha256": "87f31b89314bc6d2fcdebd148d0c62df2213063a74ba87df17ce723463ee01e4"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_11.png",
+      "bytes": 177360,
+      "sha256": "4c23a589c4facc9e258946cb8cd7405b8d4dd004ff3178f3d27bd0a02f0031d3"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/frames/run_12.png",
+      "bytes": 181891,
+      "sha256": "52e2fe771b866760b8f2ea2f59b352a4b555493cf97d7461d38279834ed0d1ea"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/preview.apng",
+      "bytes": 2131116,
+      "sha256": "523610e8cea7c9905a77c856049407d499c78b3c48b6a006f778389e307ab54c"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/preview.gif",
+      "bytes": 663505,
+      "sha256": "6976fd3e02d296168878178e29c8e41ae2c10eec900fefe2d244fc889563d482"
+    },
+    {
+      "path": "source_assets/poison-monsters/01_chomper/run/关键帧总览.png",
+      "bytes": 1336850,
+      "sha256": "b4945210c8741564c665ab55bdcaade7cbb52b8b858f141b6accf08a77880e27"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/character.png",
+      "bytes": 195107,
+      "sha256": "d2bffb1fbb127ed18aef830ae2dfb0636711042e75f6d003f69fe5219914ec59"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/atlas_3x4.png",
+      "bytes": 2363400,
+      "sha256": "f412fd38cb8953c38fe48a95d1bac2be0c31fe1a2a090aff64a5569792d4381d"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_01.png",
+      "bytes": 195107,
+      "sha256": "d2bffb1fbb127ed18aef830ae2dfb0636711042e75f6d003f69fe5219914ec59"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_02.png",
+      "bytes": 200049,
+      "sha256": "00a69fc4b5c95163ba76d0008a7bb9120a6a78a64a68aebc8ca1d3aa9998301f"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_03.png",
+      "bytes": 212607,
+      "sha256": "d23be6e13ab40ea554e06efdfa26d64526fc24669fd6cd3fa88a7906ad527a25"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_04.png",
+      "bytes": 215363,
+      "sha256": "e760af500b971b8dd093ba5fe5cbf827638393603da6b4673f0791dddfde72f2"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_05.png",
+      "bytes": 202170,
+      "sha256": "650430ab5dc6a0c87b2dc49455d8a6bad67c73366572832f884beaccffda8fbb"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_06.png",
+      "bytes": 199201,
+      "sha256": "68663dcc2cf52f5d3eb222b427c95792793af6983af384aeffb7afba31e68a0e"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_07.png",
+      "bytes": 194452,
+      "sha256": "7f05b71a5928bee9fcff1cf3df65dac9f99366e81bd25b0b5e6df7d931b9b4e7"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_08.png",
+      "bytes": 179081,
+      "sha256": "11537f69e905d4e19838ffadfcf765b09e8300e77fa17972452adb7173f279e4"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_09.png",
+      "bytes": 171016,
+      "sha256": "ec9bec000529f345936e5dfc20ab963fc9f61fa7cb3a7f058338f43f02aa9685"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_10.png",
+      "bytes": 192970,
+      "sha256": "98ddff4b23d2789f2ed0c6de9945d0b99d7a5f3e4fb99fbbb4be65efb88debe5"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_11.png",
+      "bytes": 199489,
+      "sha256": "2d602ce18826f161854cacd65958fc4357ac6bb711562e6f410b72ef479cd711"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_12.png",
+      "bytes": 195709,
+      "sha256": "d27e1b4fba358ad17dfe1d19241d6eb0931d29ab9528fab3b1d4a8cbaf817abe"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/preview.apng",
+      "bytes": 2358015,
+      "sha256": "3d62b3a1a77f92df0acd58ecaa0ab1cc6122e1a7a8872a1c1a87df826c358e28"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/preview.gif",
+      "bytes": 739324,
+      "sha256": "fb27d37d85ee12d8d62e49e9f8b4056f3e58b4715c0c1cc10938abdc67792ad0"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/idle/关键帧总览.png",
+      "bytes": 1510637,
+      "sha256": "e4bde2b0241aebbfe16c19ee0f18a901e0a203c786125d5715a83f2e01dcb17b"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/native/idle_generated.png",
+      "bytes": 1317482,
+      "sha256": "6d80740dd07ccdcb33b5265f70b8cebb2a088833ac3073785f36cf05390034b1"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/native/run_generated.png",
+      "bytes": 1350593,
+      "sha256": "c94eef17c605cc8e8579b06f382eb1f41821a38b67b20ec4783b469e77fb4239"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/atlas_3x4.png",
+      "bytes": 2520392,
+      "sha256": "bd8be61955025ae59a1ec00d4fe4bf07fb2f75aa2d4458200a3d61fb277e0897"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_01.png",
+      "bytes": 208858,
+      "sha256": "686582c92832e0e538a84516df1a15f8f7faac7d112569e143afbc637ab3f50a"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_02.png",
+      "bytes": 202227,
+      "sha256": "cb1f631411a8434376c6a365811605e7bcba1659046eea82add9dd4b7bdc9fe2"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_03.png",
+      "bytes": 209743,
+      "sha256": "659cb67b86d74b6326e68c63d0721aaa55dca11fa02170bca29e8413b6ef26de"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_04.png",
+      "bytes": 217375,
+      "sha256": "b73f7f247a5be9ee88a357915ed738431f4b15b00829e601871e0438ad9a0fa3"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_05.png",
+      "bytes": 208988,
+      "sha256": "77f7a924d4eac4c125c72ab5a758ff5c64b8a213461c6cac238370969b3283f8"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_06.png",
+      "bytes": 214596,
+      "sha256": "d52f363bbf46e200d74f312ae517ce50d87294ef23d3dc901e7153557110030d"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_07.png",
+      "bytes": 212280,
+      "sha256": "eb80beddbfca3555a4dfa599a4937d77c17723b6a39ad3571b8878ace1badb72"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_08.png",
+      "bytes": 204883,
+      "sha256": "7a98ec94a2b0ca787a4f8ad10c7a2e26b5e1afbccdc4888ecd176df4fd5f35e8"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_09.png",
+      "bytes": 206232,
+      "sha256": "12153f37a6dadaa5728ed6b6c0520818795157144cb0a7cf8821fe73f8cab76a"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_10.png",
+      "bytes": 215805,
+      "sha256": "90baa8f5a1dcc377f2b7070f236884abdea5de3b6608752838b55c73cb12cd16"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_11.png",
+      "bytes": 207662,
+      "sha256": "e8ff619b4c6187bc9dc99da74278b6863891cfa6110ae3824a45f6dccc327961"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_12.png",
+      "bytes": 211498,
+      "sha256": "4aa26e3cdd0b58c224d04af586638dbf5b00373f76cd9ba09ebdd7acc465ba5a"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/preview.apng",
+      "bytes": 2521024,
+      "sha256": "ddef17dd856d15187b2f84983528d8d6002b429c0fe9aa4114be66e311df8f40"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/preview.gif",
+      "bytes": 734374,
+      "sha256": "3717c8406983bb3354590de4c8990b9b61c3d41dc99768a77563286dbc90e545"
+    },
+    {
+      "path": "source_assets/poison-monsters/02_three_eye_morel/run/关键帧总览.png",
+      "bytes": 1586236,
+      "sha256": "dccbce38d87a05875377f3cf6e2585efe5eeb3c8ccff68aea93b612cc279cc85"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/character.png",
+      "bytes": 152668,
+      "sha256": "40563dccc52edbaa8562fe1408aa302a409a1c32c77c543698118f8131134da1"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/atlas_3x4.png",
+      "bytes": 1804793,
+      "sha256": "a052b9a1209850127ce7c680cdb9c692afc608a8c1b08aa0209f8fded775d0d3"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_01.png",
+      "bytes": 152668,
+      "sha256": "40563dccc52edbaa8562fe1408aa302a409a1c32c77c543698118f8131134da1"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_02.png",
+      "bytes": 150027,
+      "sha256": "43d173092b4f13ced0924b6b8c28fd5dbfcc3fedf9c6c38104feb75b25a0da3d"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_03.png",
+      "bytes": 153085,
+      "sha256": "7f51c8f05d3fe362df0a9784e43bdc83151356f44f1cc0897714cbad5b0f3fd9"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_04.png",
+      "bytes": 151184,
+      "sha256": "62fca993e6ccaebed1ae3f3af2b263887cf3e0a26da94a2b2b28723bfc8de442"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_05.png",
+      "bytes": 151842,
+      "sha256": "6c06ff36a4748d176d5e3dc109f80d719ba50f81453272d8d5351dc83206bb3c"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_06.png",
+      "bytes": 153201,
+      "sha256": "7f38ac15075609e94e9a5c31410381fdb80764cf0bff07ef3622b6397207b5f9"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_07.png",
+      "bytes": 153583,
+      "sha256": "d5982b1a48877400954e8965ccb3ddc8e60b5af088818be6ee68764c74ee8385"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_08.png",
+      "bytes": 151564,
+      "sha256": "0a32a2f26de5709c3e165162fe11b0ef6d50f5ef922d09e1f8bea685346041a5"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_09.png",
+      "bytes": 154290,
+      "sha256": "3000e8472e66d608cd62cbdbaf5cfab004239f02be1731c142bb05602967719c"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_10.png",
+      "bytes": 153823,
+      "sha256": "5092a60a8684ad2ac86d677fd0a2ac7676457b55fb80b98a1bcc6ab405c5159f"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_11.png",
+      "bytes": 152757,
+      "sha256": "ca7f06c877c1754795bbd66a65c7414b2b3673c8891a9d905cb7777f9e5b1aef"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_12.png",
+      "bytes": 154334,
+      "sha256": "fdaa9fa308b3adaacd846d8b684879e2788b5c660ebc19a597942f8fe630aaed"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/preview.apng",
+      "bytes": 1832923,
+      "sha256": "cc50a70aca5d65099cfe3598e9ade33c10f075c3bcf1cc78a6775f37b42ba630"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/preview.gif",
+      "bytes": 680659,
+      "sha256": "b1736a7579771e03792e8d67c658429611028855c59b234cc9e591a0f660d29c"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/idle/关键帧总览.png",
+      "bytes": 1145458,
+      "sha256": "7fc9c69e50a80d99daaefbc803814f3776686cf35ac3b9e6a92f14803f470a63"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/native/idle_generated.png",
+      "bytes": 1367203,
+      "sha256": "d6cd9b00f4963459f4eb042081d614d64a245dd9bd7bee057da124e9ad916e49"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/native/run_generated.png",
+      "bytes": 1475378,
+      "sha256": "45f651f54ba739d06263634c7ffc73259df47f4e3427b0e8d4544f6897bef33f"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/atlas_3x4.png",
+      "bytes": 2001595,
+      "sha256": "e94e11650919523890e907a398cb96c2beec4841ccf80571132de2f9e3c329e5"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_01.png",
+      "bytes": 168827,
+      "sha256": "d8723fe47a0857a0f0db9c5cf3de796988584f8d0be9f77bbbc236abe2f0493c"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_02.png",
+      "bytes": 165945,
+      "sha256": "405d0832b5217fb1482f54eb8982dc107f97aff3c4a2141a1e9d9784bf6b6c9e"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_03.png",
+      "bytes": 167874,
+      "sha256": "06edcac6d39d8fd557f42874af04a557a40cf414a9d4c67246049058beb09830"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_04.png",
+      "bytes": 165599,
+      "sha256": "ba7da48024d741ac01aed18389fd6eb34034a969b57b0b87a5c30ee455bf6329"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_05.png",
+      "bytes": 165776,
+      "sha256": "74a21f947557d28d063ad7d54a0de7a61c4c6cef19b0a0b4ea102aa78f46e4ba"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_06.png",
+      "bytes": 168617,
+      "sha256": "065260e88830d6c9e0b6c7030ca09d4be40a86b8b172aea3f89f49220d8f2f71"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_07.png",
+      "bytes": 167053,
+      "sha256": "6a5df0ee281ca41cb9f6a97f5c0aa7376e2d79e38f8ffbc6ba379028c0543be8"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_08.png",
+      "bytes": 166993,
+      "sha256": "b4a307054c6b730970b711ab590536b73255b11c668e20371aa3978ea1de2b3d"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_09.png",
+      "bytes": 166758,
+      "sha256": "f990d703f9eb770dc5863baa40ae21d6ac2f1daf97043e794cfcb92c99121ddf"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_10.png",
+      "bytes": 166828,
+      "sha256": "e65c6cfc49b2fbcda994016749a1e136e29b2d3e615c9ede583209a52d177a36"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_11.png",
+      "bytes": 167632,
+      "sha256": "f27b0aa27ab16e185d1c7419d166557eba15623bf2c8aa1f9e92bd4e078c27af"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_12.png",
+      "bytes": 169252,
+      "sha256": "62cd51cd0432f21c04cd51d5008780e970e4ff063763ca1f989fdf6013f1e231"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/preview.apng",
+      "bytes": 2007807,
+      "sha256": "0ffa23f5fff3fff93caf017cfd8b0da40fe2ccaaa4b4c6478c7b47214683411e"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/preview.gif",
+      "bytes": 710213,
+      "sha256": "3b9c4c31fe6e40fb6da29bff0d3cb7f62470d977e9808b4926b5916af8b47883"
+    },
+    {
+      "path": "source_assets/poison-monsters/03_bell_toxin/run/关键帧总览.png",
+      "bytes": 1252015,
+      "sha256": "a6596562eb82b1505d3457e3ba123ca8888529d4db93dc5a3cb35942d38c6e3b"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/character.png",
+      "bytes": 166385,
+      "sha256": "9ffa4389c4f5b4a0f5a7fad961fb5045d3336a460e6514e2b79ca67af41ac1eb"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/atlas_3x4.png",
+      "bytes": 1994156,
+      "sha256": "52a15fcea2340447524d63252bfce42bc055bf007a956d03a90959eae688fec9"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_01.png",
+      "bytes": 166385,
+      "sha256": "9ffa4389c4f5b4a0f5a7fad961fb5045d3336a460e6514e2b79ca67af41ac1eb"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_02.png",
+      "bytes": 164444,
+      "sha256": "d04d973d68fd7e3e742c7363aadfcfe1dfad51f375c4f72d84328ce489a3b987"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_03.png",
+      "bytes": 163068,
+      "sha256": "a9f7a6b20ae6fec54984ce38536e13967e42f837f8f59be51b8349ac6b98137e"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_04.png",
+      "bytes": 171000,
+      "sha256": "6d2ff0c3fa76bbf28d113774dc5cf649b6dc30bfa396d452aeac36d7279f1f50"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_05.png",
+      "bytes": 168866,
+      "sha256": "45e30cb77506623a89f960e7af6606dfa9e592d5e0eef33b6fc9403dd03ec918"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_06.png",
+      "bytes": 166688,
+      "sha256": "75350bbc4a1425bf820db253fc0baa0af8fc1226f319a63ff35b5d0eb7afca45"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_07.png",
+      "bytes": 170801,
+      "sha256": "d87839e9036fbdeb90bb97e7b94fc19f9afd1c612c2bc1fe78081bc9c8e0a9b0"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_08.png",
+      "bytes": 165027,
+      "sha256": "45032858c16969d1fa98c672621744f0f579d3f8d7171299d38341328408d23a"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_09.png",
+      "bytes": 169394,
+      "sha256": "64139483dad4730a9cd92800f55aa842b49c4f121f47b0e4cafcd1930a372265"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_10.png",
+      "bytes": 169138,
+      "sha256": "ce8acdc6139f1cf68846e533caf63300cfe5785f48db596a0f78375ac6052f63"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_11.png",
+      "bytes": 164257,
+      "sha256": "0e09dd3b19abc26fb6c5cb096c1da64a6c2def1f884559651bba2e885871697d"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_12.png",
+      "bytes": 166753,
+      "sha256": "2693251fa87e088f41751dd81f2b29ca56e8a477c0a577f7e89fc1464935c0e2"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/preview.apng",
+      "bytes": 2006470,
+      "sha256": "e611011fe08abc258ea6fcb013fe0c83e63f2b4ab31ec61bbe3dfdb345d0e347"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/preview.gif",
+      "bytes": 684515,
+      "sha256": "ed2f9f78e02b081685e690a425b806a40131efec98eb867ff6ebbb91d14e1964"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/idle/关键帧总览.png",
+      "bytes": 1233014,
+      "sha256": "2ec5b0c42cc37bbf6b18ac0ea5fdbeff3203ec19f17de79c3399299d31edbfcc"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/native/idle_generated.png",
+      "bytes": 1284409,
+      "sha256": "1aa942a04cd76c499ffc87ced49b275c6c46d4946a6b8ab7f45f680eeb84186e"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/native/run_generated.png",
+      "bytes": 1374764,
+      "sha256": "4827cd50dee10ee932585429279300475ca4b99ae027be4960c1d5884b57044b"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/atlas_3x4.png",
+      "bytes": 2244328,
+      "sha256": "72883905b347fcf39e9f7c37711fa8ca9d4c63c2f8482a4beae93ffec6a57751"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_01.png",
+      "bytes": 187962,
+      "sha256": "d0ad27bd177382b3aff97b5815458e1e7dea7256492dac91954a8abf878c649c"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_02.png",
+      "bytes": 179813,
+      "sha256": "8264d3b437a88d3899b3e3a550d3cd58acdf05b62c93b85b60f3a061002354a5"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_03.png",
+      "bytes": 185576,
+      "sha256": "aa5f7f22a664902f8194611aee2cb1ae8a354d43748889c44cd5a3cf8827d1aa"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_04.png",
+      "bytes": 186450,
+      "sha256": "c0da67054936bc0be150bf03a93934e5637a197f46e3998ea261544989384c7b"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_05.png",
+      "bytes": 187526,
+      "sha256": "a8d1e5179c2b28e3b58ced55fc9837aa8020777c44f0fab7b5b6b4870a34a15a"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_06.png",
+      "bytes": 189089,
+      "sha256": "d02ff22bf8db75b0ab02ca1e0d836a1d863a8b96d07862becec775a71dde35e6"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_07.png",
+      "bytes": 187084,
+      "sha256": "23e3d89e0e2895af3c51a52676811fa79051a8095900bbcb3bf9cf2a66464dc6"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_08.png",
+      "bytes": 183895,
+      "sha256": "23a037e7e1ecea392daf810e662de1934963a51f3cc4f40903b14ba6e1c390f7"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_09.png",
+      "bytes": 184087,
+      "sha256": "a9ed2d88e74b55e77475fa9ca52d10ab3b8ef98a3864d0539b93b3c8d87dff3f"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_10.png",
+      "bytes": 192120,
+      "sha256": "1bfb854cedd4a26459758460ae202de17c20eb8a75981d3326914a451adf8bb0"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_11.png",
+      "bytes": 190026,
+      "sha256": "11e5f1b9187841ff1385a3feef8b2c8688df290e254a1c177e08efd5c7dabaab"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/frames/run_12.png",
+      "bytes": 190664,
+      "sha256": "186cec93d4eb2a33fe29618175e3a0afa160c5b1c5f4fe8c1b941251d67d025a"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/preview.apng",
+      "bytes": 2245045,
+      "sha256": "94f8ef68dec7d3124ba5294cce003d481e60410272e133cd32f9370e5409e110"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/preview.gif",
+      "bytes": 739038,
+      "sha256": "7348196e894ca0fe56202a6b0f842ff1efd00b2a9358bae04295cd594095ea2b"
+    },
+    {
+      "path": "source_assets/poison-monsters/04_curl_hat/run/关键帧总览.png",
+      "bytes": 1385570,
+      "sha256": "dfed046f1428ed9e1994af32cec5abb71ea445918b5ec6872f81e37ab7460877"
+    },
+    {
+      "path": "source_assets/poison-monsters/使用说明.txt",
+      "bytes": 2690,
+      "sha256": "1467dbbeb161980b5b0ab97bb0b7245d1e151d2523577a95b231a44dde1f23c0"
+    },
+    {
+      "path": "source_assets/poison-monsters/动画参数与检查.json",
+      "bytes": 121183,
+      "sha256": "94d9e7df3325d23fe55ac8223eba2fa24b3bb70670a3214dc0af401cf04e4884"
+    },
+    {
+      "path": "source_assets/poison-monsters/四种怪兽_原地动作对比.gif",
+      "bytes": 1343217,
+      "sha256": "3d6a55fd202673910653b47e04a53dce0c41c7bb9777b220ff281e10b4fb5086"
+    },
+    {
+      "path": "source_assets/poison-monsters/四种怪兽_奔跑对比.gif",
+      "bytes": 1381322,
+      "sha256": "aa3a189c8d59d5e16971c59cd90078523c58bbd02ead88385c3fc45eac02aa88"
+    },
+    {
+      "path": "source_assets/poison-monsters/四种怪兽_角色总览.png",
+      "bytes": 705374,
+      "sha256": "b8f9b841b3c27c9a0f92ddb5cf3738300183acdcbda7e8f62d77329ce29e2504"
+    },
+    {
+      "path": "source_assets/poison-monsters/四种怪兽_跑步12帧总览.png",
+      "bytes": 2036177,
+      "sha256": "712f89b2324bdbd0d2993d9796853865835348231af656963408522c3efcf51e"
+    },
+    {
+      "path": "source_assets/poison-monsters/生成提示词.json",
+      "bytes": 22129,
+      "sha256": "b065c75b486e1568edbcb55ea8e076ebdf7f3310132ef4f442c32b3ef9c80691"
+    },
+    {
+      "path": "source_assets/roadside-scenery/01_low_grass.png",
+      "bytes": 1350857,
+      "sha256": "600c8bd2d65fef787557ab2a194c3a68542ce611927c2b5e36732ac3074c6cd9"
+    },
+    {
+      "path": "source_assets/roadside-scenery/02_fern_bush.png",
+      "bytes": 1537356,
+      "sha256": "459088d5b2afeb6a78d790f34ce2a3d72599990148df6c3c2fea18db31225e2a"
+    },
+    {
+      "path": "source_assets/roadside-scenery/03_broad_leaves.png",
+      "bytes": 905136,
+      "sha256": "52f1ed1bb2fe329f058473e9fb363053f611c32f250656d05f4e0ac5ce82f91b"
+    },
+    {
+      "path": "source_assets/roadside-scenery/04_twisted_tree.png",
+      "bytes": 1514563,
+      "sha256": "56acc5ba4791c76c8b0136bab347e51b5ad5801fa312365e66d0bb08e99b9f1e"
+    },
+    {
+      "path": "source_assets/roadside-scenery/05_round_crown_tree.png",
+      "bytes": 1631790,
+      "sha256": "ae69fc585884e50721d95e9ca66540432b85c02626345040659bde4519be7e55"
+    },
+    {
+      "path": "source_assets/roadside-scenery/06_moss_boulder.png",
+      "bytes": 681221,
+      "sha256": "93598b132de28df75b82b1a8bdf961113546fbf4ab708add54ed6839b57a2904"
+    },
+    {
+      "path": "source_assets/roadside-scenery/07_three_rocks.png",
+      "bytes": 1422409,
+      "sha256": "50d35dd3c11a86171bb43d80ce5138dc36c07655d8bdbd9395e119cb52abe55c"
+    },
+    {
+      "path": "source_assets/roadside-scenery/08_upright_stone.png",
+      "bytes": 1271651,
+      "sha256": "d35122f78b62aaca4cb78b04726af9d149539dd3b6cba3d138ce48b8b3bb65ff"
+    },
+    {
+      "path": "source_assets/roadside-scenery/09_hollow_stump.png",
+      "bytes": 586585,
+      "sha256": "c4a8d5d5810a304cd23b37d0696cf6fab46f642b323f3f220c969e7207a99102"
+    },
+    {
+      "path": "source_assets/roadside-scenery/10_curled_roots.png",
+      "bytes": 1523027,
+      "sha256": "c24dcf526b02b07b6a11e38ffb06e762e07b2cc92231c12cb3b90dc1b8bce676"
+    },
+    {
+      "path": "source_assets/roadside-scenery/使用说明.txt",
+      "bytes": 1545,
+      "sha256": "5d5704d52ad7d223edaa0fd6430b8a2352ab56bebf458ac16c9f0391419d4a9f"
+    },
+    {
+      "path": "source_assets/roadside-scenery/生成提示词.json",
+      "bytes": 27496,
+      "sha256": "ac9426cea2410438742b4c07da86cf8e9d1e97f64f9405ea76e12ea7996af5c5"
+    },
+    {
+      "path": "source_assets/roadside-scenery/素材尺寸与透明检查.json",
+      "bytes": 8258,
+      "sha256": "fd7fa77014d6903b2810c389466c0433428cb16b8aa165f5776cff4a1e65ce69"
+    },
+    {
+      "path": "source_assets/roadside-scenery/道路旁配景总览.png",
+      "bytes": 1594769,
+      "sha256": "f9ad8c6698480cc8a9e9fb508edaa524535d541c2fd16bd0f4d339de5855fa1f"
+    },
+    {
+      "path": "source_assets/runner/frames/idle.png",
+      "bytes": 177205,
+      "sha256": "ac5255188dff4cb2c1c653462cb5ef8da6e67b2ad029f7c85db290ed9f07a5b7"
+    },
+    {
+      "path": "source_assets/runner/frames/run_01.png",
+      "bytes": 162623,
+      "sha256": "dfc708fed1860ab7888c9024830c9bb36b6f6c5ab13443e91308f2742a506c84"
+    },
+    {
+      "path": "source_assets/runner/frames/run_02.png",
+      "bytes": 159612,
+      "sha256": "f52ca62480c7075813a95df954b43988a1c422403e80eccf735c625d646304d5"
+    },
+    {
+      "path": "source_assets/runner/frames/run_03.png",
+      "bytes": 158073,
+      "sha256": "92f5f38973ae4f44459cd9736bea89641cc9d83aa83c9c163edc81106a9c17ae"
+    },
+    {
+      "path": "source_assets/runner/frames/run_04.png",
+      "bytes": 147669,
+      "sha256": "455f61e37de5d8cc7a5fb2ce4be99ddb529fd469831bd118225c9f2b3bd4a5a2"
+    },
+    {
+      "path": "source_assets/runner/frames/run_05.png",
+      "bytes": 166904,
+      "sha256": "594d5d37fc6b253ccd8530be590e6ce1baae5c5c74a9b2456df2651ada843a3e"
+    },
+    {
+      "path": "source_assets/runner/frames/run_06.png",
+      "bytes": 160058,
+      "sha256": "0b6e54180602af807ec1e6f28cdec32380566c9153362615de011691684f8000"
+    },
+    {
+      "path": "source_assets/runner/frames/run_07.png",
+      "bytes": 157657,
+      "sha256": "017a23a660e87532c5be35a73e9a8add496d96c773af548075a593e9e9fb1c1e"
+    },
+    {
+      "path": "source_assets/runner/frames/run_08.png",
+      "bytes": 150734,
+      "sha256": "6de59dc47d9f51daecb6044ff66c525b4dd3e2f9c8a6ced4ba10ee63194becd9"
+    },
+    {
+      "path": "source_assets/runner/使用说明.txt",
+      "bytes": 1919,
+      "sha256": "407ed326b0b6c0e3a37496466342f27ea48c8e2ffab1f77882fa0d931f0453f2"
+    },
+    {
+      "path": "source_assets/runner/关键帧总览.png",
+      "bytes": 680625,
+      "sha256": "389f11fd53c44bf5f5b9956c855e98d19592ab63bc71d43cb3d2c9fbe4630fc1"
+    },
+    {
+      "path": "source_assets/runner/生成提示词.json",
+      "bytes": 19486,
+      "sha256": "a7845d6d48534e77849e1a8924be80f824e1452f7bac0ca53ac44d250c68dadd"
+    },
+    {
+      "path": "source_assets/runner/背影站立.png",
+      "bytes": 1171024,
+      "sha256": "2778768837ad2d22c80e468c15e92449dc591fba91f2d4a168f1d253a90c26f3"
+    },
+    {
+      "path": "source_assets/runner/跑步图集参数.json",
+      "bytes": 2299,
+      "sha256": "555e353c04299c2f5b8f26a6c88718761a965141798f87883eaaf41444ed5b0f"
+    },
+    {
+      "path": "source_assets/runner/跑步循环图集_4x2.png",
+      "bytes": 1319378,
+      "sha256": "15b1b9a3df368e45ba478bc0b648cdbf5e218bdda618f62e9ec09ed757d91f88"
+    },
+    {
+      "path": "source_assets/runner/跑步循环透明预览.apng",
+      "bytes": 1052355,
+      "sha256": "847b977c32cda1267de8aeed5b1a6b8c70a07f8940b294bc5b72f21fae67c269"
+    },
+    {
+      "path": "source_assets/runner/跑步循环预览.gif",
+      "bytes": 300273,
+      "sha256": "149e6683a31cc7b6e66a878b795209c7f60e0d7bb49834f247af28eac0413c5d"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_01.png",
+      "bytes": 1143090,
+      "sha256": "4f4ec4ca80a043ff7a8d86a0377720fbd6a72b4afcc1f089343464ea811a44ae"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_02.png",
+      "bytes": 1119041,
+      "sha256": "abef0b4140fd7228f9b7f2a1353463b4cf68ac7208cf83305715af4c6c73ae8d"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_03.png",
+      "bytes": 1124290,
+      "sha256": "35bf1c53ade5422e109a280841336214264a3c71d44ff0130e2a202fd37cf114"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_04.png",
+      "bytes": 1097828,
+      "sha256": "e39d6dedfcd83956fe83fa1e2e5f79355da97a8612d486d758da33b70853300f"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_05.png",
+      "bytes": 1154291,
+      "sha256": "21ef4d77c44f74780bfbcc207a3056547df2994b3163b0a3f8316aaee51d829c"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_06.png",
+      "bytes": 1130181,
+      "sha256": "9329534881aa0ca9e6736c27b47b912b344dfecbc99510f8e3cd91e00fedb92d"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_07.png",
+      "bytes": 1122400,
+      "sha256": "16d79889125e31e729627dc1620fda8c5e0ac7bc266dd48a8d3df1da5b70b2f0"
+    },
+    {
+      "path": "source_assets/runner/高清原图/run_08.png",
+      "bytes": 1108650,
+      "sha256": "e1b8601a41ed3d228102f6c83bdb89903d995db471d20d6130edae4703d74c51"
+    },
+    {
+      "path": "source_assets/ui-components/failure_badge.png",
+      "bytes": 1536717,
+      "sha256": "ae8d97e668f9945f0d1ff6f2c194c9dc84f60c3cb9f97549e70b93a3b41dbbfa"
+    },
+    {
+      "path": "source_assets/ui-components/game_start_badge.png",
+      "bytes": 1562710,
+      "sha256": "f8eceb19488724a4db1c614fe24a16bfed1c65e5a9d17cc9cdcadce64c62f319"
+    },
+    {
+      "path": "source_assets/ui-components/ui_frame_2160x4680.png",
+      "bytes": 3614391,
+      "sha256": "3a3ea6b56c4f94b53fa8e6ec429e63d6455c3bbc9e6f8ef72632ac3afa66035d"
+    },
+    {
+      "path": "source_assets/ui-components/UI素材总览.png",
+      "bytes": 1835561,
+      "sha256": "907507d4c61c97b6fa7d812a826f69830dcbf804249bed1f7b1c5ef00d90f05a"
+    },
+    {
+      "path": "source_assets/ui-components/victory_badge.png",
+      "bytes": 1641995,
+      "sha256": "015a76ad0a9b19e9360df762cfff51e524b8213350e44b54267af020c9841d4b"
+    },
+    {
+      "path": "source_assets/ui-components/使用说明.txt",
+      "bytes": 1149,
+      "sha256": "eec8fc4be82a6373f8e736ffa44a727b84f09744522755abca61474e0d39b118"
+    },
+    {
+      "path": "source_assets/ui-components/生成提示词.json",
+      "bytes": 9103,
+      "sha256": "fc0ec0bd324f26d39956dee3042227145ccc69c9f045d1cf19556e22602cf263"
+    },
+    {
+      "path": "source_assets/ui-components/素材参数.json",
+      "bytes": 4407,
+      "sha256": "80616081e935264ba27c52a6524d74e1abcf38d7f6588f8ef08e1c780b1f40d6"
+    },
+    {
+      "path": "source_assets/素材来源与完整性.json",
+      "bytes": 56332,
+      "sha256": "d72f34edaff3432d702b300182e80890572bd57ca9950d6d601cbbb977273d41"
+    },
+    {
+      "path": "tests/capture_motion.gd",
+      "bytes": 3557,
+      "sha256": "ea637281c5c235ff9ab67f36b3d1649cfede5e3d9538c6f62aa01e6b4d4b6e1b"
+    },
+    {
+      "path": "tests/capture_motion.gd.uid",
+      "bytes": 20,
+      "sha256": "a8e7cf4f0226c48bcd9df4c04aab24420c7ea1f1b07cd5a6b1628f52a86e336b"
+    },
+    {
+      "path": "tests/runtime_smoke.gd",
+      "bytes": 1729,
+      "sha256": "3f3cc45a4ead94a27602718ec401438de2cd14cf45b32b2a292d3f9c6ce43e52"
+    },
+    {
+      "path": "tests/test_integration.gd",
+      "bytes": 4331,
+      "sha256": "47f6a7eb7a3428442e705bcd438c72d3fe8a9c79b30180a9f7de8dbbb8eba3ba"
+    },
+    {
+      "path": "tests/test_integration.gd.uid",
+      "bytes": 20,
+      "sha256": "7929a533781e2a6db88e7cbed3ee918dea8f407de6bb2411ecba05023c7152ea"
+    },
+    {
+      "path": "tests/test_model.gd",
+      "bytes": 6689,
+      "sha256": "2309215d82baf09fdb2be3619797b3d260ffc82e1f46ece89fc16f360d68455e"
+    },
+    {
+      "path": "tests/test_model.gd.uid",
+      "bytes": 20,
+      "sha256": "0163397f31535d77eee11b551c928fba8067c8029003115062de70522a39d6aa"
+    },
+    {
+      "path": "tools/.gdignore",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tools/COPYRIGHT.godot.txt",
+      "bytes": 100108,
+      "sha256": "cb1980c88089573bcacd7221d777c689bb8bbd778799f24c27fca0fe5f774d6d"
+    },
+    {
+      "path": "tools/Godot_v4.7.2-stable_win64.exe",
+      "bytes": 180858888,
+      "sha256": "ab1824f85bfd8e0e4128182c000c4003a3e042245b2967848d089b2a04b22424"
+    },
+    {
+      "path": "tools/Godot_v4.7.2-stable_win64_console.exe",
+      "bytes": 198152,
+      "sha256": "c8f0a6bc45a19b33541501e57f6f7cd972ab18453743266339d495cbbe846643"
+    },
+    {
+      "path": "tools/LICENSE.godot.txt",
+      "bytes": 1149,
+      "sha256": "b0435e3b3e4e55238f05f4b306f30524a1b2e20147810d436eaa554fa6855c80"
+    },
+    {
+      "path": "tools/_sc_",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tools/引擎来源.json",
+      "bytes": 563,
+      "sha256": "62ccc016be2f8d1fbcad76704dbdf0eb4808a02dd51bf9172d97e44f395556ea"
+    },
+    {
+      "path": "verification/floating-frames.json",
+      "bytes": 1217,
+      "sha256": "e09f62978ee6201fd374076a10e63df544b2495cd5478a912e93bb7855d5ee3a"
+    },
+    {
+      "path": "verification/grass-transitions.json",
+      "bytes": 838,
+      "sha256": "fb9cc3e4a4e173a9b5920a5e14c2aa584a72d997bd79cd6177baef445f71885e"
+    },
+    {
+      "path": "verification/integration-results.json",
+      "bytes": 335,
+      "sha256": "a00258badce0e21b84ccb12235b59d03379f6409328e992d497dfe392bb94970"
+    },
+    {
+      "path": "verification/model-results.json",
+      "bytes": 14968,
+      "sha256": "cdddb1dbec76c9f2eb5c862a940259d6a334d69d0be348bd3b44f86357d5fb0b"
+    },
+    {
+      "path": "verification/motion-capture.json",
+      "bytes": 1423,
+      "sha256": "dcd11254cdc8a565f580653f02b1c20a14ff25d66c2d3dec49a952c54619bb73"
+    },
+    {
+      "path": "verification/new-textures.json",
+      "bytes": 854,
+      "sha256": "0757bd35056f1676c8a2ca4aed92738dc187d6909ec787b9abe1d0a8f5b9b131"
+    },
+    {
+      "path": "verification/runtime-smoke.json",
+      "bytes": 332,
+      "sha256": "a013c6827568acef7d4efa994dfbb0db24482b345a60c37f0b05c37d9512c682"
+    },
+    {
+      "path": "制作提示词.json",
+      "bytes": 17656,
+      "sha256": "34838f18568b20fac32eb7e6bfea9cfb439b3519b67c6a82c263b67eb675d473"
+    },
+    {
+      "path": "启动游戏.cmd",
+      "bytes": 379,
+      "sha256": "e236bfa05fec8bae0ccea68f0b3e1907841b27bd2578144956a24f490e5ad46f"
+    },
+    {
+      "path": "编辑游戏.cmd",
+      "bytes": 120,
+      "sha256": "0282beeef02eb73133084a430e31478b927ad01ca50b1b9d4d4b3b1c16a2310b"
+    }
+  ],
+  "fileCount": 635,
+  "totalBytes": 439453763
+}

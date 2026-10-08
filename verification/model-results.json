@@ -1,0 +1,907 @@
+{
+	"checks": 11569,
+	"failures": [],
+	"passed": true,
+	"playthroughs": [
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 1,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 2,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 3,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 4,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 204,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 5,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 6,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 7,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 196,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 8,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 9,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 10,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 11,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 186,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 12,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 216,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 13,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 236,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 14,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 15,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 16,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 216,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 17,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 18,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 19,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 191,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 20,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 215,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 21,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 231,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 22,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 23,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 24,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 189,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 25,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 26,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 216,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 27,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 28,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 29,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 216,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 30,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 31,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 32,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 224,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 33,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 34,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 191,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 35,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 36,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 224,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 37,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 216,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 38,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 188,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 39,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 40,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 227,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 41,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 236,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 42,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 209,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 43,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 217,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 44,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 45,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 212,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 46,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 47,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 241,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 48,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 49,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 191,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 50,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 51,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 210,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 52,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 53,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 186,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 54,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 185,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 55,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 56,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 200,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 57,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 58,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 59,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 60,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 209,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 61,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 62,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 63,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 210,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 64,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 236,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 65,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 66,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 67,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 199,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 68,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 69,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 70,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 71,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 196,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 72,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 73,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 181,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 74,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 75,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 76,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 191,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 77,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 186,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 78,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 231,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 79,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 207,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 80,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 209,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 81,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 82,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 187,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 83,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 84,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 221,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 85,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 236,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 86,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 87,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 216,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 88,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 196,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 89,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 226,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 90,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 91,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 206,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 92,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 191,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 93,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 205,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 94,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 236,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 95,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 96,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 201,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 97,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 196,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 98,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 211,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 99,
+			"state": "won",
+			"waves": 53
+		},
+		{
+			"coins": 191,
+			"distance": 1000.0,
+			"frames": 5374,
+			"seconds": 89.5536897680945,
+			"seed": 100,
+			"state": "won",
+			"waves": 53
+		}
+	]
+}

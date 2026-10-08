@@ -1,0 +1,17 @@
+{
+	"checks": 336,
+	"engine": {
+		"build": "official",
+		"hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+		"hex": 263938,
+		"major": 4,
+		"minor": 7,
+		"patch": 2,
+		"status": "stable",
+		"string": "4.7.2-stable (official)",
+		"timestamp": 0
+	},
+	"failures": [],
+	"font": "res://assets/fonts/WenCangShuFang-2.ttf",
+	"passed": true
+}

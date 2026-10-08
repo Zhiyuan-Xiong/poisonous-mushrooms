@@ -1,0 +1,329 @@
+{
+  "assetCount": 10,
+  "generationMode": "built-in image_gen.imagegen",
+  "preservedNativeResolution": true,
+  "previewHasBackground": true,
+  "individualAssetsTransparent": true,
+  "assets": [
+    {
+      "id": "01_low_grass",
+      "name": "低矮草丛",
+      "category": "grass",
+      "file": "01_low_grass.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 64.29,
+      "minAlpha": 0,
+      "maxAlpha": 254,
+      "visibleBoundsAlpha64": {
+        "left": 101,
+        "top": 179,
+        "width": 1370,
+        "height": 730,
+        "right": 1470,
+        "bottom": 908
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 786,
+        "y": 908
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5117,
+        "y": 0.8867
+      },
+      "sha256": "600c8bd2d65fef787557ab2a194c3a68542ce611927c2b5e36732ac3074c6cd9"
+    },
+    {
+      "id": "02_fern_bush",
+      "name": "蕨叶灌丛",
+      "category": "grass",
+      "file": "02_fern_bush.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 58.73,
+      "minAlpha": 0,
+      "maxAlpha": 254,
+      "visibleBoundsAlpha64": {
+        "left": 160,
+        "top": 69,
+        "width": 1216,
+        "height": 889,
+        "right": 1375,
+        "bottom": 957
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 768,
+        "y": 957
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5,
+        "y": 0.9346
+      },
+      "sha256": "459088d5b2afeb6a78d790f34ce2a3d72599990148df6c3c2fea18db31225e2a"
+    },
+    {
+      "id": "03_broad_leaves",
+      "name": "阔叶草丛",
+      "category": "grass",
+      "file": "03_broad_leaves.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 58.26,
+      "minAlpha": 0,
+      "maxAlpha": 255,
+      "visibleBoundsAlpha64": {
+        "left": 46,
+        "top": 113,
+        "width": 1162,
+        "height": 1047,
+        "right": 1207,
+        "bottom": 1159
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 627,
+        "y": 1159
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5,
+        "y": 0.9242
+      },
+      "sha256": "52f1ed1bb2fe329f058473e9fb363053f611c32f250656d05f4e0ac5ce82f91b"
+    },
+    {
+      "id": "04_twisted_tree",
+      "name": "扭曲老树",
+      "category": "tree",
+      "file": "04_twisted_tree.png",
+      "width": 1024,
+      "height": 1536,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 68.92,
+      "minAlpha": 0,
+      "maxAlpha": 254,
+      "visibleBoundsAlpha64": {
+        "left": 18,
+        "top": 31,
+        "width": 988,
+        "height": 1484,
+        "right": 1005,
+        "bottom": 1514
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0.01,
+      "suggestedGroundPivotPixels": {
+        "x": 512,
+        "y": 1514
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5,
+        "y": 0.9857
+      },
+      "sha256": "56acc5ba4791c76c8b0136bab347e51b5ad5801fa312365e66d0bb08e99b9f1e"
+    },
+    {
+      "id": "05_round_crown_tree",
+      "name": "团冠小树",
+      "category": "tree",
+      "file": "05_round_crown_tree.png",
+      "width": 1024,
+      "height": 1536,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 52.89,
+      "minAlpha": 0,
+      "maxAlpha": 254,
+      "visibleBoundsAlpha64": {
+        "left": 28,
+        "top": 97,
+        "width": 974,
+        "height": 1383,
+        "right": 1001,
+        "bottom": 1479
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 515,
+        "y": 1479
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5029,
+        "y": 0.9629
+      },
+      "sha256": "ae69fc585884e50721d95e9ca66540432b85c02626345040659bde4519be7e55"
+    },
+    {
+      "id": "06_moss_boulder",
+      "name": "单块苔石",
+      "category": "rock",
+      "file": "06_moss_boulder.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 65.9,
+      "minAlpha": 0,
+      "maxAlpha": 255,
+      "visibleBoundsAlpha64": {
+        "left": 83,
+        "top": 284,
+        "width": 1094,
+        "height": 708,
+        "right": 1176,
+        "bottom": 991
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 630,
+        "y": 991
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5024,
+        "y": 0.7903
+      },
+      "sha256": "93598b132de28df75b82b1a8bdf961113546fbf4ab708add54ed6839b57a2904"
+    },
+    {
+      "id": "07_three_rocks",
+      "name": "苔石草丛组合",
+      "category": "rock",
+      "file": "07_three_rocks.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 61.69,
+      "minAlpha": 0,
+      "maxAlpha": 254,
+      "visibleBoundsAlpha64": {
+        "left": 96,
+        "top": 172,
+        "width": 1352,
+        "height": 717,
+        "right": 1447,
+        "bottom": 888
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 772,
+        "y": 888
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5026,
+        "y": 0.8672
+      },
+      "sha256": "50d35dd3c11a86171bb43d80ce5138dc36c07655d8bdbd9395e119cb52abe55c"
+    },
+    {
+      "id": "08_upright_stone",
+      "name": "立式裂纹石",
+      "category": "rock",
+      "file": "08_upright_stone.png",
+      "width": 1024,
+      "height": 1536,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 58.45,
+      "minAlpha": 0,
+      "maxAlpha": 254,
+      "visibleBoundsAlpha64": {
+        "left": 61,
+        "top": 193,
+        "width": 924,
+        "height": 1147,
+        "right": 984,
+        "bottom": 1339
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 523,
+        "y": 1339
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5107,
+        "y": 0.8717
+      },
+      "sha256": "d35122f78b62aaca4cb78b04726af9d149539dd3b6cba3d138ce48b8b3bb65ff"
+    },
+    {
+      "id": "09_hollow_stump",
+      "name": "空心枯木",
+      "category": "wood",
+      "file": "09_hollow_stump.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 74.82,
+      "minAlpha": 0,
+      "maxAlpha": 255,
+      "visibleBoundsAlpha64": {
+        "left": 74,
+        "top": 248,
+        "width": 1098,
+        "height": 811,
+        "right": 1171,
+        "bottom": 1058
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 623,
+        "y": 1058
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.4968,
+        "y": 0.8437
+      },
+      "sha256": "c4a8d5d5810a304cd23b37d0696cf6fab46f642b323f3f220c969e7207a99102"
+    },
+    {
+      "id": "10_curled_roots",
+      "name": "盘根藤丛",
+      "category": "wood",
+      "file": "10_curled_roots.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "RGBA PNG",
+      "hasAlpha": true,
+      "transparentPercent": 68.8,
+      "minAlpha": 0,
+      "maxAlpha": 254,
+      "visibleBoundsAlpha64": {
+        "left": 60,
+        "top": 38,
+        "width": 1430,
+        "height": 949,
+        "right": 1489,
+        "bottom": 986
+      },
+      "visibleEdgePixels": 0,
+      "nearBlackOpaquePercent": 0,
+      "suggestedGroundPivotPixels": {
+        "x": 775,
+        "y": 986
+      },
+      "suggestedGroundPivotNormalized": {
+        "x": 0.5046,
+        "y": 0.9629
+      },
+      "sha256": "c24dcf526b02b07b6a11e38ffb06e762e07b2cc92231c12cb3b90dc1b8bce676"
+    }
+  ]
+}

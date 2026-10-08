@@ -1,0 +1,44 @@
+[
+  {
+    "file": "res://assets/props/11_tall_reeds.png",
+    "width": 1024,
+    "height": 419,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "res://assets/props/12_grass_bank.png",
+    "width": 1024,
+    "height": 505,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "res://assets/props/13_fern_skirt.png",
+    "width": 1024,
+    "height": 505,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "res://assets/props/14_terraced_bank.png",
+    "width": 1024,
+    "height": 358,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "res://assets/props/15_curved_verge.png",
+    "width": 1024,
+    "height": 341,
+    "alphaMin": 0,
+    "alphaMax": 255
+  },
+  {
+    "file": "res://assets/props/16_grass_hummock.png",
+    "width": 1024,
+    "height": 683,
+    "alphaMin": 0,
+    "alphaMax": 255
+  }
+]

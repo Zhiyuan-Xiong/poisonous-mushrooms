@@ -1,0 +1,40 @@
+蘑菇场景素材 · 风格统一版
+
+共 12 张独立透明 PNG。附件中的待调整素材实际为 12 张，因此全部纳入；前 3 张游戏界面仅作为视觉风格参考。
+生成方式：内置 ImageGen，逐张重绘。输出保留了原素材的主要菌形、构图和辨识特征；第 12 张按“大蘑菇为主体”的要求放大原有菌群，并缩减枝藤配景。
+
+视觉方向：
+- 蓝绿植被与冷蓝阴影，粉红、粉紫菌盖作点缀。
+- 简洁平面插画色块，保留适量手绘轮廓与弧形笔触。
+- 减少颗粒、密集排线、凹孔纹理与底部物体堆积。
+- 每张均有实际透明 Alpha 通道，主体及配景边缘完整。
+
+文件按原附件顺序编号：
+01. 01-大嘴蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/u3437931876_httpss.mj.runFkcvw2pHcD4_concept_art_asset_sheet_mu_02a823d0-f2da-41bc-a11c-8e78150ed624.png
+02. 02-洞穴罩形蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/u3437931876_httpss.mj.runFkcvw2pHcD4_concept_art_asset_sheet_mu_64b985aa-c5ae-4e1c-81de-b2253599661f.png
+03. 03-巨伞笑口蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/u3437931876_httpss.mj.runFkcvw2pHcD4_concept_art_asset_sheet_mu_464e1e56-8a8c-4cb0-89b3-21424d29dab9.png
+04. 04-双生吐舌蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/u3437931876_httpss.mj.runFkcvw2pHcD4_concept_art_asset_sheet_mu_10057108-7d22-4e94-9379-4cf346bf5dc3.png
+05. 05-三株眼斑蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/u3437931876_httpss.mj.runFkcvw2pHcD4_concept_art_asset_sheet_mu_c0fb44aa-b8d7-4195-8319-55a8146e8c0a.png
+06. 06-高脚眼斑蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/u3437931876_httpss.mj.runFkcvw2pHcD4_concept_art_asset_sheet_mu_e87c4874-5bf8-4e58-b9c4-2c9a9d791ccb.png
+07. 07-宽檐胡须蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/u3437931876_httpss.mj.runFkcvw2pHcD4_single_isolated_surreal_mu_271ca20c-c661-4ebc-8b8a-533f17e8e89c.png
+08. 08-大馒头圆团蘑菇.png
+    原图：D:/灵感版mushroom/mushroom/大馒头.png
+09. 09-咕咕羊肚菌.png
+    原图：D:/灵感版mushroom/mushroom/咕咕.png
+10. 10-姑姑菌群草台.png
+    原图：D:/灵感版mushroom/mushroom/姑姑.png
+11. 11-细长眼冠菌丛.png
+    原图：D:/灵感版mushroom/mushroom/微信图片_20260121200612_1734_776.png
+12. 12-藤枝蘑菇组合.png
+    原图：D:/灵感版mushroom/mushroom/修改图片树枝及添加蘑菇.png
+
+生成提示词与原图对应.json 保存了每张原图路径、初次生成提示词及最终采用的构图修正提示词。
+蘑菇素材总览.png 是所有素材叠加在统一深蓝背景上的预览；独立 PNG 的背景透明。
+

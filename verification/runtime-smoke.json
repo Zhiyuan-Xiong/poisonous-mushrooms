@@ -1,0 +1,11 @@
+{
+	"approx_fps": 145.076923076923,
+	"coins": 6,
+	"distance": 59.4287950352368,
+	"duration_ms": 8002,
+	"mean_process_ms": 4.28477094379642,
+	"note": "Native real-time game; no image readback or PNG saving during measurement; automated lane avoidance.",
+	"rendered_frames_after_warmup": 943,
+	"state": "playing",
+	"warmup_ms": 1500
+}

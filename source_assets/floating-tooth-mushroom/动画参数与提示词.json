@@ -1,0 +1,19 @@
+{
+  "mode": "built-in image_gen; transparent_background=true",
+  "prompt": "Use case: stylized-concept. Asset type: ONE transparent animation sprite sheet for the user's flat hand-painted dark mushroom forest runner. Reference 1 supplies the floating tooth-mushroom identity: a broad low domed purple spotted mushroom cap forming the upper jaw, triangular ivory teeth along its edge, a smaller crescent lower jaw with upward ivory teeth, dark muted violet mouth interior; absolutely no stem, roots, legs, arms, eyes or face features. Reference 2 is only palette/flat painted scene style. Generate a portrait sprite sheet with EXACTLY 12 separate equally spaced frames in a regular 3 columns by 4 rows grid, each equal square cell, no grid lines and no labels. Each cell contains the SAME floating mushroom upper cap anchored at the same position and same scale, 8 identical small cream spots on every cap; ONLY lower jaw position and mouth gap animate. Reading left to right then top to bottom: 1 closed, 2 barely open, 3 quarter open, 4 half open, 5 three-quarter open, 6 fully open, 7 fully open, 8 three-quarter open, 9 half open, 10 quarter open, 11 barely open, 12 closed. The upper cap shape, tooth count and size, spot placement and colors stay exactly consistent across all 12 frames. Fixed upper cap center on each cell x midpoint, upper edge y around one third cell height; lower jaw moves straight vertically, no rotation or body movement. Flat matte hand-painted clean color blocks, muted mauve purple cap, slate-violet colored outline (not black), low-noise very minimal brush texture, pale gray ivory teeth, dark navy-violet mouth cavity filled opaque. No gloss, oil-paint texture, dramatic lighting, oversaturation, grain, text, floating particles, extra objects, ground, shadows or scene. True transparent alpha canvas and generous empty margins around every sprite, all 12 fully contained with no overlap. Intended sheet size 1536x2048, 3x4 equal 512x512 cells.",
+  "grid": [
+    3,
+    4
+  ],
+  "frameSize": [
+    512,
+    512
+  ],
+  "fps": 10,
+  "pivot": [
+    0.5,
+    0.5
+  ],
+  "upperCapAnchorY": 78,
+  "notes": "PNG files have alpha. GIF demonstration uses a dark solid preview background. Technical extraction/scale/alignment only; no painted frame fabrication."
+}

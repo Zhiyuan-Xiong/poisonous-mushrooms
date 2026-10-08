@@ -1,0 +1,110 @@
+---
+import Shell from './RestoredCaseShell.astro';
+import Figure from './RestoredFigure.astro';
+import sources from '../data/restored-assets.json';
+import {c,type Lang} from '../data/site';
+import type {Project} from '../data/projects';
+interface Props {lang:Lang;project:Project}
+const {lang,project}=Astro.props;
+const t=(zh:string,en:string)=>lang==='zh'?zh:en;
+const asset=(node:string,image:string)=>(sources as Record<string,Record<string,{src:string;width:number;height:number}>>)[node][image];
+const chapters=[
+{id:'strategy',label:c('形象与创意策略','Artist & strategy')},
+{id:'narrative',label:c('完整叙事脚本','Narrative script')},
+{id:'storyboard',label:c('分镜与成片对照','Storyboard & final film')},
+{id:'game-visuals',label:c('游戏视觉方案','Game visual design')},
+{id:'game-assets',label:c('角色与场景素材','Characters & environment')},
+{id:'gameplay',label:c('玩法与交互界面','Gameplay & interface')}
+];
+const strategy=[
+{title:c('游戏场景叙事','Game-based storytelling'),text:c('将歌词中的现实冲突转化为可探索的游戏关卡，通过不同的游戏类型与场景规则，推动角色从“办公室少女”逐步走向“毒蘑菇魔女”的转变。','Real-world conflicts in the lyrics become game levels. Different genres and rules guide the character from office girl to mushroom witch.'),images:['imgImage32','imgImage37','imgImage38','imgImage39'],labels:[c('游戏角色载入','Character loading'),c('丛林跑酷副本','Forest platformer'),c('棋盘射击副本','Chessboard combat'),c('对话博弈副本','Dialogue challenge')]},
+{title:c('名画视觉运用','Reinterpreting classical art'),text:c('借用具有高识别度的经典艺术作品，通过重构构图、替换人物与符号，赋予名画新的当代语境，强化角色转变的关键节点与情绪表达。','Recognisable artworks are reinterpreted through composition, characters, and symbols, giving pivotal moments of transformation an emotional and contemporary context.'),images:['imgImage33','imgImage40','imgImage41','imgChatGpt202692721544181'],labels:[c('维纳斯的诞生','The Birth of Venus'),c('创造亚当','The Creation of Adam'),c('最后的晚餐','The Last Supper'),c('自由引导人民','Liberty Leading the People')]}
+];
+const story=[
+{title:c('01　导入 · 魔幻办公室','01　Opening · uncanny office'),image:'imgImage70',text:c('以机械化职场日常建立角色初始状态，并通过异常空间与重复动作埋下现实逐渐失真的叙事伏笔。','Mechanical office routines establish the initial character. Repetition and strange spaces foreshadow a reality beginning to distort.')},
+{title:c('02　进入 · 游戏世界','02　Entry · game world'),image:'imgImage71',text:c('电脑突然弹出异常游戏界面，角色意外坠入蘑菇世界，并由此开启现实与虚拟交错的全新冒险旅程。','An unexpected game interface appears on the computer, pulling the character into a mushroom world where reality and virtual space intertwine.')},
+{title:c('03　探索 · 蘑菇森林','03　Exploration · mushroom forest'),image:'imgImage72',text:c('化身游戏玩家进入蘑菇森林，在持续探索、跳跃与闯关中逐渐熟悉异世界中的规则与运行方式。','Exploration, jumping, and challenges introduce the rules of the mushroom forest.')},
+{title:c('04　对抗 · 规则异化','04　Conflict · distorted rules'),image:'imgImage73',text:c('职场关系被转化为棋盘与 Boss 规则，角色开始识别系统中的荒诞，并从被动接受转向主动反击现实秩序。','Workplace hierarchies become chessboard and boss rules. Recognising their absurdity, the character moves from acceptance to resistance.')},
+{title:c('05　觉醒 · 魔女诞生','05　Awakening · birth of the witch'),image:'imgImage77',text:c('经历多个副本与冲突后完成身份升级，从普通办公室少女逐步转变为拥有更自主力量的蘑菇魔女。','Challenges lead to an identity upgrade: the office girl becomes an increasingly autonomous mushroom witch.')},
+{title:c('06　反击 · 对话规训','06　Resistance · dialogue and discipline'),image:'imgImage76',text:c('通过互动对话回应外界压力与社会规训，在一次次选择和反驳中逐渐建立属于自己的更明确立场。','Choices and rebuttals respond to outside pressure and social discipline, establishing a clearer personal position.')},
+{title:c('07　主导 · 蘑菇世界','07　Agency · mushroom world'),image:'imgImage75',text:c('从游戏参与者进一步转变为蘑菇世界的主导者，开始重新定义规则，并掌握角色自身新的行动方向。','The player becomes a leader of the mushroom world, redefining rules and choosing her own direction.')},
+{title:c('08　回归 · 现实办公室','08　Return · real office'),image:'imgImage74',text:c('重新回到最初的办公室空间，现实场景看似恢复原状，但角色已带着新的身份与意识完成最终回归。','The office appears to return to normal, but the character comes back with a changed identity and awareness.')}
+];
+const boards=[
+{title:c('异化办公室','Uncanny office'),drawing:'imgImage51',final:'imgImage55',scene:c('艺人直视镜头','The artist looks into the camera'),size:c('中近景','Medium close-up'),light:c('冷色顶侧光','Cool overhead side light'),camera:c('平视略侧','Eye level, slightly to one side'),composition:c('前景遮挡','Foreground occlusion'),purpose:c('觉察异常','Sense of unease')},
+{title:c('老板蘑菇现身','The mushroom boss'),drawing:'imgImage67',final:'imgImage63',scene:c('蘑菇领导登场','The mushroom boss appears'),size:c('中景','Medium shot'),light:c('冷色顶光','Cool overhead light'),camera:c('低机位仰拍','Low angle'),composition:c('中心对称','Central symmetry'),purpose:c('强化权威压迫','Authority and pressure')},
+{title:c('棋盘对战','Chessboard combat'),drawing:'imgImage59',final:'imgImage56',scene:c('对战毒菇棋子','Fighting mushroom pieces'),size:c('中景','Medium shot'),light:c('冷色环境光','Cool ambient light'),camera:c('平视机位','Eye level'),composition:c('前景引导','Foreground leading lines'),purpose:c('进入主动反击','Active resistance')},
+{title:c('毒菇碎裂','The mushroom shatters'),drawing:'imgImage68',final:'imgImage64',scene:c('击碎毒菇棋子','Shattering a mushroom piece'),size:c('近景','Close-up'),light:c('冷光爆闪','Cool flash'),camera:c('低角仰拍','Low angle'),composition:c('中心爆点','Central impact'),purpose:c('强化反击','Emphasise the counterattack')},
+{title:c('魔女诞生','Birth of the witch'),drawing:'imgImage52',final:'imgImage57',scene:c('贝壳中现身','Appearing in a shell'),size:c('全景','Wide shot'),light:c('柔和冷光','Soft cool light'),camera:c('平视机位','Eye level'),composition:c('中心对称','Central symmetry'),purpose:c('完成身份觉醒','Identity awakening')},
+{title:c('蘑菇宴席','Mushroom banquet'),drawing:'imgImage53',final:'imgImage65',scene:c('群菇围桌对话','Mushrooms converse around a table'),size:c('全景','Wide shot'),light:c('柔和高调光','Soft high-key light'),camera:c('平视机位','Eye level'),composition:c('横向群像','Horizontal ensemble'),purpose:c('表现关系压迫','Pressure within relationships')},
+{title:c('直播式对话','Livestream dialogue'),drawing:'imgImage61',final:'imgImage58',scene:c('回应家庭质问','Responding to family questioning'),size:c('中近景','Medium close-up'),light:c('柔和正面光','Soft front light'),camera:c('正面平视','Frontal eye level'),composition:c('中心构图','Central composition'),purpose:c('强化家庭规训','Family discipline')},
+{title:c('引领蘑菇','Leading the mushrooms'),drawing:'imgImage62',final:'imgImage66',scene:c('魔女领行','The witch leads the procession'),size:c('全景','Wide shot'),light:c('顺光与顶侧光','Front and overhead side light'),camera:c('低机位','Low angle'),composition:c('三角构图','Triangular composition'),purpose:c('强化主导觉醒','Agency and leadership')}
+];
+const characters=[
+{image:'imgCharacter4',label:c('卷帽蛇菇','Curled-cap serpent')},
+{image:'imgCharacter3',label:c('铃帽毒菇','Bell-cap mushroom')},
+{image:'imgCharacter2',label:c('三眼羊肚菌','Three-eyed morel')},
+{image:'imgCharacter1',label:c('咬口伞菇','Biting parasol')}
+];
+const terrain=[
+{image:'img101',label:c('01　菌群草垛','01　Mushroom mound')},
+{image:'img011',label:c('02　大口蘑菇','02　Wide-mouth mushroom')},
+{image:'img121',label:c('03　藤枝蘑菇','03　Branch mushroom')},
+{image:'img111',label:c('04　眼睛菌丛','04　Eye cluster')},
+{image:'img021',label:c('05　洞穴蘑菇','05　Cave mushroom')},
+{image:'img031',label:c('06　笑口蘑菇','06　Smiling mushroom')},
+{image:'img051',label:c('07　眼斑蘑菇','07　Eye-spot mushroom')},
+{image:'img091',label:c('08　咕咕羊肚菌','08　Patterned morel')},
+{image:'img071',label:c('09　胡须蘑菇','09　Whisker mushroom')},
+{image:'img081',label:c('10　面团蘑菇','10　Dough mushroom')},
+{image:'img041',label:c('11　邪恶蘑菇','11　Sinister mushroom')},
+{image:'img061',label:c('12　眼斑蘑菇','12　Eye-spot mushroom')}
+];
+const gameScreens=[
+{image:'img202601120011291279821',label:c('角色与赛道','Character & course')},
+{image:'img202601120011291279823',label:c('开始与操作入口','Start & controls')},
+{image:'img202601120011291279822',label:c('成就反馈','Achievement feedback')},
+{image:'img202601120011291279824',label:c('结果与再次体验','Results & replay')}
+];
+---
+<Shell lang={lang} project={project} theme="mushrooms" englishTitle="Poisonous Mushrooms" chapters={chapters} hero={{src:'/media/mushrooms/hero-poster.webp',width:1600,height:900,alt:c('《毒蘑菇》游戏载入、角色选择与世界地图循环影片','Poisonous Mushrooms game entry, character selection and world map loop')}} video="/media/mushrooms/hero.mp4">
+  <Fragment slot="intro"><p>{t('《毒蘑菇》是艺人邓泽西首支正式 MV。项目以“办公室少女误入游戏世界”为核心，将歌词内容转译为不同游戏副本，并结合名画重构与互动传播，构建完整的蘑菇世界叙事。','Poisonous Mushrooms is artist Deng Zexi’s first official music video. An office girl accidentally enters a game world; the lyrics become game levels, classical paintings are reinterpreted, and an interactive campaign extends the narrative.')}</p><p>{t('在本项目中，我主要负责前期整体策划、场景与分镜设计、抖音小游戏玩法及视觉资产设计，并参与后期调色与视觉统一。','My work covers early creative planning, scenes and storyboards, mini-game mechanics and visual assets, with participation in colour grading and visual consistency.')}</p><a class="restored-video-link" href={project.video} target="_blank" rel="noopener noreferrer">{t('观看完整 MV ↗','Watch the full MV ↗')}</a></Fragment>
+  <section class="case-section restored-chapter" id="strategy">
+    <header class="restored-section-heading"><span class="restored-number">01 / CREATIVE STRATEGY</span><h2>{t('从“办公室少女”到“蘑菇魔女”','From office girl to mushroom witch')}</h2></header>
+    <div class="restored-feature"><div><p>{t('基于歌曲叙事风格，结合邓泽西原有的职场形象，以“办公室少女”为起点，构建其逐步转变为“毒蘑菇魔女”的角色线，并由此确立整支 MV 迷幻、荒诞与反叛并存的视觉基调。','The artist’s workplace persona and the song’s narrative establish the office girl as the starting point. Her transformation into a mushroom witch sets a visual tone that is psychedelic, absurd, and rebellious.')}</p><p class="restored-question">{t('游戏化 MV 创意策划 × 名画视觉运用 × 宣传小游戏','Game-based MV × reinterpreted art × promotional mini-game')}</p></div><div class="mushroom-artist"><Figure node="82:12" image="img2221" alt={t('办公室少女的角色形象','The office girl persona')} lang={lang} contained/><Figure node="82:12" image="img1" alt={t('角色转变后的蘑菇魔女形象','The transformed mushroom witch persona')} lang={lang} contained/></div></div>
+    <div class="restored-grid two">{strategy.map((s,i)=><article><h3>{String(i+1).padStart(2,'0')} / {s.title[lang]}</h3><p>{s.text[lang]}</p><div class="restored-grid two">{s.images.map((image,k)=><Figure node="82:12" image={image} alt={s.labels[k][lang]} caption={s.labels[k][lang]} lang={lang} contained/>)}</div></article>)}</div>
+    <h3>{t('03 / 互动传播策划','03 / Interactive campaign')}</h3><p>{t('基于 MV 的角色、场景与视觉元素，开发轻量化互动特效小游戏，在抖音平台进行话题传播，让人们从观看者转变为参与者。玩法围绕竞速躲避、蘑菇障碍与成就反馈展开，将 MV 资产延展为可参与的传播游戏。','Characters, environments, and symbols extend into a lightweight Douyin effects mini-game. Racing, mushroom obstacles, and achievement feedback shift the viewer into a participant and reuse the MV’s visual world.')}</p>
+    <div class="restored-feature"><Figure node="82:12" image="img202601120011291279821" alt={t('毒蘑菇竞速躲避游戏视觉','Mushroom racing and avoidance game visual')} caption={t('躲避毒蘑菇游戏','Mushroom avoidance game')} lang={lang} contained/><div class="restored-grid two"><Figure node="82:12" image="img202601120011291279822" alt={t('原作品集中引用的竞速游戏参考','Racing game reference included in the original portfolio')} caption={t('参考：流行飞车游戏','Reference: racing game')} lang={lang} contained/><Figure node="82:12" image="img202601120011291279823" alt={t('原作品集中引用的追逐游戏参考','Chase game reference included in the original portfolio')} caption={t('参考：流行追逐游戏','Reference: chase game')} lang={lang} contained/></div></div>
+  </section>
+  <section class="case-section restored-chapter" id="narrative">
+    <header class="restored-section-heading"><span class="restored-number">02 / FULL MV NARRATIVE</span><h2>{t('八段场景串联角色转变','Eight scenes trace the transformation')}</h2></header>
+    <p>{t('整支 MV 以“办公室少女误入游戏世界”为叙事主线，通过现实办公室、游戏载入、蘑菇森林、规则对抗与名画转译等连续场景，推动角色在不同副本中逐步探索、反击与成长，最终完成从被动职场身份到“蘑菇魔女”的转变，并重新回到现实空间形成完整叙事闭环。','The office girl’s journey connects the real office, game loading, mushroom forest, rule-based conflict, and reinterpreted paintings. Exploration and resistance lead to the mushroom witch persona before returning to the office to close the narrative loop.')}</p>
+    <ol class="restored-story">{story.map(s=><li><Figure node="87:18" image={s.image} alt={s.title[lang]} lang={lang}/><h3>{s.title[lang]}</h3><p>{s.text[lang]}</p></li>)}</ol>
+  </section>
+  <section class="case-section restored-chapter" id="storyboard">
+    <header class="restored-section-heading"><span class="restored-number">03 / STORYBOARD TO FINAL FRAME</span><h2>{t('个人绘制分镜与成片对应','My storyboards alongside the final film')}</h2></header>
+    <div class="restored-film" data-mushroom-film><img src={asset('121:225','imgImage57').src} width={asset('121:225','imgImage57').width} height={asset('121:225','imgImage57').height} alt={t('《毒蘑菇》成片中的魔女诞生画面','Birth of the witch in the final music video')} loading="lazy"/><button type="button" data-load-mv aria-label={t('播放《毒蘑菇》完整 MV','Play the full Poisonous Mushrooms music video')}><span aria-hidden="true">▷</span>{t('播放完整 MV','PLAY THE FULL MV')}</button></div>
+    <a class="restored-video-link" href={project.video} target="_blank" rel="noopener noreferrer">{t('在哔哩哔哩打开 ↗','Open on Bilibili ↗')}</a>
+    {boards.map((s,i)=><article class="restored-board"><header><span class="restored-number">{String(i+1).padStart(2,'0')}</span><h3>{s.title[lang]}</h3></header><div class="restored-board-pair"><Figure node="121:225" image={s.drawing} alt={s.title[lang]+t('：个人绘制分镜',': my storyboard')} caption={t('分镜绘制','Storyboard drawing')} lang={lang}/><Figure node="121:225" image={s.final} alt={s.title[lang]+t('：对应的 MV 成片',': corresponding final MV frame')} caption={t('成片画面','Final frame')} lang={lang}/></div><dl><div><dt>{t('场景','Scene')}</dt><dd>{s.scene[lang]}</dd></div><div><dt>{t('景别','Shot')}</dt><dd>{s.size[lang]}</dd></div><div><dt>{t('灯光','Lighting')}</dt><dd>{s.light[lang]}</dd></div><div><dt>{t('机位','Camera')}</dt><dd>{s.camera[lang]}</dd></div><div><dt>{t('构图','Composition')}</dt><dd>{s.composition[lang]}</dd></div><div><dt>{t('镜头作用','Purpose')}</dt><dd>{s.purpose[lang]}</dd></div></dl></article>)}
+  </section>
+  <section class="case-section restored-chapter" id="game-visuals">
+    <header class="restored-section-heading"><span class="restored-number">04 / GAME LOADING SCREEN DESIGN</span><h2>{t('游戏入口、角色选择与世界地图','Game entry, character selection & world map')}</h2></header>
+    <p>{t('围绕 MV“办公室少女进入毒蘑菇世界”的叙事设定，完成游戏入口、角色选择与世界地图三组核心场景设计。通过数字绘画、图像重构与生成式工具辅助进行场景搭建，再以 PS + Procreate 完成构图调整、角色统一、材质补绘与细节精修，建立完整且统一的游戏视觉体系。','Three core scenes extend the narrative: game entry, character selection, and world map. Digital painting, image reconstruction, and generative tools assist scene development; Photoshop and Procreate refine composition, character consistency, materials, and details.')}</p>
+    <h3>{t('01 / 游戏载入','01 / Game entry')}</h3><Figure node="121:268" image="imgUi11" alt={t('《毒蘑菇》游戏载入主界面绘制','The Poisonous Mushrooms game entry illustration')} lang={lang}/><p>{t('以蘑菇森林建立游戏世界的第一视觉入口，通过场景氛围与启动界面，引导角色从现实办公室进入幻想空间。','The mushroom forest and start interface create the first visual gateway from the office into fantasy.')}</p>
+    <div class="restored-grid two"><article><h3>{t('02 / 角色选择','02 / Character selection')}</h3><Figure node="121:268" image="imgUi12" alt={t('办公室少女到蘑菇魔女的角色选择界面','Character selection showing the office girl’s transformation')} lang={lang}/><p>{t('围绕“办公室少女 → 蘑菇魔女”的成长路径设计角色状态，通过服装、姿态与视觉元素变化，建立角色身份转变。','Costumes, poses, and visual elements express the growth from office girl to mushroom witch.')}</p></article><article><h3>{t('03 / 世界地图','03 / World map')}</h3><Figure node="121:268" image="imgUi13" alt={t('整合蘑菇森林、棋盘、魔女诞生与宴席的游戏世界地图','Game world map linking the forest, chessboard, awakening, and banquet')} lang={lang}/><p>{t('将蘑菇森林、棋盘、魔女诞生与宴席等关键场景整合为连续地图节点，统一空间关系、色彩层级与游戏世界视觉语言。','Connected map nodes unify the forest, chessboard, awakening, and banquet through spatial relationships, colour hierarchy, and a shared visual language.')}</p></article></div>
+  </section>
+  <section class="case-section restored-chapter" id="game-assets">
+    <header class="restored-section-heading"><span class="restored-number">05 / GAME ASSET DESIGN</span><h2>{t('游戏地形与角色素材制作','Environment and character asset production')}</h2></header>
+    <p>{t('场景与角色素材均从前期草图、造型探索与风格定调开始，先明确蘑菇世界的形态语言、色彩与角色特征，再搭建 AI 辅助的视觉探索流程。通过多轮生成快速验证不同方案后，以 PS / Procreate 对结构、比例、边缘与局部细节进行手绘修复，并统一材质、色彩与画面风格，保证最终资产既保留创意方向，也具备完整的视觉一致性。','Sketching, form exploration, and style studies establish the mushroom world’s shapes, colours, and characters. AI-assisted exploration tests alternatives, followed by hand correction in Photoshop and Procreate to refine structure, proportions, edges, and details and unify the asset style.')}</p>
+    <h3>{t('蘑菇怪兽','Mushroom creatures')}</h3><div class="restored-asset-grid">{characters.map(s=><Figure node="172:13" image={s.image} alt={s.label[lang]} caption={s.label[lang]} lang={lang}/>)}</div>
+    <h3>{t('地形与障碍素材','Environment & obstacle assets')}</h3><div class="restored-asset-grid">{terrain.map(s=><Figure node="172:13" image={s.image} alt={s.label[lang]} caption={s.label[lang]} lang={lang}/>)}</div>
+    <div class="restored-grid two"><Figure node="172:13" image="imgImage72" alt={t('游戏场景的枯树资产','Dead tree environment asset')} lang={lang} contained/><Figure node="172:13" image="imgImage73" alt={t('游戏场景的树桩资产','Tree stump environment asset')} lang={lang} contained/></div>
+  </section>
+  <section class="case-section restored-chapter" id="gameplay">
+    <header class="restored-section-heading"><span class="restored-number">06 / GAMEPLAY & INTERACTION</span><h2>{t('将 MV 视觉延展为可参与的游戏','Extending the MV into a participatory game')}</h2></header>
+    <p>{t('基于原有抖音特效小游戏 Demo，使用 Codex 重构场景与交互流程，优化角色运动、障碍逻辑、反馈机制与界面表现，并整合自制视觉资产，统一玩法、叙事与 MV 视觉风格。','Building on the original Douyin effects game demo, Codex-assisted reconstruction develops scenes and interaction flows, refining character motion, obstacles, feedback, and interface presentation while integrating the self-produced assets.')}</p>
+    <div class="restored-loop"><div><span>{t('角色运动','MOVEMENT')}</span><p>{t('竞速与躲避，建立直接的操作目标','Racing and avoidance establish a direct interaction goal.')}</p></div><div><span>{t('障碍逻辑','OBSTACLES')}</span><p>{t('以蘑菇资产组织场景与游戏节奏','Mushroom assets organise the environment and game rhythm.')}</p></div><div><span>{t('反馈机制','FEEDBACK')}</span><p>{t('开始、成就、结果与再次体验形成完整流程','Start, achievements, results, and replay form a complete flow.')}</p></div></div>
+    <div class="restored-game-screens">{gameScreens.map(s=><Figure node="172:13" image={s.image} alt={s.label[lang]} caption={s.label[lang]} lang={lang}/>)}</div>
+    <p class="restored-question">{t('从观看者转变为参与者，让角色、叙事与视觉在不同媒介中保持一致。','From viewer to participant: characters, narrative, and visuals stay connected across media.')}</p>
+  </section>
+</Shell>

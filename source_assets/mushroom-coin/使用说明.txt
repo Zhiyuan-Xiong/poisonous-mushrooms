@@ -1,0 +1,12 @@
+蘑菇金币拾取素材
+
+单枚金币，蘑菇浮雕图案，柔和金色与赭金描边。
+
+mushroom_coin_original.png — 原生清晰图
+mushroom_coin_512.png — 512 × 512 透明 PNG
+mushroom_coin_256.png — 256 × 256 透明 PNG
+mushroom_coin_128.png — 128 × 128 透明 PNG
+
+四张均为同一图样，保留透明通道。预览图的暗底不包含在素材中。
+可将独立 PNG 用于 Godot 的道路拾取物外观；这是静态图像素材，未包含动画或拾取逻辑。
+生成方式为内置 image_gen，提示词另附。尺寸、主体中心和透明检查见 JSON 清单。

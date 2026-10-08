@@ -1,0 +1,10 @@
+{
+  "engineLoaded": true,
+  "canvas": {
+    "width": 450,
+    "height": 975
+  },
+  "keyboardStateChanged": true,
+  "touchButtonStateChanged": true,
+  "errors": []
+}

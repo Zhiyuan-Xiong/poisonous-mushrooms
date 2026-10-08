@@ -1,0 +1,4216 @@
+{
+  "generationMode": "built-in imagegen",
+  "frameSize": [
+    512,
+    512
+  ],
+  "pivotPixels": [
+    256,
+    480
+  ],
+  "pivotNormalized": [
+    0.5,
+    0.9375
+  ],
+  "camera": "front-facing, runs towards viewer; translation controlled by game",
+  "idleFps": 8,
+  "runFps": 12,
+  "characters": [
+    {
+      "id": "01_chomper",
+      "name": "咬口伞菇",
+      "scale": 1.1370558375634519,
+      "frameSize": [
+        512,
+        512
+      ],
+      "pivotPixels": [
+        256,
+        480
+      ],
+      "animations": {
+        "idle": {
+          "fps": 8,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 369,
+                "height": 402
+              },
+              "sourceBounds": {
+                "left": 23,
+                "top": 43,
+                "width": 333,
+                "height": 321,
+                "right": 355,
+                "bottom": 363,
+                "transparentPercent": 55.48,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 168,
+              "canvasBounds": {
+                "left": 90,
+                "top": 117,
+                "width": 380,
+                "height": 366,
+                "right": 469,
+                "bottom": 482,
+                "transparentPercent": 67.53,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 369,
+                "top": 0,
+                "width": 361,
+                "height": 391
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 45,
+                "width": 330,
+                "height": 319,
+                "right": 341,
+                "bottom": 363,
+                "transparentPercent": 54.86,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 157,
+              "canvasBounds": {
+                "left": 92,
+                "top": 118,
+                "width": 376,
+                "height": 364,
+                "right": 467,
+                "bottom": 481,
+                "transparentPercent": 68.68,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 730,
+                "top": 0,
+                "width": 356,
+                "height": 379
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 68,
+                "width": 326,
+                "height": 296,
+                "right": 337,
+                "bottom": 363,
+                "transparentPercent": 58.41,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 157,
+              "canvasBounds": {
+                "left": 91,
+                "top": 144,
+                "width": 372,
+                "height": 338,
+                "right": 462,
+                "bottom": 481,
+                "transparentPercent": 72.42,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 402,
+                "width": 369,
+                "height": 320
+              },
+              "sourceBounds": {
+                "left": 23,
+                "top": 48,
+                "width": 331,
+                "height": 261,
+                "right": 353,
+                "bottom": 308,
+                "transparentPercent": 54.95,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 168,
+              "canvasBounds": {
+                "left": 91,
+                "top": 184,
+                "width": 377,
+                "height": 298,
+                "right": 467,
+                "bottom": 481,
+                "transparentPercent": 73.7,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 369,
+                "top": 391,
+                "width": 361,
+                "height": 348
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 28,
+                "width": 332,
+                "height": 292,
+                "right": 343,
+                "bottom": 319,
+                "transparentPercent": 52.49,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 156,
+              "canvasBounds": {
+                "left": 92,
+                "top": 150,
+                "width": 378,
+                "height": 332,
+                "right": 469,
+                "bottom": 481,
+                "transparentPercent": 70.44,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 730,
+                "top": 379,
+                "width": 356,
+                "height": 356
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 15,
+                "width": 329,
+                "height": 317,
+                "right": 340,
+                "bottom": 331,
+                "transparentPercent": 47.53,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 157,
+              "canvasBounds": {
+                "left": 91,
+                "top": 121,
+                "width": 375,
+                "height": 361,
+                "right": 465,
+                "bottom": 481,
+                "transparentPercent": 67.13,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 722,
+                "width": 369,
+                "height": 365
+              },
+              "sourceBounds": {
+                "left": 23,
+                "top": 12,
+                "width": 336,
+                "height": 337,
+                "right": 358,
+                "bottom": 348,
+                "transparentPercent": 42.49,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 165,
+              "canvasBounds": {
+                "left": 95,
+                "top": 98,
+                "width": 383,
+                "height": 385,
+                "right": 477,
+                "bottom": 482,
+                "transparentPercent": 61.76,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 369,
+                "top": 739,
+                "width": 361,
+                "height": 346
+              },
+              "sourceBounds": {
+                "left": 13,
+                "top": 28,
+                "width": 338,
+                "height": 303,
+                "right": 350,
+                "bottom": 330,
+                "transparentPercent": 45.5,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 155,
+              "canvasBounds": {
+                "left": 94,
+                "top": 137,
+                "width": 385,
+                "height": 344,
+                "right": 478,
+                "bottom": 480,
+                "transparentPercent": 66.42,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 730,
+                "top": 735,
+                "width": 356,
+                "height": 351
+              },
+              "sourceBounds": {
+                "left": 10,
+                "top": 24,
+                "width": 332,
+                "height": 311,
+                "right": 341,
+                "bottom": 334,
+                "transparentPercent": 46.82,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 155,
+              "canvasBounds": {
+                "left": 92,
+                "top": 128,
+                "width": 378,
+                "height": 354,
+                "right": 469,
+                "bottom": 481,
+                "transparentPercent": 67.24,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1087,
+                "width": 369,
+                "height": 361
+              },
+              "sourceBounds": {
+                "left": 23,
+                "top": 16,
+                "width": 333,
+                "height": 314,
+                "right": 355,
+                "bottom": 329,
+                "transparentPercent": 51.18,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 166,
+              "canvasBounds": {
+                "left": 92,
+                "top": 125,
+                "width": 380,
+                "height": 357,
+                "right": 471,
+                "bottom": 481,
+                "transparentPercent": 67.83,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 369,
+                "top": 1085,
+                "width": 361,
+                "height": 363
+              },
+              "sourceBounds": {
+                "left": 10,
+                "top": 16,
+                "width": 338,
+                "height": 316,
+                "right": 347,
+                "bottom": 331,
+                "transparentPercent": 48.79,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 157,
+              "canvasBounds": {
+                "left": 89,
+                "top": 122,
+                "width": 386,
+                "height": 360,
+                "right": 474,
+                "bottom": 481,
+                "transparentPercent": 66.89,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 730,
+                "top": 1086,
+                "width": 356,
+                "height": 362
+              },
+              "sourceBounds": {
+                "left": 14,
+                "top": 17,
+                "width": 331,
+                "height": 314,
+                "right": 344,
+                "bottom": 330,
+                "transparentPercent": 50.31,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 159,
+              "canvasBounds": {
+                "left": 92,
+                "top": 125,
+                "width": 377,
+                "height": 358,
+                "right": 468,
+                "bottom": 482,
+                "transparentPercent": 68.34,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "idle/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              369,
+              730,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                402,
+                722,
+                1087,
+                1448
+              ],
+              [
+                0,
+                391,
+                739,
+                1085,
+                1448
+              ],
+              [
+                0,
+                379,
+                735,
+                1086,
+                1448
+              ]
+            ]
+          }
+        },
+        "run": {
+          "fps": 12,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 376,
+                "height": 363
+              },
+              "sourceBounds": {
+                "left": 37,
+                "top": 33,
+                "width": 324,
+                "height": 320,
+                "right": 360,
+                "bottom": 352,
+                "transparentPercent": 53.76,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 191,
+              "canvasBounds": {
+                "left": 82,
+                "top": 118,
+                "width": 368,
+                "height": 364,
+                "right": 449,
+                "bottom": 481,
+                "transparentPercent": 68.81,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 376,
+                "top": 723,
+                "width": 356,
+                "height": 342
+              },
+              "sourceBounds": {
+                "left": 13,
+                "top": 14,
+                "width": 326,
+                "height": 313,
+                "right": 338,
+                "bottom": 326,
+                "transparentPercent": 48.84,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 174,
+              "canvasBounds": {
+                "left": 74,
+                "top": 123,
+                "width": 371,
+                "height": 357,
+                "right": 444,
+                "bottom": 479,
+                "transparentPercent": 69.3,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 376,
+                "top": 0,
+                "width": 356,
+                "height": 373
+              },
+              "sourceBounds": {
+                "left": 17,
+                "top": 36,
+                "width": 324,
+                "height": 318,
+                "right": 340,
+                "bottom": 353,
+                "transparentPercent": 52.78,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 173,
+              "canvasBounds": {
+                "left": 78,
+                "top": 117,
+                "width": 369,
+                "height": 362,
+                "right": 446,
+                "bottom": 478,
+                "transparentPercent": 69.01,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 732,
+                "top": 719,
+                "width": 354,
+                "height": 343
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 9,
+                "width": 331,
+                "height": 313,
+                "right": 342,
+                "bottom": 321,
+                "transparentPercent": 47.36,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 171,
+              "canvasBounds": {
+                "left": 75,
+                "top": 110,
+                "width": 378,
+                "height": 357,
+                "right": 452,
+                "bottom": 466,
+                "transparentPercent": 68.5,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1059,
+                "width": 376,
+                "height": 389
+              },
+              "sourceBounds": {
+                "left": 29,
+                "top": 10,
+                "width": 331,
+                "height": 314,
+                "right": 359,
+                "bottom": 323,
+                "transparentPercent": 55.17,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 197,
+              "canvasBounds": {
+                "left": 65,
+                "top": 118,
+                "width": 378,
+                "height": 359,
+                "right": 442,
+                "bottom": 476,
+                "transparentPercent": 67.57,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 376,
+                "top": 1065,
+                "width": 356,
+                "height": 383
+              },
+              "sourceBounds": {
+                "left": 16,
+                "top": 15,
+                "width": 329,
+                "height": 324,
+                "right": 344,
+                "bottom": 338,
+                "transparentPercent": 51.89,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 181,
+              "canvasBounds": {
+                "left": 68,
+                "top": 112,
+                "width": 376,
+                "height": 370,
+                "right": 443,
+                "bottom": 481,
+                "transparentPercent": 67.67,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 732,
+                "top": 1062,
+                "width": 354,
+                "height": 386
+              },
+              "sourceBounds": {
+                "left": 15,
+                "top": 22,
+                "width": 327,
+                "height": 313,
+                "right": 341,
+                "bottom": 334,
+                "transparentPercent": 53.31,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 176,
+              "canvasBounds": {
+                "left": 74,
+                "top": 125,
+                "width": 372,
+                "height": 357,
+                "right": 445,
+                "bottom": 481,
+                "transparentPercent": 68.66,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 376,
+                "top": 373,
+                "width": 356,
+                "height": 350
+              },
+              "sourceBounds": {
+                "left": 19,
+                "top": 20,
+                "width": 322,
+                "height": 317,
+                "right": 340,
+                "bottom": 336,
+                "transparentPercent": 49.3,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 167,
+              "canvasBounds": {
+                "left": 87,
+                "top": 119,
+                "width": 368,
+                "height": 361,
+                "right": 454,
+                "bottom": 479,
+                "transparentPercent": 68.74,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 732,
+                "top": 0,
+                "width": 354,
+                "height": 373
+              },
+              "sourceBounds": {
+                "left": 20,
+                "top": 34,
+                "width": 319,
+                "height": 318,
+                "right": 338,
+                "bottom": 351,
+                "transparentPercent": 52.18,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 180,
+              "canvasBounds": {
+                "left": 74,
+                "top": 116,
+                "width": 364,
+                "height": 362,
+                "right": 437,
+                "bottom": 477,
+                "transparentPercent": 68.85,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 363,
+                "width": 376,
+                "height": 344
+              },
+              "sourceBounds": {
+                "left": 34,
+                "top": 11,
+                "width": 330,
+                "height": 311,
+                "right": 363,
+                "bottom": 321,
+                "transparentPercent": 49.98,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 201,
+              "canvasBounds": {
+                "left": 67,
+                "top": 114,
+                "width": 375,
+                "height": 354,
+                "right": 441,
+                "bottom": 467,
+                "transparentPercent": 68.02,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 732,
+                "top": 373,
+                "width": 354,
+                "height": 346
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 21,
+                "width": 328,
+                "height": 316,
+                "right": 339,
+                "bottom": 336,
+                "transparentPercent": 47.7,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 171,
+              "canvasBounds": {
+                "left": 76,
+                "top": 117,
+                "width": 374,
+                "height": 360,
+                "right": 449,
+                "bottom": 476,
+                "transparentPercent": 68.23,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 707,
+                "width": 376,
+                "height": 352
+              },
+              "sourceBounds": {
+                "left": 32,
+                "top": 22,
+                "width": 331,
+                "height": 320,
+                "right": 362,
+                "bottom": 341,
+                "transparentPercent": 50.11,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 192,
+              "canvasBounds": {
+                "left": 75,
+                "top": 118,
+                "width": 377,
+                "height": 364,
+                "right": 451,
+                "bottom": 481,
+                "transparentPercent": 67.39,
+                "edge": 0,
+                "blackRatio": 0.000012480654984773601,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "run/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              376,
+              732,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                363,
+                707,
+                1059,
+                1448
+              ],
+              [
+                0,
+                373,
+                723,
+                1065,
+                1448
+              ],
+              [
+                0,
+                373,
+                719,
+                1062,
+                1448
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "02_three_eye_morel",
+      "name": "三眼锥菇",
+      "scale": 1.2429378531073447,
+      "frameSize": [
+        512,
+        512
+      ],
+      "pivotPixels": [
+        256,
+        480
+      ],
+      "animations": {
+        "idle": {
+          "fps": 8,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 377,
+                "height": 386
+              },
+              "sourceBounds": {
+                "left": 77,
+                "top": 63,
+                "width": 243,
+                "height": 313,
+                "right": 319,
+                "bottom": 375,
+                "transparentPercent": 61.53,
+                "edge": 0,
+                "blackRatio": 0.004266106096203784,
+                "blackContourRatio": 0
+              },
+              "anchorX": 216,
+              "canvasBounds": {
+                "left": 84,
+                "top": 93,
+                "width": 302,
+                "height": 390,
+                "right": 385,
+                "bottom": 482,
+                "transparentPercent": 68.65,
+                "edge": 0,
+                "blackRatio": 0.004515094843708255,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 377,
+                "top": 0,
+                "width": 343,
+                "height": 399
+              },
+              "sourceBounds": {
+                "left": 49,
+                "top": 54,
+                "width": 243,
+                "height": 322,
+                "right": 291,
+                "bottom": 375,
+                "transparentPercent": 58.72,
+                "edge": 0,
+                "blackRatio": 0.004425837320574163,
+                "blackContourRatio": 0
+              },
+              "anchorX": 151,
+              "canvasBounds": {
+                "left": 130,
+                "top": 82,
+                "width": 302,
+                "height": 401,
+                "right": 431,
+                "bottom": 482,
+                "transparentPercent": 67.86,
+                "edge": 0,
+                "blackRatio": 0.005284442549452821,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 720,
+                "top": 0,
+                "width": 366,
+                "height": 401
+              },
+              "sourceBounds": {
+                "left": 52,
+                "top": 27,
+                "width": 246,
+                "height": 350,
+                "right": 297,
+                "bottom": 376,
+                "transparentPercent": 58.58,
+                "edge": 0,
+                "blackRatio": 0.00462467581929306,
+                "blackContourRatio": 0
+              },
+              "anchorX": 195,
+              "canvasBounds": {
+                "left": 78,
+                "top": 47,
+                "width": 308,
+                "height": 435,
+                "right": 385,
+                "bottom": 481,
+                "transparentPercent": 64.98,
+                "edge": 0,
+                "blackRatio": 0.0050810265316420045,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 386,
+                "width": 377,
+                "height": 372
+              },
+              "sourceBounds": {
+                "left": 70,
+                "top": 10,
+                "width": 258,
+                "height": 341,
+                "right": 327,
+                "bottom": 350,
+                "transparentPercent": 54.28,
+                "edge": 0,
+                "blackRatio": 0.0024936313731118366,
+                "blackContourRatio": 0
+              },
+              "anchorX": 218,
+              "canvasBounds": {
+                "left": 73,
+                "top": 58,
+                "width": 322,
+                "height": 425,
+                "right": 394,
+                "bottom": 482,
+                "transparentPercent": 64.12,
+                "edge": 0,
+                "blackRatio": 0.002782770015653081,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 377,
+                "top": 399,
+                "width": 343,
+                "height": 370
+              },
+              "sourceBounds": {
+                "left": 44,
+                "top": 24,
+                "width": 254,
+                "height": 314,
+                "right": 297,
+                "bottom": 337,
+                "transparentPercent": 55.86,
+                "edge": 0,
+                "blackRatio": 0.0014504684621114117,
+                "blackContourRatio": 0
+              },
+              "anchorX": 150,
+              "canvasBounds": {
+                "left": 124,
+                "top": 90,
+                "width": 318,
+                "height": 391,
+                "right": 441,
+                "bottom": 480,
+                "transparentPercent": 67.86,
+                "edge": 0,
+                "blackRatio": 0.0018381886868994194,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 720,
+                "top": 401,
+                "width": 366,
+                "height": 368
+              },
+              "sourceBounds": {
+                "left": 48,
+                "top": 25,
+                "width": 263,
+                "height": 311,
+                "right": 310,
+                "bottom": 335,
+                "transparentPercent": 56.62,
+                "edge": 0,
+                "blackRatio": 0.0006945784294809955,
+                "blackContourRatio": 0
+              },
+              "anchorX": 159,
+              "canvasBounds": {
+                "left": 119,
+                "top": 95,
+                "width": 328,
+                "height": 388,
+                "right": 446,
+                "bottom": 482,
+                "transparentPercent": 66.78,
+                "edge": 0,
+                "blackRatio": 0.0009728111748565728,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 758,
+                "width": 377,
+                "height": 330
+              },
+              "sourceBounds": {
+                "left": 70,
+                "top": 21,
+                "width": 261,
+                "height": 288,
+                "right": 330,
+                "bottom": 308,
+                "transparentPercent": 54.94,
+                "edge": 0,
+                "blackRatio": 0.0020755500207555004,
+                "blackContourRatio": 0
+              },
+              "anchorX": 179,
+              "canvasBounds": {
+                "left": 120,
+                "top": 123,
+                "width": 326,
+                "height": 359,
+                "right": 445,
+                "bottom": 481,
+                "transparentPercent": 69.05,
+                "edge": 0,
+                "blackRatio": 0.0022853148357261923,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 377,
+                "top": 769,
+                "width": 343,
+                "height": 312
+              },
+              "sourceBounds": {
+                "left": 42,
+                "top": 40,
+                "width": 260,
+                "height": 259,
+                "right": 301,
+                "bottom": 298,
+                "transparentPercent": 53.67,
+                "edge": 0,
+                "blackRatio": 0.005545758307035456,
+                "blackContourRatio": 0
+              },
+              "anchorX": 146,
+              "canvasBounds": {
+                "left": 127,
+                "top": 160,
+                "width": 324,
+                "height": 322,
+                "right": 450,
+                "bottom": 481,
+                "transparentPercent": 71.53,
+                "edge": 0,
+                "blackRatio": 0.006326260744124542,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 720,
+                "top": 769,
+                "width": 366,
+                "height": 315
+              },
+              "sourceBounds": {
+                "left": 39,
+                "top": 76,
+                "width": 278,
+                "height": 223,
+                "right": 316,
+                "bottom": 298,
+                "transparentPercent": 58.67,
+                "edge": 0,
+                "blackRatio": 0.005961854237716307,
+                "blackContourRatio": 0
+              },
+              "anchorX": 194,
+              "canvasBounds": {
+                "left": 64,
+                "top": 203,
+                "width": 347,
+                "height": 279,
+                "right": 410,
+                "bottom": 481,
+                "transparentPercent": 73.69,
+                "edge": 0,
+                "blackRatio": 0.006414022718370545,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1088,
+                "width": 377,
+                "height": 360
+              },
+              "sourceBounds": {
+                "left": 69,
+                "top": 22,
+                "width": 267,
+                "height": 290,
+                "right": 335,
+                "bottom": 311,
+                "transparentPercent": 59.28,
+                "edge": 0,
+                "blackRatio": 0.00462666528968295,
+                "blackContourRatio": 0
+              },
+              "anchorX": 180,
+              "canvasBounds": {
+                "left": 118,
+                "top": 120,
+                "width": 333,
+                "height": 361,
+                "right": 450,
+                "bottom": 480,
+                "transparentPercent": 69.09,
+                "edge": 0,
+                "blackRatio": 0.005482236217524436,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 377,
+                "top": 1081,
+                "width": 343,
+                "height": 367
+              },
+              "sourceBounds": {
+                "left": 42,
+                "top": 14,
+                "width": 262,
+                "height": 307,
+                "right": 303,
+                "bottom": 320,
+                "transparentPercent": 55.52,
+                "edge": 0,
+                "blackRatio": 0.003913000297944185,
+                "blackContourRatio": 0
+              },
+              "anchorX": 152,
+              "canvasBounds": {
+                "left": 120,
+                "top": 99,
+                "width": 326,
+                "height": 384,
+                "right": 445,
+                "bottom": 482,
+                "transparentPercent": 67.54,
+                "edge": 0,
+                "blackRatio": 0.004238866552773888,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 720,
+                "top": 1084,
+                "width": 366,
+                "height": 364
+              },
+              "sourceBounds": {
+                "left": 52,
+                "top": 16,
+                "width": 251,
+                "height": 303,
+                "right": 302,
+                "bottom": 318,
+                "transparentPercent": 59.24,
+                "edge": 0,
+                "blackRatio": 0.003882051705624845,
+                "blackContourRatio": 0
+              },
+              "anchorX": 158,
+              "canvasBounds": {
+                "left": 125,
+                "top": 105,
+                "width": 313,
+                "height": 377,
+                "right": 437,
+                "bottom": 481,
+                "transparentPercent": 69.12,
+                "edge": 0,
+                "blackRatio": 0.005020965200437999,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "idle/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              377,
+              720,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                386,
+                758,
+                1088,
+                1448
+              ],
+              [
+                0,
+                399,
+                769,
+                1081,
+                1448
+              ],
+              [
+                0,
+                401,
+                769,
+                1084,
+                1448
+              ]
+            ]
+          }
+        },
+        "run": {
+          "fps": 12,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 381,
+                "height": 369
+              },
+              "sourceBounds": {
+                "left": 74,
+                "top": 28,
+                "width": 255,
+                "height": 331,
+                "right": 328,
+                "bottom": 358,
+                "transparentPercent": 61.47,
+                "edge": 0,
+                "blackRatio": 0.024650325439689792,
+                "blackContourRatio": 0
+              },
+              "anchorX": 203,
+              "canvasBounds": {
+                "left": 95,
+                "top": 69,
+                "width": 319,
+                "height": 413,
+                "right": 413,
+                "bottom": 481,
+                "transparentPercent": 68.15,
+                "edge": 0,
+                "blackRatio": 0.023844606455084755,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 381,
+                "top": 0,
+                "width": 342,
+                "height": 378
+              },
+              "sourceBounds": {
+                "left": 38,
+                "top": 44,
+                "width": 253,
+                "height": 319,
+                "right": 290,
+                "bottom": 362,
+                "transparentPercent": 59.4,
+                "edge": 0,
+                "blackRatio": 0.021245331537378315,
+                "blackContourRatio": 0
+              },
+              "anchorX": 164,
+              "canvasBounds": {
+                "left": 100,
+                "top": 83,
+                "width": 315,
+                "height": 397,
+                "right": 414,
+                "bottom": 479,
+                "transparentPercent": 69.19,
+                "edge": 0,
+                "blackRatio": 0.02051989024244754,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 723,
+                "top": 0,
+                "width": 363,
+                "height": 374
+              },
+              "sourceBounds": {
+                "left": 35,
+                "top": 26,
+                "width": 257,
+                "height": 335,
+                "right": 291,
+                "bottom": 360,
+                "transparentPercent": 59.47,
+                "edge": 0,
+                "blackRatio": 0.025492400744416874,
+                "blackContourRatio": 0
+              },
+              "anchorX": 167,
+              "canvasBounds": {
+                "left": 91,
+                "top": 61,
+                "width": 321,
+                "height": 418,
+                "right": 411,
+                "bottom": 478,
+                "transparentPercent": 67.68,
+                "edge": 0,
+                "blackRatio": 0.02454551173177329,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 369,
+                "width": 381,
+                "height": 349
+              },
+              "sourceBounds": {
+                "left": 68,
+                "top": 11,
+                "width": 270,
+                "height": 326,
+                "right": 337,
+                "bottom": 336,
+                "transparentPercent": 57.33,
+                "edge": 0,
+                "blackRatio": 0.02377841651424092,
+                "blackContourRatio": 0
+              },
+              "anchorX": 207,
+              "canvasBounds": {
+                "left": 84,
+                "top": 61,
+                "width": 336,
+                "height": 407,
+                "right": 419,
+                "bottom": 467,
+                "transparentPercent": 66.47,
+                "edge": 0,
+                "blackRatio": 0.023422706275403746,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 381,
+                "top": 378,
+                "width": 342,
+                "height": 350
+              },
+              "sourceBounds": {
+                "left": 39,
+                "top": 15,
+                "width": 258,
+                "height": 326,
+                "right": 296,
+                "bottom": 340,
+                "transparentPercent": 55.03,
+                "edge": 0,
+                "blackRatio": 0.022621013469152258,
+                "blackContourRatio": 0
+              },
+              "anchorX": 162,
+              "canvasBounds": {
+                "left": 104,
+                "top": 69,
+                "width": 321,
+                "height": 407,
+                "right": 424,
+                "bottom": 475,
+                "transparentPercent": 68.29,
+                "edge": 0,
+                "blackRatio": 0.021631492984554444,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 723,
+                "top": 374,
+                "width": 363,
+                "height": 352
+              },
+              "sourceBounds": {
+                "left": 33,
+                "top": 14,
+                "width": 268,
+                "height": 331,
+                "right": 300,
+                "bottom": 344,
+                "transparentPercent": 56.34,
+                "edge": 0,
+                "blackRatio": 0.025175252612075715,
+                "blackContourRatio": 0
+              },
+              "anchorX": 162,
+              "canvasBounds": {
+                "left": 96,
+                "top": 69,
+                "width": 333,
+                "height": 412,
+                "right": 428,
+                "bottom": 480,
+                "transparentPercent": 67.19,
+                "edge": 0,
+                "blackRatio": 0.024697624323755524,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 718,
+                "width": 381,
+                "height": 346
+              },
+              "sourceBounds": {
+                "left": 72,
+                "top": 13,
+                "width": 269,
+                "height": 325,
+                "right": 340,
+                "bottom": 337,
+                "transparentPercent": 58.52,
+                "edge": 0,
+                "blackRatio": 0.024620586463535495,
+                "blackContourRatio": 0
+              },
+              "anchorX": 201,
+              "canvasBounds": {
+                "left": 96,
+                "top": 78,
+                "width": 334,
+                "height": 404,
+                "right": 429,
+                "bottom": 481,
+                "transparentPercent": 67.74,
+                "edge": 0,
+                "blackRatio": 0.024143096308044763,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 381,
+                "top": 728,
+                "width": 342,
+                "height": 341
+              },
+              "sourceBounds": {
+                "left": 39,
+                "top": 9,
+                "width": 261,
+                "height": 319,
+                "right": 299,
+                "bottom": 327,
+                "transparentPercent": 54.87,
+                "edge": 0,
+                "blackRatio": 0.021396419127591288,
+                "blackContourRatio": 0
+              },
+              "anchorX": 164,
+              "canvasBounds": {
+                "left": 101,
+                "top": 82,
+                "width": 324,
+                "height": 397,
+                "right": 424,
+                "bottom": 478,
+                "transparentPercent": 69.04,
+                "edge": 0,
+                "blackRatio": 0.020866647442787115,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 723,
+                "top": 726,
+                "width": 363,
+                "height": 343
+              },
+              "sourceBounds": {
+                "left": 37,
+                "top": 8,
+                "width": 267,
+                "height": 323,
+                "right": 303,
+                "bottom": 330,
+                "transparentPercent": 56.42,
+                "edge": 0,
+                "blackRatio": 0.025504302993471995,
+                "blackContourRatio": 0
+              },
+              "anchorX": 158,
+              "canvasBounds": {
+                "left": 106,
+                "top": 76,
+                "width": 332,
+                "height": 402,
+                "right": 437,
+                "bottom": 477,
+                "transparentPercent": 68,
+                "edge": 0,
+                "blackRatio": 0.02423427309868805,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1064,
+                "width": 381,
+                "height": 384
+              },
+              "sourceBounds": {
+                "left": 72,
+                "top": 8,
+                "width": 272,
+                "height": 332,
+                "right": 343,
+                "bottom": 339,
+                "transparentPercent": 61.26,
+                "edge": 0,
+                "blackRatio": 0.024839247886320606,
+                "blackContourRatio": 0
+              },
+              "anchorX": 205,
+              "canvasBounds": {
+                "left": 91,
+                "top": 55,
+                "width": 339,
+                "height": 413,
+                "right": 429,
+                "bottom": 467,
+                "transparentPercent": 66.54,
+                "edge": 0,
+                "blackRatio": 0.023911145600931227,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 381,
+                "top": 1069,
+                "width": 342,
+                "height": 379
+              },
+              "sourceBounds": {
+                "left": 45,
+                "top": 14,
+                "width": 265,
+                "height": 327,
+                "right": 309,
+                "bottom": 340,
+                "transparentPercent": 58.07,
+                "edge": 0,
+                "blackRatio": 0.021999090783309944,
+                "blackContourRatio": 0
+              },
+              "anchorX": 175,
+              "canvasBounds": {
+                "left": 95,
+                "top": 69,
+                "width": 329,
+                "height": 406,
+                "right": 423,
+                "bottom": 474,
+                "transparentPercent": 68.07,
+                "edge": 0,
+                "blackRatio": 0.02108654080624254,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 723,
+                "top": 1069,
+                "width": 363,
+                "height": 379
+              },
+              "sourceBounds": {
+                "left": 39,
+                "top": 13,
+                "width": 265,
+                "height": 328,
+                "right": 303,
+                "bottom": 340,
+                "transparentPercent": 59.53,
+                "edge": 0,
+                "blackRatio": 0.023939690395350176,
+                "blackContourRatio": 0
+              },
+              "anchorX": 170,
+              "canvasBounds": {
+                "left": 92,
+                "top": 73,
+                "width": 331,
+                "height": 410,
+                "right": 422,
+                "bottom": 482,
+                "transparentPercent": 67.22,
+                "edge": 0,
+                "blackRatio": 0.023156536199151177,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "run/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              381,
+              723,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                369,
+                718,
+                1064,
+                1448
+              ],
+              [
+                0,
+                378,
+                728,
+                1069,
+                1448
+              ],
+              [
+                0,
+                374,
+                726,
+                1069,
+                1448
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "03_bell_toxin",
+      "name": "铃帽毒菇",
+      "scale": 1.103448275862069,
+      "frameSize": [
+        512,
+        512
+      ],
+      "pivotPixels": [
+        256,
+        480
+      ],
+      "animations": {
+        "idle": {
+          "fps": 8,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 367,
+                "height": 407
+              },
+              "sourceBounds": {
+                "left": 32,
+                "top": 98,
+                "width": 319,
+                "height": 276,
+                "right": 350,
+                "bottom": 373,
+                "transparentPercent": 58.38,
+                "edge": 0,
+                "blackRatio": 0.00001756296322315501,
+                "blackContourRatio": 0
+              },
+              "anchorX": 212,
+              "canvasBounds": {
+                "left": 57,
+                "top": 176,
+                "width": 353,
+                "height": 306,
+                "right": 409,
+                "bottom": 481,
+                "transparentPercent": 71.32,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 367,
+                "top": 0,
+                "width": 355,
+                "height": 407
+              },
+              "sourceBounds": {
+                "left": 21,
+                "top": 95,
+                "width": 313,
+                "height": 279,
+                "right": 333,
+                "bottom": 373,
+                "transparentPercent": 58.2,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 206,
+              "canvasBounds": {
+                "left": 52,
+                "top": 173,
+                "width": 347,
+                "height": 309,
+                "right": 398,
+                "bottom": 481,
+                "transparentPercent": 72.15,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 722,
+                "top": 0,
+                "width": 364,
+                "height": 407
+              },
+              "sourceBounds": {
+                "left": 16,
+                "top": 92,
+                "width": 327,
+                "height": 282,
+                "right": 342,
+                "bottom": 373,
+                "transparentPercent": 58.95,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 217,
+              "canvasBounds": {
+                "left": 34,
+                "top": 170,
+                "width": 361,
+                "height": 312,
+                "right": 394,
+                "bottom": 481,
+                "transparentPercent": 71.71,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 407,
+                "width": 367,
+                "height": 348
+              },
+              "sourceBounds": {
+                "left": 31,
+                "top": 37,
+                "width": 321,
+                "height": 278,
+                "right": 351,
+                "bottom": 314,
+                "transparentPercent": 51.78,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 210,
+              "canvasBounds": {
+                "left": 59,
+                "top": 174,
+                "width": 354,
+                "height": 307,
+                "right": 412,
+                "bottom": 480,
+                "transparentPercent": 71.63,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 367,
+                "top": 407,
+                "width": 355,
+                "height": 349
+              },
+              "sourceBounds": {
+                "left": 21,
+                "top": 40,
+                "width": 319,
+                "height": 275,
+                "right": 339,
+                "bottom": 314,
+                "transparentPercent": 50.64,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 207,
+              "canvasBounds": {
+                "left": 50,
+                "top": 177,
+                "width": 353,
+                "height": 305,
+                "right": 402,
+                "bottom": 481,
+                "transparentPercent": 72,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 722,
+                "top": 407,
+                "width": 364,
+                "height": 349
+              },
+              "sourceBounds": {
+                "left": 20,
+                "top": 40,
+                "width": 322,
+                "height": 276,
+                "right": 341,
+                "bottom": 315,
+                "transparentPercent": 51.44,
+                "edge": 0,
+                "blackRatio": 0.00003507848811716215,
+                "blackContourRatio": 0
+              },
+              "anchorX": 159,
+              "canvasBounds": {
+                "left": 103,
+                "top": 176,
+                "width": 355,
+                "height": 305,
+                "right": 457,
+                "bottom": 480,
+                "transparentPercent": 71.48,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 755,
+                "width": 367,
+                "height": 342
+              },
+              "sourceBounds": {
+                "left": 26,
+                "top": 34,
+                "width": 325,
+                "height": 277,
+                "right": 350,
+                "bottom": 310,
+                "transparentPercent": 50.32,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 208,
+              "canvasBounds": {
+                "left": 55,
+                "top": 176,
+                "width": 359,
+                "height": 305,
+                "right": 413,
+                "bottom": 480,
+                "transparentPercent": 71.46,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 367,
+                "top": 756,
+                "width": 355,
+                "height": 341
+              },
+              "sourceBounds": {
+                "left": 19,
+                "top": 35,
+                "width": 322,
+                "height": 275,
+                "right": 340,
+                "bottom": 309,
+                "transparentPercent": 49.5,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 162,
+              "canvasBounds": {
+                "left": 98,
+                "top": 177,
+                "width": 357,
+                "height": 305,
+                "right": 454,
+                "bottom": 481,
+                "transparentPercent": 71.86,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 722,
+                "top": 756,
+                "width": 364,
+                "height": 341
+              },
+              "sourceBounds": {
+                "left": 16,
+                "top": 34,
+                "width": 328,
+                "height": 276,
+                "right": 343,
+                "bottom": 309,
+                "transparentPercent": 49.61,
+                "edge": 0,
+                "blackRatio": 0.00001761276573260299,
+                "blackContourRatio": 0
+              },
+              "anchorX": 159,
+              "canvasBounds": {
+                "left": 99,
+                "top": 176,
+                "width": 362,
+                "height": 306,
+                "right": 460,
+                "bottom": 481,
+                "transparentPercent": 71.41,
+                "edge": 0,
+                "blackRatio": 0.000014474712676953363,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1097,
+                "width": 367,
+                "height": 351
+              },
+              "sourceBounds": {
+                "left": 28,
+                "top": 32,
+                "width": 324,
+                "height": 275,
+                "right": 351,
+                "bottom": 306,
+                "transparentPercent": 51.59,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 166,
+              "canvasBounds": {
+                "left": 105,
+                "top": 177,
+                "width": 358,
+                "height": 304,
+                "right": 462,
+                "bottom": 480,
+                "transparentPercent": 71.23,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 367,
+                "top": 1097,
+                "width": 355,
+                "height": 351
+              },
+              "sourceBounds": {
+                "left": 16,
+                "top": 32,
+                "width": 325,
+                "height": 275,
+                "right": 340,
+                "bottom": 306,
+                "transparentPercent": 50.29,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 161,
+              "canvasBounds": {
+                "left": 96,
+                "top": 178,
+                "width": 360,
+                "height": 303,
+                "right": 455,
+                "bottom": 480,
+                "transparentPercent": 71.45,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 722,
+                "top": 1097,
+                "width": 364,
+                "height": 351
+              },
+              "sourceBounds": {
+                "left": 14,
+                "top": 32,
+                "width": 333,
+                "height": 275,
+                "right": 346,
+                "bottom": 306,
+                "transparentPercent": 50.57,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 157,
+              "canvasBounds": {
+                "left": 99,
+                "top": 178,
+                "width": 368,
+                "height": 304,
+                "right": 466,
+                "bottom": 481,
+                "transparentPercent": 70.88,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "idle/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              367,
+              722,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                407,
+                755,
+                1097,
+                1448
+              ],
+              [
+                0,
+                407,
+                756,
+                1097,
+                1448
+              ],
+              [
+                0,
+                407,
+                756,
+                1097,
+                1448
+              ]
+            ]
+          }
+        },
+        "run": {
+          "fps": 12,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 370,
+                "height": 372
+              },
+              "sourceBounds": {
+                "left": 26,
+                "top": 54,
+                "width": 330,
+                "height": 300,
+                "right": 355,
+                "bottom": 353,
+                "transparentPercent": 52.06,
+                "edge": 0,
+                "blackRatio": 0.0004227436060029592,
+                "blackContourRatio": 0
+              },
+              "anchorX": 184,
+              "canvasBounds": {
+                "left": 81,
+                "top": 150,
+                "width": 365,
+                "height": 331,
+                "right": 445,
+                "bottom": 480,
+                "transparentPercent": 69.2,
+                "edge": 0,
+                "blackRatio": 0.0004933004466368909,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 370,
+                "top": 0,
+                "width": 353,
+                "height": 383
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 69,
+                "width": 325,
+                "height": 294,
+                "right": 336,
+                "bottom": 362,
+                "transparentPercent": 52.79,
+                "edge": 0,
+                "blackRatio": 0.0006039964431320571,
+                "blackContourRatio": 0
+              },
+              "anchorX": 175,
+              "canvasBounds": {
+                "left": 76,
+                "top": 154,
+                "width": 360,
+                "height": 326,
+                "right": 435,
+                "bottom": 479,
+                "transparentPercent": 70.38,
+                "edge": 0,
+                "blackRatio": 0.0004409414099101582,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 723,
+                "top": 0,
+                "width": 363,
+                "height": 381
+              },
+              "sourceBounds": {
+                "left": 14,
+                "top": 53,
+                "width": 326,
+                "height": 303,
+                "right": 339,
+                "bottom": 355,
+                "transparentPercent": 53.23,
+                "edge": 0,
+                "blackRatio": 0.0004598984938324327,
+                "blackContourRatio": 0
+              },
+              "anchorX": 178,
+              "canvasBounds": {
+                "left": 75,
+                "top": 144,
+                "width": 361,
+                "height": 336,
+                "right": 435,
+                "bottom": 479,
+                "transparentPercent": 69.84,
+                "edge": 0,
+                "blackRatio": 0.00040437261588645215,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 372,
+                "width": 370,
+                "height": 345
+              },
+              "sourceBounds": {
+                "left": 24,
+                "top": 18,
+                "width": 334,
+                "height": 299,
+                "right": 357,
+                "bottom": 316,
+                "transparentPercent": 50.14,
+                "edge": 0,
+                "blackRatio": 0.0003520831586889094,
+                "blackContourRatio": 0
+              },
+              "anchorX": 192,
+              "canvasBounds": {
+                "left": 70,
+                "top": 138,
+                "width": 369,
+                "height": 330,
+                "right": 438,
+                "bottom": 467,
+                "transparentPercent": 70.39,
+                "edge": 0,
+                "blackRatio": 0.00031688297374004573,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 370,
+                "top": 383,
+                "width": 353,
+                "height": 334
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 21,
+                "width": 326,
+                "height": 298,
+                "right": 337,
+                "bottom": 318,
+                "transparentPercent": 45.84,
+                "edge": 0,
+                "blackRatio": 0.0003181886691340244,
+                "blackContourRatio": 0
+              },
+              "anchorX": 179,
+              "canvasBounds": {
+                "left": 73,
+                "top": 146,
+                "width": 359,
+                "height": 330,
+                "right": 431,
+                "bottom": 475,
+                "transparentPercent": 70.4,
+                "edge": 0,
+                "blackRatio": 0.00019288794588115347,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 723,
+                "top": 381,
+                "width": 363,
+                "height": 334
+              },
+              "sourceBounds": {
+                "left": 9,
+                "top": 25,
+                "width": 334,
+                "height": 298,
+                "right": 342,
+                "bottom": 322,
+                "transparentPercent": 46.2,
+                "edge": 0,
+                "blackRatio": 0.0005918618988902589,
+                "blackContourRatio": 0
+              },
+              "anchorX": 171,
+              "canvasBounds": {
+                "left": 78,
+                "top": 153,
+                "width": 369,
+                "height": 329,
+                "right": 446,
+                "bottom": 481,
+                "transparentPercent": 69.64,
+                "edge": 0,
+                "blackRatio": 0.000553979192001081,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 717,
+                "width": 370,
+                "height": 336
+              },
+              "sourceBounds": {
+                "left": 23,
+                "top": 28,
+                "width": 334,
+                "height": 298,
+                "right": 356,
+                "bottom": 325,
+                "transparentPercent": 47.77,
+                "edge": 0,
+                "blackRatio": 0.000379895281039922,
+                "blackContourRatio": 0
+              },
+              "anchorX": 186,
+              "canvasBounds": {
+                "left": 77,
+                "top": 153,
+                "width": 369,
+                "height": 329,
+                "right": 445,
+                "bottom": 481,
+                "transparentPercent": 69.79,
+                "edge": 0,
+                "blackRatio": 0.00027145513525252113,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 370,
+                "top": 717,
+                "width": 353,
+                "height": 338
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 15,
+                "width": 325,
+                "height": 301,
+                "right": 336,
+                "bottom": 315,
+                "transparentPercent": 46.62,
+                "edge": 0,
+                "blackRatio": 0.00010057326762546515,
+                "blackContourRatio": 0
+              },
+              "anchorX": 170,
+              "canvasBounds": {
+                "left": 80,
+                "top": 148,
+                "width": 360,
+                "height": 333,
+                "right": 439,
+                "bottom": 480,
+                "transparentPercent": 70.35,
+                "edge": 0,
+                "blackRatio": 0.00013744381983864096,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 723,
+                "top": 715,
+                "width": 363,
+                "height": 336
+              },
+              "sourceBounds": {
+                "left": 11,
+                "top": 11,
+                "width": 332,
+                "height": 300,
+                "right": 342,
+                "bottom": 310,
+                "transparentPercent": 47.53,
+                "edge": 0,
+                "blackRatio": 0.00033428046130703663,
+                "blackContourRatio": 0
+              },
+              "anchorX": 177,
+              "canvasBounds": {
+                "left": 74,
+                "top": 146,
+                "width": 367,
+                "height": 333,
+                "right": 440,
+                "bottom": 478,
+                "transparentPercent": 70.27,
+                "edge": 0,
+                "blackRatio": 0.0004253684239413815,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1053,
+                "width": 370,
+                "height": 395
+              },
+              "sourceBounds": {
+                "left": 27,
+                "top": 11,
+                "width": 331,
+                "height": 302,
+                "right": 357,
+                "bottom": 312,
+                "transparentPercent": 56.15,
+                "edge": 0,
+                "blackRatio": 0.00033205492188407963,
+                "blackContourRatio": 0
+              },
+              "anchorX": 188,
+              "canvasBounds": {
+                "left": 78,
+                "top": 134,
+                "width": 366,
+                "height": 335,
+                "right": 443,
+                "bottom": 468,
+                "transparentPercent": 70.15,
+                "edge": 0,
+                "blackRatio": 0.00025876040148719133,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 370,
+                "top": 1055,
+                "width": 353,
+                "height": 393
+              },
+              "sourceBounds": {
+                "left": 14,
+                "top": 23,
+                "width": 330,
+                "height": 305,
+                "right": 343,
+                "bottom": 327,
+                "transparentPercent": 53.33,
+                "edge": 0,
+                "blackRatio": 0.00011501429463376162,
+                "blackContourRatio": 0
+              },
+              "anchorX": 178,
+              "canvasBounds": {
+                "left": 75,
+                "top": 138,
+                "width": 366,
+                "height": 338,
+                "right": 440,
+                "bottom": 475,
+                "transparentPercent": 69.88,
+                "edge": 0,
+                "blackRatio": 0.0002695018258748703,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 723,
+                "top": 1051,
+                "width": 363,
+                "height": 397
+              },
+              "sourceBounds": {
+                "left": 12,
+                "top": 25,
+                "width": 333,
+                "height": 302,
+                "right": 344,
+                "bottom": 326,
+                "transparentPercent": 53.8,
+                "edge": 0,
+                "blackRatio": 0.0003227524327464618,
+                "blackContourRatio": 0
+              },
+              "anchorX": 177,
+              "canvasBounds": {
+                "left": 74,
+                "top": 148,
+                "width": 369,
+                "height": 335,
+                "right": 442,
+                "bottom": 482,
+                "transparentPercent": 69.1,
+                "edge": 0,
+                "blackRatio": 0.0003838720779392688,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "run/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              370,
+              723,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                372,
+                717,
+                1053,
+                1448
+              ],
+              [
+                0,
+                383,
+                717,
+                1055,
+                1448
+              ],
+              [
+                0,
+                381,
+                715,
+                1051,
+                1448
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "04_curl_hat",
+      "name": "卷帽蛇菇",
+      "scale": 1.2222222222222223,
+      "frameSize": [
+        512,
+        512
+      ],
+      "pivotPixels": [
+        256,
+        480
+      ],
+      "animations": {
+        "idle": {
+          "fps": 8,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 386,
+                "height": 370
+              },
+              "sourceBounds": {
+                "left": 91,
+                "top": 23,
+                "width": 252,
+                "height": 337,
+                "right": 342,
+                "bottom": 359,
+                "transparentPercent": 64.42,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 230,
+              "canvasBounds": {
+                "left": 86,
+                "top": 70,
+                "width": 310,
+                "height": 412,
+                "right": 395,
+                "bottom": 481,
+                "transparentPercent": 71.85,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 386,
+                "top": 0,
+                "width": 338,
+                "height": 369
+              },
+              "sourceBounds": {
+                "left": 35,
+                "top": 27,
+                "width": 256,
+                "height": 333,
+                "right": 290,
+                "bottom": 359,
+                "transparentPercent": 60.19,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 192,
+              "canvasBounds": {
+                "left": 65,
+                "top": 74,
+                "width": 314,
+                "height": 408,
+                "right": 378,
+                "bottom": 481,
+                "transparentPercent": 72.33,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 724,
+                "top": 0,
+                "width": 362,
+                "height": 368
+              },
+              "sourceBounds": {
+                "left": 32,
+                "top": 29,
+                "width": 263,
+                "height": 331,
+                "right": 294,
+                "bottom": 359,
+                "transparentPercent": 61.86,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 204,
+              "canvasBounds": {
+                "left": 46,
+                "top": 77,
+                "width": 322,
+                "height": 404,
+                "right": 367,
+                "bottom": 480,
+                "transparentPercent": 71.4,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 370,
+                "width": 386,
+                "height": 353
+              },
+              "sourceBounds": {
+                "left": 69,
+                "top": 10,
+                "width": 267,
+                "height": 334,
+                "right": 335,
+                "bottom": 343,
+                "transparentPercent": 60.84,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 239,
+              "canvasBounds": {
+                "left": 48,
+                "top": 73,
+                "width": 327,
+                "height": 409,
+                "right": 374,
+                "bottom": 481,
+                "transparentPercent": 70.46,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 386,
+                "top": 369,
+                "width": 338,
+                "height": 357
+              },
+              "sourceBounds": {
+                "left": 36,
+                "top": 9,
+                "width": 261,
+                "height": 336,
+                "right": 296,
+                "bottom": 344,
+                "transparentPercent": 56.43,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 186,
+              "canvasBounds": {
+                "left": 72,
+                "top": 71,
+                "width": 321,
+                "height": 411,
+                "right": 392,
+                "bottom": 481,
+                "transparentPercent": 71.31,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 724,
+                "top": 368,
+                "width": 362,
+                "height": 355
+              },
+              "sourceBounds": {
+                "left": 58,
+                "top": 8,
+                "width": 248,
+                "height": 338,
+                "right": 305,
+                "bottom": 345,
+                "transparentPercent": 60.23,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 201,
+              "canvasBounds": {
+                "left": 82,
+                "top": 69,
+                "width": 304,
+                "height": 413,
+                "right": 385,
+                "bottom": 481,
+                "transparentPercent": 71.78,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 723,
+                "width": 386,
+                "height": 352
+              },
+              "sourceBounds": {
+                "left": 101,
+                "top": 9,
+                "width": 250,
+                "height": 337,
+                "right": 350,
+                "bottom": 345,
+                "transparentPercent": 62.22,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 256,
+              "canvasBounds": {
+                "left": 66,
+                "top": 69,
+                "width": 306,
+                "height": 413,
+                "right": 371,
+                "bottom": 481,
+                "transparentPercent": 71.49,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 386,
+                "top": 726,
+                "width": 338,
+                "height": 351
+              },
+              "sourceBounds": {
+                "left": 65,
+                "top": 13,
+                "width": 242,
+                "height": 330,
+                "right": 306,
+                "bottom": 342,
+                "transparentPercent": 57.69,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 209,
+              "canvasBounds": {
+                "left": 80,
+                "top": 76,
+                "width": 298,
+                "height": 405,
+                "right": 377,
+                "bottom": 480,
+                "transparentPercent": 72.61,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 724,
+                "top": 723,
+                "width": 362,
+                "height": 352
+              },
+              "sourceBounds": {
+                "left": 74,
+                "top": 10,
+                "width": 251,
+                "height": 336,
+                "right": 324,
+                "bottom": 345,
+                "transparentPercent": 58.05,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 210,
+              "canvasBounds": {
+                "left": 89,
+                "top": 71,
+                "width": 308,
+                "height": 411,
+                "right": 396,
+                "bottom": 481,
+                "transparentPercent": 70.8,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1075,
+                "width": 386,
+                "height": 373
+              },
+              "sourceBounds": {
+                "left": 84,
+                "top": 7,
+                "width": 258,
+                "height": 336,
+                "right": 341,
+                "bottom": 342,
+                "transparentPercent": 64.05,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 260,
+              "canvasBounds": {
+                "left": 40,
+                "top": 71,
+                "width": 316,
+                "height": 411,
+                "right": 355,
+                "bottom": 481,
+                "transparentPercent": 71.19,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 386,
+                "top": 1077,
+                "width": 338,
+                "height": 371
+              },
+              "sourceBounds": {
+                "left": 50,
+                "top": 8,
+                "width": 244,
+                "height": 333,
+                "right": 293,
+                "bottom": 340,
+                "transparentPercent": 60.27,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 198,
+              "canvasBounds": {
+                "left": 75,
+                "top": 75,
+                "width": 300,
+                "height": 407,
+                "right": 374,
+                "bottom": 481,
+                "transparentPercent": 72.3,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 724,
+                "top": 1075,
+                "width": 362,
+                "height": 373
+              },
+              "sourceBounds": {
+                "left": 61,
+                "top": 7,
+                "width": 250,
+                "height": 336,
+                "right": 310,
+                "bottom": 342,
+                "transparentPercent": 62.31,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 206,
+              "canvasBounds": {
+                "left": 77,
+                "top": 71,
+                "width": 307,
+                "height": 411,
+                "right": 383,
+                "bottom": 481,
+                "transparentPercent": 71.84,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "idle/frames/idle_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "idle/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120,
+              130,
+              120
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              386,
+              724,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                370,
+                723,
+                1075,
+                1448
+              ],
+              [
+                0,
+                369,
+                726,
+                1077,
+                1448
+              ],
+              [
+                0,
+                368,
+                723,
+                1075,
+                1448
+              ]
+            ]
+          }
+        },
+        "run": {
+          "fps": 12,
+          "loop": true,
+          "frames": [
+            {
+              "frame": 1,
+              "sourcePose": 1,
+              "sourceCell": {
+                "left": 0,
+                "top": 0,
+                "width": 396,
+                "height": 367
+              },
+              "sourceBounds": {
+                "left": 88,
+                "top": 17,
+                "width": 270,
+                "height": 346,
+                "right": 357,
+                "bottom": 362,
+                "transparentPercent": 61.86,
+                "edge": 0,
+                "blackRatio": 0.0002922267679719462,
+                "blackContourRatio": 0
+              },
+              "anchorX": 235,
+              "canvasBounds": {
+                "left": 77,
+                "top": 59,
+                "width": 330,
+                "height": 423,
+                "right": 406,
+                "bottom": 481,
+                "transparentPercent": 68.79,
+                "edge": 0,
+                "blackRatio": 0.00019570839449220662,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_01.png"
+            },
+            {
+              "frame": 2,
+              "sourcePose": 2,
+              "sourceCell": {
+                "left": 396,
+                "top": 0,
+                "width": 348,
+                "height": 366
+              },
+              "sourceBounds": {
+                "left": 38,
+                "top": 28,
+                "width": 266,
+                "height": 333,
+                "right": 303,
+                "bottom": 360,
+                "transparentPercent": 59,
+                "edge": 0,
+                "blackRatio": 0.00017504704389304627,
+                "blackContourRatio": 0
+              },
+              "anchorX": 186,
+              "canvasBounds": {
+                "left": 75,
+                "top": 73,
+                "width": 327,
+                "height": 408,
+                "right": 401,
+                "bottom": 480,
+                "transparentPercent": 70.46,
+                "edge": 0,
+                "blackRatio": 0.00011733990436797793,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_02.png"
+            },
+            {
+              "frame": 3,
+              "sourcePose": 3,
+              "sourceCell": {
+                "left": 744,
+                "top": 0,
+                "width": 342,
+                "height": 366
+              },
+              "sourceBounds": {
+                "left": 31,
+                "top": 25,
+                "width": 267,
+                "height": 335,
+                "right": 297,
+                "bottom": 359,
+                "transparentPercent": 56.36,
+                "edge": 0,
+                "blackRatio": 0.0001273209549071618,
+                "blackContourRatio": 0
+              },
+              "anchorX": 180,
+              "canvasBounds": {
+                "left": 73,
+                "top": 69,
+                "width": 328,
+                "height": 409,
+                "right": 400,
+                "bottom": 477,
+                "transparentPercent": 69.2,
+                "edge": 0,
+                "blackRatio": 0.00007125044531528322,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_03.png"
+            },
+            {
+              "frame": 4,
+              "sourcePose": 4,
+              "sourceCell": {
+                "left": 0,
+                "top": 367,
+                "width": 396,
+                "height": 344
+              },
+              "sourceBounds": {
+                "left": 84,
+                "top": 5,
+                "width": 276,
+                "height": 330,
+                "right": 359,
+                "bottom": 334,
+                "transparentPercent": 58.07,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "anchorX": 218,
+              "canvasBounds": {
+                "left": 93,
+                "top": 64,
+                "width": 337,
+                "height": 403,
+                "right": 429,
+                "bottom": 466,
+                "transparentPercent": 68.24,
+                "edge": 0,
+                "blackRatio": 0,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_04.png"
+            },
+            {
+              "frame": 5,
+              "sourcePose": 5,
+              "sourceCell": {
+                "left": 396,
+                "top": 366,
+                "width": 348,
+                "height": 349
+              },
+              "sourceBounds": {
+                "left": 37,
+                "top": 5,
+                "width": 268,
+                "height": 338,
+                "right": 304,
+                "bottom": 342,
+                "transparentPercent": 51.5,
+                "edge": 0,
+                "blackRatio": 0.00006388823817535191,
+                "blackContourRatio": 0
+              },
+              "anchorX": 175,
+              "canvasBounds": {
+                "left": 87,
+                "top": 62,
+                "width": 329,
+                "height": 415,
+                "right": 415,
+                "bottom": 476,
+                "transparentPercent": 67.54,
+                "edge": 0,
+                "blackRatio": 0.000014277963391301864,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_05.png"
+            },
+            {
+              "frame": 6,
+              "sourcePose": 6,
+              "sourceCell": {
+                "left": 744,
+                "top": 366,
+                "width": 342,
+                "height": 351
+              },
+              "sourceBounds": {
+                "left": 39,
+                "top": 7,
+                "width": 270,
+                "height": 342,
+                "right": 308,
+                "bottom": 348,
+                "transparentPercent": 52.98,
+                "edge": 0,
+                "blackRatio": 0.00016828996360729537,
+                "blackContourRatio": 0
+              },
+              "anchorX": 183,
+              "canvasBounds": {
+                "left": 80,
+                "top": 63,
+                "width": 331,
+                "height": 420,
+                "right": 410,
+                "bottom": 482,
+                "transparentPercent": 67.99,
+                "edge": 0,
+                "blackRatio": 0.00009866241948441839,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_06.png"
+            },
+            {
+              "frame": 7,
+              "sourcePose": 7,
+              "sourceCell": {
+                "left": 0,
+                "top": 711,
+                "width": 396,
+                "height": 350
+              },
+              "sourceBounds": {
+                "left": 87,
+                "top": 10,
+                "width": 273,
+                "height": 337,
+                "right": 359,
+                "bottom": 346,
+                "transparentPercent": 59.08,
+                "edge": 0,
+                "blackRatio": 0.00002114164904862579,
+                "blackContourRatio": 0
+              },
+              "anchorX": 230,
+              "canvasBounds": {
+                "left": 82,
+                "top": 69,
+                "width": 334,
+                "height": 414,
+                "right": 415,
+                "bottom": 482,
+                "transparentPercent": 68.27,
+                "edge": 0,
+                "blackRatio": 0.000042400429657687196,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_07.png"
+            },
+            {
+              "frame": 8,
+              "sourcePose": 8,
+              "sourceCell": {
+                "left": 396,
+                "top": 715,
+                "width": 348,
+                "height": 352
+              },
+              "sourceBounds": {
+                "left": 42,
+                "top": 7,
+                "width": 264,
+                "height": 342,
+                "right": 305,
+                "bottom": 348,
+                "transparentPercent": 55.01,
+                "edge": 0,
+                "blackRatio": 0.00006502655250894116,
+                "blackContourRatio": 0
+              },
+              "anchorX": 187,
+              "canvasBounds": {
+                "left": 78,
+                "top": 62,
+                "width": 324,
+                "height": 419,
+                "right": 401,
+                "bottom": 480,
+                "transparentPercent": 69.26,
+                "edge": 0,
+                "blackRatio": 0.00002897962732199264,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 2,
+              "png": "run/frames/run_08.png"
+            },
+            {
+              "frame": 9,
+              "sourcePose": 9,
+              "sourceCell": {
+                "left": 744,
+                "top": 717,
+                "width": 342,
+                "height": 349
+              },
+              "sourceBounds": {
+                "left": 51,
+                "top": 3,
+                "width": 268,
+                "height": 341,
+                "right": 318,
+                "bottom": 343,
+                "transparentPercent": 54.05,
+                "edge": 0,
+                "blackRatio": 0.00004269763668580944,
+                "blackContourRatio": 0
+              },
+              "anchorX": 193,
+              "canvasBounds": {
+                "left": 81,
+                "top": 62,
+                "width": 330,
+                "height": 418,
+                "right": 410,
+                "bottom": 479,
+                "transparentPercent": 69.35,
+                "edge": 0,
+                "blackRatio": 0.000014291022379741046,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 3,
+              "png": "run/frames/run_09.png"
+            },
+            {
+              "frame": 10,
+              "sourcePose": 10,
+              "sourceCell": {
+                "left": 0,
+                "top": 1061,
+                "width": 396,
+                "height": 387
+              },
+              "sourceBounds": {
+                "left": 86,
+                "top": 3,
+                "width": 272,
+                "height": 337,
+                "right": 357,
+                "bottom": 339,
+                "transparentPercent": 61.98,
+                "edge": 0,
+                "blackRatio": 0.00006152710268873438,
+                "blackContourRatio": 0
+              },
+              "anchorX": 226,
+              "canvasBounds": {
+                "left": 83,
+                "top": 56,
+                "width": 334,
+                "height": 412,
+                "right": 416,
+                "bottom": 467,
+                "transparentPercent": 67.41,
+                "edge": 0,
+                "blackRatio": 0.000027480454526717873,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 14,
+              "png": "run/frames/run_10.png"
+            },
+            {
+              "frame": 11,
+              "sourcePose": 11,
+              "sourceCell": {
+                "left": 396,
+                "top": 1067,
+                "width": 348,
+                "height": 381
+              },
+              "sourceBounds": {
+                "left": 44,
+                "top": 4,
+                "width": 274,
+                "height": 352,
+                "right": 317,
+                "bottom": 355,
+                "transparentPercent": 56.98,
+                "edge": 0,
+                "blackRatio": 0.00006184546878865342,
+                "blackContourRatio": 0
+              },
+              "anchorX": 188,
+              "canvasBounds": {
+                "left": 81,
+                "top": 46,
+                "width": 336,
+                "height": 431,
+                "right": 416,
+                "bottom": 476,
+                "transparentPercent": 68.22,
+                "edge": 0,
+                "blackRatio": 0.000055207441963176636,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 6,
+              "png": "run/frames/run_11.png"
+            },
+            {
+              "frame": 12,
+              "sourcePose": 12,
+              "sourceCell": {
+                "left": 744,
+                "top": 1066,
+                "width": 342,
+                "height": 382
+              },
+              "sourceBounds": {
+                "left": 39,
+                "top": 5,
+                "width": 270,
+                "height": 356,
+                "right": 308,
+                "bottom": 360,
+                "transparentPercent": 56.33,
+                "edge": 0,
+                "blackRatio": 0.00018709073900841907,
+                "blackContourRatio": 0
+              },
+              "anchorX": 189,
+              "canvasBounds": {
+                "left": 73,
+                "top": 47,
+                "width": 330,
+                "height": 435,
+                "right": 402,
+                "bottom": 481,
+                "transparentPercent": 67.89,
+                "edge": 0,
+                "blackRatio": 0.000027855153203342618,
+                "blackContourRatio": 0
+              },
+              "airborneLiftPixels": 0,
+              "png": "run/frames/run_12.png"
+            }
+          ],
+          "atlas": {
+            "file": "run/atlas_3x4.png",
+            "columns": 3,
+            "rows": 4,
+            "cellSize": [
+              512,
+              512
+            ],
+            "size": [
+              1536,
+              2048
+            ]
+          },
+          "gif": {
+            "width": 512,
+            "height": 512,
+            "frames": 12,
+            "delay": [
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80,
+              80,
+              90,
+              80
+            ],
+            "loop": 0
+          },
+          "distinctFrames": 12,
+          "sourceSheet": {
+            "width": 1086,
+            "height": 1448,
+            "columnSeparators": [
+              0,
+              396,
+              744,
+              1086
+            ],
+            "rowSeparators": [
+              [
+                0,
+                367,
+                711,
+                1061,
+                1448
+              ],
+              [
+                0,
+                366,
+                715,
+                1067,
+                1448
+              ],
+              [
+                0,
+                366,
+                717,
+                1066,
+                1448
+              ]
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

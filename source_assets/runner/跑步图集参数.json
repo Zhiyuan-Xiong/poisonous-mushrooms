@@ -1,0 +1,127 @@
+{
+  "file": "跑步循环图集_4x2.png",
+  "imageWidth": 2048,
+  "imageHeight": 1536,
+  "frameWidth": 512,
+  "frameHeight": 768,
+  "columns": 4,
+  "rows": 2,
+  "frameCount": 8,
+  "loop": true,
+  "recommendedFps": 12.5,
+  "frameDurationMs": 80,
+  "pivotPixels": {
+    "x": 256,
+    "y": 728
+  },
+  "pivotNormalized": {
+    "x": 0.5,
+    "y": 0.9479166666666666
+  },
+  "sequence": [
+    {
+      "id": 1,
+      "name": "run_01",
+      "phase": "左脚落地",
+      "image": "frames/run_01.png",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    },
+    {
+      "id": 2,
+      "name": "run_02",
+      "phase": "左脚支撑",
+      "image": "frames/run_02.png",
+      "rect": {
+        "x": 512,
+        "y": 0,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    },
+    {
+      "id": 3,
+      "name": "run_03",
+      "phase": "右腿过腿",
+      "image": "frames/run_03.png",
+      "rect": {
+        "x": 1024,
+        "y": 0,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    },
+    {
+      "id": 4,
+      "name": "run_04",
+      "phase": "腾空·右腿前伸",
+      "image": "frames/run_04.png",
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    },
+    {
+      "id": 5,
+      "name": "run_05",
+      "phase": "右脚落地",
+      "image": "frames/run_05.png",
+      "rect": {
+        "x": 0,
+        "y": 768,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    },
+    {
+      "id": 6,
+      "name": "run_06",
+      "phase": "右脚支撑",
+      "image": "frames/run_06.png",
+      "rect": {
+        "x": 512,
+        "y": 768,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    },
+    {
+      "id": 7,
+      "name": "run_07",
+      "phase": "左腿过腿",
+      "image": "frames/run_07.png",
+      "rect": {
+        "x": 1024,
+        "y": 768,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    },
+    {
+      "id": 8,
+      "name": "run_08",
+      "phase": "腾空·左腿前伸",
+      "image": "frames/run_08.png",
+      "rect": {
+        "x": 1536,
+        "y": 768,
+        "w": 512,
+        "h": 768
+      },
+      "durationMs": 80
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "poisonous-mushrooms",
+  "title": {
+    "zh": "《毒蘑菇》",
+    "en": "Poisonous Mushrooms"
+  },
+  "subtitle": {
+    "zh": "从音乐叙事到游戏世界的视觉延伸",
+    "en": "From music narrative to an extended game world"
+  },
+  "description": {
+    "zh": "为邓泽西的 MV 参与前期概念、场景与分镜设计，并将视觉世界延伸至宣传小游戏。",
+    "en": "Contributing concept, environment, and storyboard design to Deng Zexi’s music video, with a visual extension into a promotional mini-game."
+  },
+  "categories": [
+    "video",
+    "visual",
+    "ux"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "音乐影像／商业协作",
+    "en": "Music video / Commercial collaboration"
+  },
+  "featured": true,
+  "background": "mushrooms-story-b",
+  "cover": "mushrooms-cover",
+  "coverAlt": {
+    "zh": "蘑菇森林构成的游戏开始画面，中央显示毒蘑菇标题。",
+    "en": "A mushroom forest forms the game start screen, with the title at its centre."
+  },
+  "role": {
+    "zh": "前期概念、场景与分镜；宣传小游戏玩法与视觉资产；参与调色与视觉统一",
+    "en": "Early concept, environments, and storyboards; promotional mini-game gameplay and assets; contribution to grading and visual consistency"
+  },
+  "stage": {
+    "zh": "MV 已发布；本页展示个人参与部分",
+    "en": "Music video released; this case documents my contributions"
+  },
+  "deliverables": {
+    "zh": "概念方案、叙事分镜、游戏界面与视觉资产",
+    "en": "Concept direction, narrative storyboards, game interface, and visual assets"
+  },
+  "overview": {
+    "zh": "邓泽西的官方 MV，以一位职场女性进入奇幻游戏世界并成为蘑菇女巫为线索。我参与前期整体概念、场景与分镜设计，并设计用于宣传的小游戏玩法与视觉资产。",
+    "en": "Deng Zexi’s official music video follows an office worker into a fantasy game world, where she becomes a mushroom witch. I contributed the early concept, environments, and storyboards, and designed gameplay and visual assets for a promotional mini-game."
+  },
+  "video": "https://www.bilibili.com/video/BV1YzXkB3Exp/",
+  "sections": [
+    {
+      "id": "concept",
+      "title": {
+        "zh": "01　概念与目标",
+        "en": "01　Concept & intent"
+      },
+      "paragraphs": [
+        {
+          "zh": "用“进入游戏”连接现实职场与奇幻世界，让音乐中的态度通过角色、空间与情节得到表达。经典绘画的视觉引用，成为画面构成与情绪的素材。",
+          "en": "Entering a game connects office life with a fantasy world, allowing the music’s attitude to emerge through characters, spaces, and events. References to classical paintings inform composition and mood."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "游戏化叙事",
+            "en": "Game narrative"
+          },
+          "text": {
+            "zh": "以进入、探索、对抗与返回组织影像，而不是只串联独立画面。",
+            "en": "Entry, exploration, confrontation, and return organise the film as a connected journey."
+          }
+        },
+        {
+          "title": {
+            "zh": "视觉再创作",
+            "en": "Visual reinterpretation"
+          },
+          "text": {
+            "zh": "在绘画参考、数字绘制与场景设计之间建立一致的视觉语言。",
+            "en": "Build a consistent language across painting references, digital artwork, and environments."
+          }
+        },
+        {
+          "title": {
+            "zh": "宣传体验延伸",
+            "en": "Promotional extension"
+          },
+          "text": {
+            "zh": "让观众在小游戏中继续接触 MV 的角色与世界。",
+            "en": "Let audiences encounter the video’s characters and world through a mini-game."
+          }
+        }
+      ]
+    },
+    {
+      "id": "storyboard",
+      "title": {
+        "zh": "02　叙事与分镜",
+        "en": "02　Narrative & storyboards"
+      },
+      "paragraphs": [
+        {
+          "zh": "叙事由扭曲的职场开始，经过进入世界、森林探索与规则冲突，再到女巫觉醒、对话反击、掌控世界与返回现实。分镜把这些转折落实到镜头、人物与空间关系。",
+          "en": "The story moves from a distorted office into a new world, forest exploration, and conflict with its rules, followed by the witch’s awakening, rebuttal, control, and return. Storyboards translate these changes into shots and relationships between figures and spaces."
+        }
+      ],
+      "figures": [
+        {
+          "image": "mushrooms-story-a",
+          "alt": {
+            "zh": "毒蘑菇项目的叙事分镜与概念画面。",
+            "en": "A storyboard and concept frame from Poisonous Mushrooms."
+          },
+          "caption": {
+            "zh": "前期视觉材料：探索场景构成与角色在空间中的关系。",
+            "en": "Early visual material exploring composition and the character’s place in the environment."
+          }
+        },
+        {
+          "image": "mushrooms-story-b",
+          "alt": {
+            "zh": "已发布 MV 中的蘑菇森林画面。",
+            "en": "The mushroom forest in the released music video."
+          },
+          "caption": {
+            "zh": "已发布 MV 画面：从前期叙事与概念走向协作完成的影像。",
+            "en": "Released MV frame: early narrative and concepts become a collaboratively produced film."
+          }
+        }
+      ]
+    },
+    {
+      "id": "game",
+      "title": {
+        "zh": "03　小游戏与视觉资产",
+        "en": "03　Mini-game & visual assets"
+      },
+      "paragraphs": [
+        {
+          "zh": "宣传小游戏沿用 MV 的蘑菇森林世界，包含开始画面与角色选择等视觉资产。玩法设计与界面视觉相互配合，让影像中的世界进入可参与的情境。",
+          "en": "The promotional mini-game carries over the mushroom forest world, with assets including a start screen and character selection. Gameplay and interface visuals extend the film into a participatory setting."
+        }
+      ],
+      "figures": [
+        {
+          "image": "mushrooms-cover",
+          "alt": {
+            "zh": "毒蘑菇小游戏开始界面。",
+            "en": "The start screen of the Poisonous Mushrooms mini-game."
+          },
+          "caption": {
+            "zh": "开始界面：沿用世界观，同时提供直接的参与入口。",
+            "en": "Start screen: keeping the world’s visual language with a direct entry point."
+          }
+        },
+        {
+          "image": "mushrooms-characters",
+          "alt": {
+            "zh": "四个蘑菇角色的选择界面。",
+            "en": "A selection interface with mushroom characters."
+          },
+          "caption": {
+            "zh": "角色选择：将叙事角色转化为界面中的可选择对象。",
+            "en": "Character selection transforms narrative figures into choices within the interface."
+          },
+          "portrait": true
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": {
+        "zh": "04　制作与协作",
+        "en": "04　Production & collaboration"
+      },
+      "paragraphs": [
+        {
+          "zh": "前期使用数字绘画与 AI 辅助探索构图，结合 Photoshop、Procreate 的修整与细化，将不同来源的视觉素材统一到项目语言中。后期参与调色与视觉一致性的调整。",
+          "en": "Early digital painting and AI-assisted composition exploration were refined in Photoshop and Procreate to bring different visual sources into one language. I also contributed to grading and visual consistency."
+        },
+        {
+          "zh": "MV 是协作成果。本案例重点展示我的概念、分镜与小游戏工作，完整制作信息以公开视频的署名为准。",
+          "en": "The music video is a collaborative outcome. This case focuses on my concept, storyboard, and mini-game work; full production credits are provided with the published video."
+        }
+      ]
+    },
+    {
+      "id": "reflection",
+      "title": {
+        "zh": "05　成果与反思",
+        "en": "05　Outcomes & reflection"
+      },
+      "paragraphs": [
+        {
+          "zh": "影像已公开发布，概念与视觉资产也形成了从 MV 到小游戏的延伸。现有材料不足以把播放量或传播效果归因于个人设计，因此这里以可展示的产出说明贡献。",
+          "en": "The video has been publicly released, with concepts and assets extending into a mini-game. The available evidence does not attribute audience reach to individual design decisions, so the case demonstrates contributions through tangible outputs."
+        },
+        {
+          "zh": "这次实践让我关注：视觉统一需要在前期建立规则，也需要在跨媒介制作中持续维护；界面与影像虽然观看方式不同，仍可以共享角色、色彩与叙事线索。",
+          "en": "This work highlights the need to establish visual rules early and maintain them across media. Interfaces and films have different viewing patterns, but can share characters, colour, and narrative cues."
+        }
+      ]
+    }
+  ]
+}

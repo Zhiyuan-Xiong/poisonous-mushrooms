@@ -1,0 +1,1514 @@
+{
+  "scene": {
+    "background": {
+      "path": "res://assets/scene/background.png",
+      "width": 1080,
+      "height": 2340,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    },
+    "ground": {
+      "path": "res://assets/scene/checker_grass.png",
+      "width": 1254,
+      "height": 1254,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    },
+    "canopy": {
+      "path": "res://assets/scene/canopy.png",
+      "width": 1536,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    },
+    "meadow": {
+      "path": "res://assets/scene/meadow_grass.png",
+      "width": 1254,
+      "height": 1254
+    },
+    "fog": {
+      "path": "res://assets/scene/distant_fog.png",
+      "width": 1536,
+      "height": 1024
+    },
+    "contact": {
+      "path": "res://assets/scene/grass_contact.png",
+      "width": 1024,
+      "height": 505
+    }
+  },
+  "ui": {
+    "frame": {
+      "path": "res://assets/ui/frame.png",
+      "width": 2160,
+      "height": 4680,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    },
+    "victory": {
+      "path": "res://assets/ui/victory.png",
+      "width": 1536,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    },
+    "start": {
+      "path": "res://assets/ui/start.png",
+      "width": 1536,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    },
+    "failure": {
+      "path": "res://assets/ui/failure.png",
+      "width": 1536,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    }
+  },
+  "player": {
+    "idle": {
+      "path": "res://assets/player/idle.png",
+      "width": 512,
+      "height": 768,
+      "pivot": [
+        0.5,
+        0.985
+      ]
+    },
+    "frames": [
+      {
+        "path": "res://assets/player/run_01.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      },
+      {
+        "path": "res://assets/player/run_02.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      },
+      {
+        "path": "res://assets/player/run_03.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      },
+      {
+        "path": "res://assets/player/run_04.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      },
+      {
+        "path": "res://assets/player/run_05.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      },
+      {
+        "path": "res://assets/player/run_06.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      },
+      {
+        "path": "res://assets/player/run_07.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      },
+      {
+        "path": "res://assets/player/run_08.png",
+        "width": 512,
+        "height": 768,
+        "pivot": [
+          0.5,
+          0.985
+        ]
+      }
+    ],
+    "pivot": [
+      0.5,
+      0.9479166666666666
+    ],
+    "world_height": 2.75
+  },
+  "monsters": [
+    {
+      "id": "01_chomper",
+      "pivot": [
+        0.5,
+        0.9375
+      ],
+      "frames": [
+        {
+          "path": "res://assets/monsters/01_chomper/run_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/run_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "idle": [
+        {
+          "path": "res://assets/monsters/01_chomper/idle_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/01_chomper/idle_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "world_height": 1.7
+    },
+    {
+      "id": "02_three_eye_morel",
+      "pivot": [
+        0.5,
+        0.9375
+      ],
+      "frames": [
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/run_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "idle": [
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/02_three_eye_morel/idle_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "world_height": 1.7
+    },
+    {
+      "id": "03_bell_toxin",
+      "pivot": [
+        0.5,
+        0.9375
+      ],
+      "frames": [
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/run_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "idle": [
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/03_bell_toxin/idle_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "world_height": 1.7
+    },
+    {
+      "id": "04_curl_hat",
+      "pivot": [
+        0.5,
+        0.9375
+      ],
+      "frames": [
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/run_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "idle": [
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_01.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_02.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_03.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_04.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_05.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_06.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_07.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_08.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_09.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_10.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_11.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        },
+        {
+          "path": "res://assets/monsters/04_curl_hat/idle_12.png",
+          "width": 512,
+          "height": 512,
+          "pivot": [
+            0.5,
+            0.985
+          ]
+        }
+      ],
+      "world_height": 1.7
+    }
+  ],
+  "coin": {
+    "path": "res://assets/pickups/mushroom_coin.png",
+    "width": 512,
+    "height": 505,
+    "pivot": [
+      0.5,
+      0.5
+    ],
+    "world_height": 0.5
+  },
+  "props": [
+    {
+      "path": "res://assets/scenery/mushroom_01.png",
+      "width": 1024,
+      "height": 977,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_0",
+      "group": "mushroom",
+      "world_height": 2.6
+    },
+    {
+      "path": "res://assets/scenery/mushroom_02.png",
+      "width": 817,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_1",
+      "group": "mushroom",
+      "world_height": 3.5
+    },
+    {
+      "path": "res://assets/scenery/mushroom_03.png",
+      "width": 668,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_2",
+      "group": "mushroom",
+      "world_height": 4.4
+    },
+    {
+      "path": "res://assets/scenery/mushroom_04.png",
+      "width": 800,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_3",
+      "group": "mushroom",
+      "world_height": 3.3
+    },
+    {
+      "path": "res://assets/scenery/mushroom_05.png",
+      "width": 923,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_4",
+      "group": "mushroom",
+      "world_height": 3.2
+    },
+    {
+      "path": "res://assets/scenery/mushroom_06.png",
+      "width": 829,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_5",
+      "group": "mushroom",
+      "world_height": 3.8
+    },
+    {
+      "path": "res://assets/scenery/mushroom_07.png",
+      "width": 1024,
+      "height": 912,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_6",
+      "group": "mushroom",
+      "world_height": 3.4
+    },
+    {
+      "path": "res://assets/scenery/mushroom_08.png",
+      "width": 1024,
+      "height": 702,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_7",
+      "group": "mushroom",
+      "world_height": 2.1
+    },
+    {
+      "path": "res://assets/scenery/mushroom_09.png",
+      "width": 669,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_8",
+      "group": "mushroom",
+      "world_height": 3.2
+    },
+    {
+      "path": "res://assets/scenery/mushroom_10.png",
+      "width": 1024,
+      "height": 546,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_9",
+      "group": "mushroom",
+      "world_height": 1.7
+    },
+    {
+      "path": "res://assets/scenery/mushroom_11.png",
+      "width": 724,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_10",
+      "group": "mushroom",
+      "world_height": 2.9
+    },
+    {
+      "path": "res://assets/scenery/mushroom_12.png",
+      "width": 1024,
+      "height": 1009,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "mushroom_11",
+      "group": "mushroom",
+      "world_height": 3.7
+    },
+    {
+      "path": "res://assets/scenery/01_low_grass.png",
+      "width": 1024,
+      "height": 554,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "01_low_grass",
+      "group": "low",
+      "world_height": 0.65
+    },
+    {
+      "path": "res://assets/scenery/02_fern_bush.png",
+      "width": 1024,
+      "height": 754,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "02_fern_bush",
+      "group": "low",
+      "world_height": 0.95
+    },
+    {
+      "path": "res://assets/scenery/03_broad_leaves.png",
+      "width": 1024,
+      "height": 925,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "03_broad_leaves",
+      "group": "low",
+      "world_height": 1.15
+    },
+    {
+      "path": "res://assets/scenery/04_twisted_tree.png",
+      "width": 687,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "04_twisted_tree",
+      "group": "tree",
+      "world_height": 4.6
+    },
+    {
+      "path": "res://assets/scenery/05_round_crown_tree.png",
+      "width": 726,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "05_round_crown_tree",
+      "group": "tree",
+      "world_height": 4.2
+    },
+    {
+      "path": "res://assets/scenery/06_moss_boulder.png",
+      "width": 1024,
+      "height": 670,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "06_moss_boulder",
+      "group": "rock",
+      "world_height": 0.75
+    },
+    {
+      "path": "res://assets/scenery/07_three_rocks.png",
+      "width": 1024,
+      "height": 551,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "07_three_rocks",
+      "group": "rock",
+      "world_height": 1
+    },
+    {
+      "path": "res://assets/scenery/08_upright_stone.png",
+      "width": 829,
+      "height": 1024,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "08_upright_stone",
+      "group": "rock",
+      "world_height": 2
+    },
+    {
+      "path": "res://assets/scenery/09_hollow_stump.png",
+      "width": 1024,
+      "height": 762,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "09_hollow_stump",
+      "group": "wood",
+      "world_height": 1.4
+    },
+    {
+      "path": "res://assets/scenery/10_curled_roots.png",
+      "width": 1024,
+      "height": 685,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "id": "10_curled_roots",
+      "group": "wood",
+      "world_height": 1.5
+    },
+    {
+      "id": "11_tall_reeds",
+      "name": "渐变长草",
+      "path": "res://assets/props/11_tall_reeds.png",
+      "width": 1024,
+      "height": 419,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "group": "low",
+      "world_height": 0.95
+    },
+    {
+      "id": "12_grass_bank",
+      "name": "隆起草坡",
+      "path": "res://assets/props/12_grass_bank.png",
+      "width": 1024,
+      "height": 505,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "group": "bank",
+      "world_height": 0.95
+    },
+    {
+      "id": "13_fern_skirt",
+      "name": "蕨叶草丛",
+      "path": "res://assets/props/13_fern_skirt.png",
+      "width": 1024,
+      "height": 505,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "group": "low",
+      "world_height": 0.82
+    },
+    {
+      "id": "14_terraced_bank",
+      "name": "双层草坡",
+      "path": "res://assets/props/14_terraced_bank.png",
+      "width": 1024,
+      "height": 358,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "group": "bank",
+      "world_height": 0.9
+    },
+    {
+      "id": "15_curved_verge",
+      "name": "弯曲草带",
+      "path": "res://assets/props/15_curved_verge.png",
+      "width": 1024,
+      "height": 341,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "group": "low",
+      "world_height": 0.45
+    },
+    {
+      "id": "16_grass_hummock",
+      "name": "紧凑草丘",
+      "path": "res://assets/props/16_grass_hummock.png",
+      "width": 1024,
+      "height": 683,
+      "pivot": [
+        0.5,
+        0.985
+      ],
+      "group": "low",
+      "world_height": 0.95
+    }
+  ],
+  "floating_mushroom": {
+    "frames": [
+      {
+        "path": "res://assets/floating/frame-01.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-02.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-03.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-04.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-05.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-06.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-07.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-08.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-09.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-10.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-11.png",
+        "width": 512,
+        "height": 512
+      },
+      {
+        "path": "res://assets/floating/frame-12.png",
+        "width": 512,
+        "height": 512
+      }
+    ],
+    "fps": 10,
+    "thresholds": [
+      250,
+      500,
+      750,
+      1000
+    ],
+    "collision": false
+  }
+}

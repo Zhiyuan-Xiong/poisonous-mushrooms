@@ -1,0 +1,17 @@
+{
+  "version": "4.7.2.stable.official.ed1daf0bf",
+  "download": "https://godot-releases.nbg1.your-objectstorage.com/4.7.2-stable/Godot_v4.7.2-stable_win64.exe.zip",
+  "license": "MIT",
+  "files": [
+    {
+      "file": "Godot_v4.7.2-stable_win64_console.exe",
+      "bytes": 198152,
+      "sha256": "c8f0a6bc45a19b33541501e57f6f7cd972ab18453743266339d495cbbe846643"
+    },
+    {
+      "file": "Godot_v4.7.2-stable_win64.exe",
+      "bytes": 180858888,
+      "sha256": "ab1824f85bfd8e0e4128182c000c4003a3e042245b2967848d089b2a04b22424"
+    }
+  ]
+}

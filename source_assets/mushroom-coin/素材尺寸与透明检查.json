@@ -1,0 +1,84 @@
+{
+  "assetType": "static mushroom coin collectible",
+  "generationMode": "built-in image_gen.imagegen",
+  "nativeImagePreserved": true,
+  "derivatives": "等比例尺寸导出，保留生成透明通道。",
+  "assets": [
+    {
+      "file": "mushroom_coin_original.png",
+      "width": 1254,
+      "height": 1254,
+      "hasAlpha": true,
+      "transparentPercent": 45.32,
+      "visibleEdgePixels": 0,
+      "visibleBoundsAlpha64": {
+        "left": 100,
+        "top": 112,
+        "right": 1153,
+        "bottom": 1150
+      },
+      "suggestedCenterPixels": {
+        "x": 626.5,
+        "y": 631
+      },
+      "sha256": "14c08c9e6b08a962cdd1aa22cb787b7480d5941dc54e5f2386705747d8ead891"
+    },
+    {
+      "file": "mushroom_coin_512.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "transparentPercent": 44.97,
+      "visibleEdgePixels": 0,
+      "visibleBoundsAlpha64": {
+        "left": 41,
+        "top": 46,
+        "right": 470,
+        "bottom": 469
+      },
+      "suggestedCenterPixels": {
+        "x": 255.5,
+        "y": 257.5
+      },
+      "sha256": "8c4970400f217dd44b2e99034874ab3c770b1d4db6287489be2fb375b910be0b"
+    },
+    {
+      "file": "mushroom_coin_256.png",
+      "width": 256,
+      "height": 256,
+      "hasAlpha": true,
+      "transparentPercent": 44.13,
+      "visibleEdgePixels": 0,
+      "visibleBoundsAlpha64": {
+        "left": 20,
+        "top": 23,
+        "right": 235,
+        "bottom": 234
+      },
+      "suggestedCenterPixels": {
+        "x": 127.5,
+        "y": 128.5
+      },
+      "sha256": "b73b4bb864ac15a0f2ba7cc968004361e093e7b436e4d69dcfd9f307ad8effa2"
+    },
+    {
+      "file": "mushroom_coin_128.png",
+      "width": 128,
+      "height": 128,
+      "hasAlpha": true,
+      "transparentPercent": 42.55,
+      "visibleEdgePixels": 0,
+      "visibleBoundsAlpha64": {
+        "left": 10,
+        "top": 11,
+        "right": 117,
+        "bottom": 117
+      },
+      "suggestedCenterPixels": {
+        "x": 63.5,
+        "y": 64
+      },
+      "sha256": "106a6ba5246ac4ede3b6449cbaff881a54df5f8615abe87fa12f970f3d987764"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "mode": "built-in image_gen",
+  "transparentAssets": "RGBA PNG; original generations preserved in source_assets",
+  "prompts": [
+    {
+      "asset": "gameFailure",
+      "prompt": "Use case: text-localization. Asset type: existing transparent flat hand-drawn game failure badge.\nEdit the supplied image. Change ONLY the text on the front ribbon to the exact Chinese phrase \"被蘑菇打倒了\" (seven characters: 被 蘑 菇 打 倒 了; use exactly the quoted six-character phrase, no extra prefix or punctuation).\nKeep the same mushroom shapes, worried expression, asymmetric organic leaves, tears, muted blue-purple and pale icy-blue matte fills, colored gray-violet outlines, composition and transparent silhouette. Use clear, large, centered gray-violet hand-drawn Chinese characters matching the current lettering. Preserve clean flat illustration, no black outlines. No extra texture, noise, gloss, particles, glow, haze, background, objects or words. Genuine transparent RGBA PNG.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "startBlank",
+      "prompt": "Use case: precise-object-edit. Input image is the sole edit target, an existing transparent game-start mushroom UI badge. Remove ONLY the four Chinese characters 游戏开始 from the central pale cream ribbon, seamlessly restore the plain cream fill underneath. All ribbon surfaces must be totally blank with no letters or symbols. Keep every mushroom, face, leaf, ribbon edge, shape, colored outlines, muted teal/rose/cream/gold palette and composition unchanged. Clean matte flat illustration, no new texture, noise, glossy effects or new objects. Preserve original canvas and actual transparent alpha background. This blank ribbon will receive the user's font as native game text.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "victoryBlank",
+      "prompt": "Use case: precise-object-edit. Input is the sole edit target: transparent gold victory mushroom UI badge. Remove ONLY ALL Chinese lettering and punctuation from the central pale gold ribbon, seamlessly restore the clean uniform pale gold ribbon fill underneath. Ribbon totally blank with no marks, letters or symbols. Preserve precisely every mushroom, face, three stars, leaves, ribbon edges, flat matte muted gold/cream/rose/olive palette, colored non-black outlines, composition and canvas. Do not add objects, texture, noise, glossy shading or glow. Actual transparent background, preserve original alpha. The blank ribbon will receive a user-supplied font as native game text.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "failureBlank",
+      "prompt": "Use case: precise-object-edit. Input is the sole edit target, transparent blue-violet sad mushroom failure UI badge. Remove ONLY the Chinese characters 被蘑菇打倒了 from the central pale blue-lavender ribbon, restore the blank even ribbon fill seamlessly underneath. Every ribbon must be blank without text or symbols. Preserve all mushroom shapes, sad face, tears, leaves, ribbon curves, palette, flat matte low-texture illustration, purple colored non-black outlines, canvas and layout precisely. No additional objects, glossy lighting, grain, new effects or oversaturation. Actual transparent alpha background as original. Native game text using the user's font will be overlaid later.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "grass",
+      "prompt": "Use case: stylized-concept. Asset type: seamless square orthographic grass ground albedo texture for a hand-drawn 2.5D forest runner. References: first image supplies the cool muted teal sage palette and flat illustrative grass shapes; second image supplies the dark forest atmosphere. Generate ONE opaque 1024x1024 seamless tile, straight top-down with no perspective. Continuous broad smooth dark blue-green turf field with just a few softly drawn stylized short grass strokes in slightly lighter muted sage teal, a handful of broad low-contrast color patches. Very sparse marks, predominantly clean color areas. Flat matte hand-painted illustration, restrained colored linework, NO black outlines, no lighting highlights. No horizon, sky, bushes, shrubs, flowers, mushrooms, roads, checker squares, stones, objects, text, border, noisy pixels, grain, photographic blades or heavy texture. All four edges visually tile seamlessly, uniform lighting. Palette approx #234b48, #2c5750, #37685e. This is the broad lawn adjoining the separate checker road, not a finished scene.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "fog",
+      "prompt": "Use case: stylized-concept. Asset type: separate transparent distant mist overlay texture for the user's hand-painted dark mushroom forest runner. Use the reference only for cool dark navy/teal forest color mood. Generate ONLY thin subtle translucent mist, broad wisps of desaturated pale blue-green gray laid out horizontally across a wide 1536x1024 canvas. The haze is softly feathered, mostly invisible, with two or three long slow ribbonlike wisps, gently undulating and blending smoothly, maximum apparent opacity about 30%, large clean translucent spaces between them. Upper and lower edges dissolve fully to transparent. Absolutely no scene, no forest, mushrooms, character, silhouettes, sparkle, specks, smoke plumes, solid cloud puffs, dirt, grain, excessive texture, sky, text, frame or extra objects. Clean atmospheric low-contrast mist layer, actual transparent alpha background; suitable for overlaying the far horizon while foreground remains crisp.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "baseBlend",
+      "prompt": "Use case: stylized-concept. Asset type: separate transparent soft grass contact skirt to blend mushroom/tree/rock sprite bases into a broad blue-green lawn in a hand-painted game. Reference 1 supplies the exact ground color and very restrained flat grass marks; reference 2 supplies colored linework and plant style. Generate ONE low wide elliptical irregular patch of muted dark teal grass, viewed slightly from above. Flat matte #234b48/#2c5750 turf with a FEW short low blades/soft leaves around the upper rim. Broad low smooth middle area, no large bush. Patch should have a soft transparent feathered outer fringe all around so it merges invisibly into ground, with no straight cut edge or rectangular background. Centered, generous clear transparent margins, all tips complete. Ground patch very wide and shallow, not a tall plant. Actual alpha transparency. Clean flat illustration, no black outlines, no shiny shading, no grain, excessive textures, saturated colors, objects, rocks, mushrooms, flowers or text. This small separate cutout goes at the foot of each existing scene prop, no scene/background.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "grassReeds",
+      "prompt": "Use case: stylized-concept. Asset type: one separate transparent roadside grass transition prop for a flat illustrated mushroom forest runner. Input image is only a style and palette reference for the existing dark muted teal lawn. Create a DIFFERENT SHAPE: a wide asymmetric crescent of taller loose reed-like grass blades, taller at the left and tapering down toward the right, with a few broad curved leaves mixed among the narrow blades. A soft low turf base dissolves to transparent at every edge. Cool dark blue-green and muted sage teal; matte flat hand-painted color shapes, subtle colored blue-green outlines, clean smooth broad areas with very little surface texture. Entire cutout visible, no clipped tips. Spacious true transparent background. Single cohesive grass group only; no scene, trees, rocks, mushrooms, flowers, insects, text, black outline, sheen, glossy 3D, grain, noise, excessive texture or oversaturation. Canvas landscape, grass group fully centered with transparent margins. The grass is a base transition for existing scenery, not a full background.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "grassBank",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent grassy raised bank terrain cutout for a flat hand-painted dark mushroom forest runner. Input image supplies the exact cool dark teal / muted sage lawn palette, softly feathered turf edge and restrained flat illustration. Generate a wide asymmetric higher grass slope, a broad rounded raised mound with left shoulder taller and a gentle lower right slope. The actual grassy earth body is visibly tall and solid, about 40% of the width in height, useful for elevated verge terrain beside a road. Smooth dark blue-green matte color blocks with one simple shaded side, a few broad small leaf clusters and sparse bent grass tufts on the crest; clean large areas, minimal surface marks. Very soft transparent lower fringe merges into matching turf, complete natural perimeter with clear transparent margins. Actual transparent alpha. No environment or sky, no stones, trees, mushroom, character, flowers, text, frame, black outline, glossy lighting, fine texture, dirt particles or noise. Landscape composition one cohesive mound only, not an oval flat skirt, not a cut rectangle.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "grassFern",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent grass-and-fern base transition cutout for a flat illustrated nighttime mushroom forest runner. The input is only a style and color reference for the existing teal grass contact patch. Create a new low asymmetric fan-shaped clump with three or four broad gently curling fern fronds, rounded small leaves and short blades, loosely surrounding a small open smooth turf center. Rounded leaf silhouettes, a clearly different rhythm from long reeds. Medium-low height, wider than tall. Muted cool sage-blue highlights and dark blue-green teal body, very few colored line strokes, flat matte hand-painted blocks, clean broad surfaces, no black outline, no oily sheen, fine noise or excessive texture. Soft feathered teal turf base blends into transparency; every frond and tip is complete with generous transparent margins. Only one cohesive plant-base prop, no flowers, mushroom, rock, tree, text, border, terrain scene or extra objects. Actual transparent alpha, landscape canvas.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "grassTerrace",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent roadside terraced grassy mound for a flat illustrated dark mushroom forest runner. Input is style/palette reference only. A distinct two-level asymmetrical bank: small rounded upper shoulder on the right with a low curved terrace extending left, two broad smooth dark teal shaded masses, sparse short grass and a few rounded creeping leaf patches. Wider than tall, around 35% height to width. Clear simple elevated earth-and-grass silhouette, gentle curving folds, no visible brown soil; ground is cool desaturated blue-green throughout with restrained muted sage highlights. Matte flat hand-painted color blocks, colored teal outlines only if necessary, minimal texture, no black stroke or glossy lighting. Entire mound contained, soft transparent feathered fringe at base and natural complete perimeter, generous alpha-clear margins. Actual transparent background. No rocks, trees, mushrooms, flowers, characters, text, scene, sky, frame, photographic grass, fine grain, dirty noise or saturation. One cohesive terrain prop, no multiple isolated assets.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "grassVerge",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent elongated curved roadside grass fringe for a dark teal illustrated forest runner. The input is only a palette and flat painting reference. New form: a narrow gently bending S-shaped bank of short grass, broad paired round leaves in three irregular clusters and a handful of small curved blades. Long horizontal arc viewed slightly from above, very shallow height, more open and sparse than existing big grass clumps. Irregular organic complete outline, turf center dark muted teal, desaturated sage-blue leaves, matte flat shapes and understated colored teal strokes. Soft alpha-feathered turf fringe all around, generous transparent margins, actual alpha background. Single cohesive long grassy roadside edging only. No scene, road, mushrooms, rocks, tree, flower, insects, text, frame, black strokes, glossy shading, grain, noise or heavy texture; don't duplicate the reference ellipse.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "grassHummock",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent compact grassy hummock / small bush-like turf mound for a dark hand-painted mushroom forest runner. Input is palette/style reference only. A DISTINCT compact nearly round dome, taller than existing flat grass patches, with an irregular low scalloped silhouette from many broad rounded leaf clusters, four or five small curling blades near the top, a small low tail of turf on one side. Dark desaturated teal body and subdued sage-blue large leaves. Flat matte clean hand-painted color shapes, one simple shadow mass, minimal colored line work, no black outlines and no glossy highlights. Soft feathered base blends to transparent; entire natural outline and every leaf tip complete with generous empty transparent margins. True alpha background. One grassy plant mound only, no tree trunk, flower, mushroom, rock, animals, character, text, frame, sky or scene, no gritty surface, excessive texture, noise or oversaturation. A high grass clump that can sit beside rocks and dead trees.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    },
+    {
+      "asset": "floatingMushroom",
+      "prompt": "Use case: stylized-concept. Asset type: ONE transparent animation sprite sheet for the user's flat hand-painted dark mushroom forest runner. Reference 1 supplies the floating tooth-mushroom identity: a broad low domed purple spotted mushroom cap forming the upper jaw, triangular ivory teeth along its edge, a smaller crescent lower jaw with upward ivory teeth, dark muted violet mouth interior; absolutely no stem, roots, legs, arms, eyes or face features. Reference 2 is only palette/flat painted scene style. Generate a portrait sprite sheet with EXACTLY 12 separate equally spaced frames in a regular 3 columns by 4 rows grid, each equal square cell, no grid lines and no labels. Each cell contains the SAME floating mushroom upper cap anchored at the same position and same scale, 8 identical small cream spots on every cap; ONLY lower jaw position and mouth gap animate. Reading left to right then top to bottom: 1 closed, 2 barely open, 3 quarter open, 4 half open, 5 three-quarter open, 6 fully open, 7 fully open, 8 three-quarter open, 9 half open, 10 quarter open, 11 barely open, 12 closed. The upper cap shape, tooth count and size, spot placement and colors stay exactly consistent across all 12 frames. Fixed upper cap center on each cell x midpoint, upper edge y around one third cell height; lower jaw moves straight vertically, no rotation or body movement. Flat matte hand-painted clean color blocks, muted mauve purple cap, slate-violet colored outline (not black), low-noise very minimal brush texture, pale gray ivory teeth, dark navy-violet mouth cavity filled opaque. No gloss, oil-paint texture, dramatic lighting, oversaturation, grain, text, floating particles, extra objects, ground, shadows or scene. True transparent alpha canvas and generous empty margins around every sprite, all 12 fully contained with no overlap. Intended sheet size 1536x2048, 3x4 equal 512x512 cells.",
+      "referenceRole": "user artwork or current project asset, style/composition reference; blank UI entries are precise edit targets",
+      "mode": "built-in image_gen"
+    }
+  ]
+}

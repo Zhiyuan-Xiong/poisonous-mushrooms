@@ -1,0 +1,1135 @@
+{
+  "originalFiles": 226,
+  "files": [
+    {
+      "source": "outputs/godot-scene-assets/background_distant_forest_2160x4680.png",
+      "archive": "source_assets/godot-scene-assets/background_distant_forest_2160x4680.png",
+      "sha256": "488d610bd224cf1e607a7d37b5a4cd2248399f3dd7d5ec05dfe767f74c750c99"
+    },
+    {
+      "source": "outputs/godot-scene-assets/ground_checker_albedo.png",
+      "archive": "source_assets/godot-scene-assets/ground_checker_albedo.png",
+      "sha256": "a11b1f43ee3c13abbbe7ee99a2da06e4bd95884b39301ce29d9623f6b22002ef"
+    },
+    {
+      "source": "outputs/godot-scene-assets/mushroom_pale.png",
+      "archive": "source_assets/godot-scene-assets/mushroom_pale.png",
+      "sha256": "d6efbc3ebab468a9025abd0e336d180c2c79c8d9b5bcd6f0486c999e735cd5db"
+    },
+    {
+      "source": "outputs/godot-scene-assets/mushroom_rose.png",
+      "archive": "source_assets/godot-scene-assets/mushroom_rose.png",
+      "sha256": "87defe112f1803cd668fe96120c758d367b5ea95f40456ec0e9ac80bc1fe0dd5"
+    },
+    {
+      "source": "outputs/godot-scene-assets/native/background_distant_forest_native.png",
+      "archive": "source_assets/godot-scene-assets/native/background_distant_forest_native.png",
+      "sha256": "d2b423fb016fa14695e4a08eb24d8e541eaad7b45c5bfd4c1ec88df9220a290b"
+    },
+    {
+      "source": "outputs/godot-scene-assets/top_tree_canopy.png",
+      "archive": "source_assets/godot-scene-assets/top_tree_canopy.png",
+      "sha256": "d4d4b827d2304b1dc622f88b450ff7c26798d8b112c0f177948ba586919c3b1b"
+    },
+    {
+      "source": "outputs/godot-scene-assets/使用说明.txt",
+      "archive": "source_assets/godot-scene-assets/使用说明.txt",
+      "sha256": "e2e16cf42c8f2faadccfce7c56faf12311d7d7fab8aff09eb2e8d302aa676073"
+    },
+    {
+      "source": "outputs/godot-scene-assets/生成提示词.json",
+      "archive": "source_assets/godot-scene-assets/生成提示词.json",
+      "sha256": "4b4e58be90d6b87682b6ce64735d9a2c5609b059a77c1c1d4c3cdaa4df464a0c"
+    },
+    {
+      "source": "outputs/godot-scene-assets/素材参数.json",
+      "archive": "source_assets/godot-scene-assets/素材参数.json",
+      "sha256": "f54e1fc2a58c0693d5512b1ca959a35a0e15fad344b9d2a7332fcfe0b45b025e"
+    },
+    {
+      "source": "outputs/godot-scene-assets/素材总览.png",
+      "archive": "source_assets/godot-scene-assets/素材总览.png",
+      "sha256": "e044ab57b1ec543c2e20418b3aafcb758b6064feb398d72ebdd1ba070bda43d3"
+    },
+    {
+      "source": "outputs/mushroom-assets/01-大嘴蘑菇.png",
+      "archive": "source_assets/mushroom-assets/01-大嘴蘑菇.png",
+      "sha256": "3ed4e3a4edf2d2b08e5473df421d8ba89918ce7bc141fa6cb1d2a82e53431c2e"
+    },
+    {
+      "source": "outputs/mushroom-assets/02-洞穴罩形蘑菇.png",
+      "archive": "source_assets/mushroom-assets/02-洞穴罩形蘑菇.png",
+      "sha256": "21b95a1dfb2ae4991af7817b878fe2c84f750eb721763fd59cd61136cac952ec"
+    },
+    {
+      "source": "outputs/mushroom-assets/03-巨伞笑口蘑菇.png",
+      "archive": "source_assets/mushroom-assets/03-巨伞笑口蘑菇.png",
+      "sha256": "1614c29dd934080225a1d543adf9682ae8fe566ab46767700ca4472bc12c2d03"
+    },
+    {
+      "source": "outputs/mushroom-assets/04-双生吐舌蘑菇.png",
+      "archive": "source_assets/mushroom-assets/04-双生吐舌蘑菇.png",
+      "sha256": "f7c1eef2728c9966d93e668e7b29c4dcf1a045e4c3556f495fc3d6c734a8b7f9"
+    },
+    {
+      "source": "outputs/mushroom-assets/05-三株眼斑蘑菇.png",
+      "archive": "source_assets/mushroom-assets/05-三株眼斑蘑菇.png",
+      "sha256": "af852569662a315b9fc6ef981a93d359b4431f4d3479918354025e8380c17641"
+    },
+    {
+      "source": "outputs/mushroom-assets/06-高脚眼斑蘑菇.png",
+      "archive": "source_assets/mushroom-assets/06-高脚眼斑蘑菇.png",
+      "sha256": "245a222d680e5de260ef05cfc66c988b4a39bf05ae1e52e47f95a57c6d542c7e"
+    },
+    {
+      "source": "outputs/mushroom-assets/07-宽檐胡须蘑菇.png",
+      "archive": "source_assets/mushroom-assets/07-宽檐胡须蘑菇.png",
+      "sha256": "27812bad69409eb460289f9b67bde6ccc7bbc31afea4e2cd45b5ff130753fd64"
+    },
+    {
+      "source": "outputs/mushroom-assets/08-大馒头圆团蘑菇.png",
+      "archive": "source_assets/mushroom-assets/08-大馒头圆团蘑菇.png",
+      "sha256": "6fb8633fe3d200c6fbdef24757b4ff8366e3599473499d68d10cc61893bb73f8"
+    },
+    {
+      "source": "outputs/mushroom-assets/09-咕咕羊肚菌.png",
+      "archive": "source_assets/mushroom-assets/09-咕咕羊肚菌.png",
+      "sha256": "3b24d7049d543ae7f4a645d726e599748559514440eb52337a452faf058801b4"
+    },
+    {
+      "source": "outputs/mushroom-assets/10-姑姑菌群草台.png",
+      "archive": "source_assets/mushroom-assets/10-姑姑菌群草台.png",
+      "sha256": "e63b27fb66c37d5d12d9dec2459a05280186827bd767f55a61bdab0bbbe24887"
+    },
+    {
+      "source": "outputs/mushroom-assets/11-细长眼冠菌丛.png",
+      "archive": "source_assets/mushroom-assets/11-细长眼冠菌丛.png",
+      "sha256": "ef43e620c1e434b9d238ecf86eb6a4e0bbde71e273d607ecba6c90d18c675e47"
+    },
+    {
+      "source": "outputs/mushroom-assets/12-藤枝蘑菇组合.png",
+      "archive": "source_assets/mushroom-assets/12-藤枝蘑菇组合.png",
+      "sha256": "1dada8d18eb4a4449f99a715b55f8f2d4b66e60c583ae57c0d4bfc953d06a6de"
+    },
+    {
+      "source": "outputs/mushroom-assets/使用说明.txt",
+      "archive": "source_assets/mushroom-assets/使用说明.txt",
+      "sha256": "2984daf2fbe903b0ac45af621c8af12f5adea5ea8af82d4fb6f6947cd930c90e"
+    },
+    {
+      "source": "outputs/mushroom-assets/生成提示词与原图对应.json",
+      "archive": "source_assets/mushroom-assets/生成提示词与原图对应.json",
+      "sha256": "2bdde257a1d568d883e4ff24b4a50a172ba57bcb9effc874c0dd00e01413d86c"
+    },
+    {
+      "source": "outputs/mushroom-coin/mushroom_coin_128.png",
+      "archive": "source_assets/mushroom-coin/mushroom_coin_128.png",
+      "sha256": "106a6ba5246ac4ede3b6449cbaff881a54df5f8615abe87fa12f970f3d987764"
+    },
+    {
+      "source": "outputs/mushroom-coin/mushroom_coin_256.png",
+      "archive": "source_assets/mushroom-coin/mushroom_coin_256.png",
+      "sha256": "b73b4bb864ac15a0f2ba7cc968004361e093e7b436e4d69dcfd9f307ad8effa2"
+    },
+    {
+      "source": "outputs/mushroom-coin/mushroom_coin_512.png",
+      "archive": "source_assets/mushroom-coin/mushroom_coin_512.png",
+      "sha256": "8c4970400f217dd44b2e99034874ab3c770b1d4db6287489be2fb375b910be0b"
+    },
+    {
+      "source": "outputs/mushroom-coin/mushroom_coin_original.png",
+      "archive": "source_assets/mushroom-coin/mushroom_coin_original.png",
+      "sha256": "14c08c9e6b08a962cdd1aa22cb787b7480d5941dc54e5f2386705747d8ead891"
+    },
+    {
+      "source": "outputs/mushroom-coin/使用说明.txt",
+      "archive": "source_assets/mushroom-coin/使用说明.txt",
+      "sha256": "1b04334fc46ab562dabb2e0ffa2e244ef6393847434b72d927c663a96a00e804"
+    },
+    {
+      "source": "outputs/mushroom-coin/生成提示词.json",
+      "archive": "source_assets/mushroom-coin/生成提示词.json",
+      "sha256": "bf3abf74488452ea912adb0038d0a7c6623b2a1f3ef9f98cd825e3ba0f74416f"
+    },
+    {
+      "source": "outputs/mushroom-coin/素材尺寸与透明检查.json",
+      "archive": "source_assets/mushroom-coin/素材尺寸与透明检查.json",
+      "sha256": "2ec29fd500bb0edf7c5fbe304ce6015f3f2260da82d9a1563a6086fab59b5fb0"
+    },
+    {
+      "source": "outputs/mushroom-coin/金币预览.png",
+      "archive": "source_assets/mushroom-coin/金币预览.png",
+      "sha256": "3cdb101836f4e004b7b6504c172e5ba3bbb7363292dbbf16d462d3e6c484e10f"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/character.png",
+      "archive": "source_assets/poison-monsters/01_chomper/character.png",
+      "sha256": "51e8d826d85e568ded9162a6706756208c0d8ac0be6532ae61738603684f0433"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/atlas_3x4.png",
+      "sha256": "fa480075cd6f600a2053fe05fff54f276c1f6f5a70aff6da6919ecb4ee1f1cc4"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_01.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_01.png",
+      "sha256": "51e8d826d85e568ded9162a6706756208c0d8ac0be6532ae61738603684f0433"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_02.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_02.png",
+      "sha256": "c4d57a80d2fabf1fca96990e5b3c1801277701e801fb824c7c203eb694a00449"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_03.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_03.png",
+      "sha256": "68afdee46ac7928d61bcbe83bf708e4305322eeb8b7d567fb0622de44ae9ca3e"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_04.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_04.png",
+      "sha256": "904b4a2c554bad5e4df8f175a9e0a810adb0da2fa3109aa62a2754f49b5a0fd8"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_05.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_05.png",
+      "sha256": "1647192428dd3315c01e1c936cbb79625ddc858f5b2ab6c21cee8ce8b0c30813"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_06.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_06.png",
+      "sha256": "a381a13cec68737d2f8bc3d5f5c6b869437dfba477ea8d4a00718ddfb17222be"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_07.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_07.png",
+      "sha256": "95d96af641cfc32ccdaef5e50956bf5becb3498ba88c3e3f73d232383a911bc5"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_08.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_08.png",
+      "sha256": "38baa7640861549387b01174db27316e56614eb332541359d68045a423e3719e"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_09.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_09.png",
+      "sha256": "144ad17eae9d3a999f9c2c5b4803bc4d9f219efbb9c440487b66179b57ad3544"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_10.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_10.png",
+      "sha256": "817dc78adff85a7cefce8e33158a8c7055d8fde6758a66eab086846f0dacfe30"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_11.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_11.png",
+      "sha256": "bba82ce2e539d7a9223b9bf4b27d46666078047e13a55ee293bd14ecdff7ca65"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/frames/idle_12.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/frames/idle_12.png",
+      "sha256": "37701b747bcf3843316dd93753ea72f2d4e87bf6a75eedcaece92705aefee376"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/preview.apng",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/preview.apng",
+      "sha256": "ff40dd276ecf8967f333c7fda14d03d7ba5dd6cec910b2dfc6b2150e6cc2ee08"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/preview.gif",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/preview.gif",
+      "sha256": "c1ae2c6016b9022d1ea57ff75181f19b287fa271b90824a4b5899d3441d8254a"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/idle/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/01_chomper/idle/关键帧总览.png",
+      "sha256": "d8f4d6bf754218894570bef5be8ca683929d1d0dd8c996497aca471764e6dab0"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/native/idle_generated.png",
+      "archive": "source_assets/poison-monsters/01_chomper/native/idle_generated.png",
+      "sha256": "b2f1695498e96ea6354f318753801a1ab89600b0451e26ef19e8830fd1272499"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/native/run_generated.png",
+      "archive": "source_assets/poison-monsters/01_chomper/native/run_generated.png",
+      "sha256": "f23538bb15c965e91c7b04f9c79ee7b78cfe48084b3e8f08ae859e72db2b1aa1"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/atlas_3x4.png",
+      "sha256": "94f26dcbc356d21f3b0dcd6ed51c4833fe4c091f0c262fbff471473fa3d71f3b"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_01.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_01.png",
+      "sha256": "ca33c5cd25199c40042a799f75da953823d9afa3641cc6fb55bdf2603c890e23"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_02.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_02.png",
+      "sha256": "ab89626f789782fa5d281f6400f154328840258125a52eca540e41e28e30e72d"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_03.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_03.png",
+      "sha256": "91f26534a39deadcbc133c89353d130d7afc13161fb23a7e3087b94eba87b65d"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_04.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_04.png",
+      "sha256": "cb7edef52de88cbf8fefd32b80fcb07b5a43b768cca9c51b8c7d6815ba1d4bca"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_05.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_05.png",
+      "sha256": "6812e686f0b42656b63d4e1a5cede4f63f44727c65ed55d9ca25b49bf996f10b"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_06.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_06.png",
+      "sha256": "402c512f9218ae55ebfc7e0c0e21bc25d2eeda0cb31399c1784d8354d6c68b45"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_07.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_07.png",
+      "sha256": "5b9c79e16d2071e4a8ae348284f175b8c9bf0ad0386e63006fb4e36d4461665e"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_08.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_08.png",
+      "sha256": "a8d6964dd90c763665dd137e1f422b84e69c1e937e9849fbe64d19009fb20bcb"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_09.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_09.png",
+      "sha256": "1454eee67311a1120a0eaf7e8389a270dd5d358e2e770be20e0840430c1ad78c"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_10.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_10.png",
+      "sha256": "87f31b89314bc6d2fcdebd148d0c62df2213063a74ba87df17ce723463ee01e4"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_11.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_11.png",
+      "sha256": "4c23a589c4facc9e258946cb8cd7405b8d4dd004ff3178f3d27bd0a02f0031d3"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/frames/run_12.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/frames/run_12.png",
+      "sha256": "52e2fe771b866760b8f2ea2f59b352a4b555493cf97d7461d38279834ed0d1ea"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/preview.apng",
+      "archive": "source_assets/poison-monsters/01_chomper/run/preview.apng",
+      "sha256": "523610e8cea7c9905a77c856049407d499c78b3c48b6a006f778389e307ab54c"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/preview.gif",
+      "archive": "source_assets/poison-monsters/01_chomper/run/preview.gif",
+      "sha256": "6976fd3e02d296168878178e29c8e41ae2c10eec900fefe2d244fc889563d482"
+    },
+    {
+      "source": "outputs/poison-monsters/01_chomper/run/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/01_chomper/run/关键帧总览.png",
+      "sha256": "b4945210c8741564c665ab55bdcaade7cbb52b8b858f141b6accf08a77880e27"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/character.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/character.png",
+      "sha256": "d2bffb1fbb127ed18aef830ae2dfb0636711042e75f6d003f69fe5219914ec59"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/atlas_3x4.png",
+      "sha256": "f412fd38cb8953c38fe48a95d1bac2be0c31fe1a2a090aff64a5569792d4381d"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_01.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_01.png",
+      "sha256": "d2bffb1fbb127ed18aef830ae2dfb0636711042e75f6d003f69fe5219914ec59"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_02.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_02.png",
+      "sha256": "00a69fc4b5c95163ba76d0008a7bb9120a6a78a64a68aebc8ca1d3aa9998301f"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_03.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_03.png",
+      "sha256": "d23be6e13ab40ea554e06efdfa26d64526fc24669fd6cd3fa88a7906ad527a25"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_04.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_04.png",
+      "sha256": "e760af500b971b8dd093ba5fe5cbf827638393603da6b4673f0791dddfde72f2"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_05.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_05.png",
+      "sha256": "650430ab5dc6a0c87b2dc49455d8a6bad67c73366572832f884beaccffda8fbb"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_06.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_06.png",
+      "sha256": "68663dcc2cf52f5d3eb222b427c95792793af6983af384aeffb7afba31e68a0e"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_07.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_07.png",
+      "sha256": "7f05b71a5928bee9fcff1cf3df65dac9f99366e81bd25b0b5e6df7d931b9b4e7"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_08.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_08.png",
+      "sha256": "11537f69e905d4e19838ffadfcf765b09e8300e77fa17972452adb7173f279e4"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_09.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_09.png",
+      "sha256": "ec9bec000529f345936e5dfc20ab963fc9f61fa7cb3a7f058338f43f02aa9685"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_10.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_10.png",
+      "sha256": "98ddff4b23d2789f2ed0c6de9945d0b99d7a5f3e4fb99fbbb4be65efb88debe5"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_11.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_11.png",
+      "sha256": "2d602ce18826f161854cacd65958fc4357ac6bb711562e6f410b72ef479cd711"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/frames/idle_12.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/frames/idle_12.png",
+      "sha256": "d27e1b4fba358ad17dfe1d19241d6eb0931d29ab9528fab3b1d4a8cbaf817abe"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/preview.apng",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/preview.apng",
+      "sha256": "3d62b3a1a77f92df0acd58ecaa0ab1cc6122e1a7a8872a1c1a87df826c358e28"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/preview.gif",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/preview.gif",
+      "sha256": "fb27d37d85ee12d8d62e49e9f8b4056f3e58b4715c0c1cc10938abdc67792ad0"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/idle/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/idle/关键帧总览.png",
+      "sha256": "e4bde2b0241aebbfe16c19ee0f18a901e0a203c786125d5715a83f2e01dcb17b"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/native/idle_generated.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/native/idle_generated.png",
+      "sha256": "6d80740dd07ccdcb33b5265f70b8cebb2a088833ac3073785f36cf05390034b1"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/native/run_generated.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/native/run_generated.png",
+      "sha256": "c94eef17c605cc8e8579b06f382eb1f41821a38b67b20ec4783b469e77fb4239"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/atlas_3x4.png",
+      "sha256": "bd8be61955025ae59a1ec00d4fe4bf07fb2f75aa2d4458200a3d61fb277e0897"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_01.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_01.png",
+      "sha256": "686582c92832e0e538a84516df1a15f8f7faac7d112569e143afbc637ab3f50a"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_02.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_02.png",
+      "sha256": "cb1f631411a8434376c6a365811605e7bcba1659046eea82add9dd4b7bdc9fe2"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_03.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_03.png",
+      "sha256": "659cb67b86d74b6326e68c63d0721aaa55dca11fa02170bca29e8413b6ef26de"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_04.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_04.png",
+      "sha256": "b73f7f247a5be9ee88a357915ed738431f4b15b00829e601871e0438ad9a0fa3"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_05.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_05.png",
+      "sha256": "77f7a924d4eac4c125c72ab5a758ff5c64b8a213461c6cac238370969b3283f8"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_06.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_06.png",
+      "sha256": "d52f363bbf46e200d74f312ae517ce50d87294ef23d3dc901e7153557110030d"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_07.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_07.png",
+      "sha256": "eb80beddbfca3555a4dfa599a4937d77c17723b6a39ad3571b8878ace1badb72"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_08.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_08.png",
+      "sha256": "7a98ec94a2b0ca787a4f8ad10c7a2e26b5e1afbccdc4888ecd176df4fd5f35e8"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_09.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_09.png",
+      "sha256": "12153f37a6dadaa5728ed6b6c0520818795157144cb0a7cf8821fe73f8cab76a"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_10.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_10.png",
+      "sha256": "90baa8f5a1dcc377f2b7070f236884abdea5de3b6608752838b55c73cb12cd16"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_11.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_11.png",
+      "sha256": "e8ff619b4c6187bc9dc99da74278b6863891cfa6110ae3824a45f6dccc327961"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/frames/run_12.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/frames/run_12.png",
+      "sha256": "4aa26e3cdd0b58c224d04af586638dbf5b00373f76cd9ba09ebdd7acc465ba5a"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/preview.apng",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/preview.apng",
+      "sha256": "ddef17dd856d15187b2f84983528d8d6002b429c0fe9aa4114be66e311df8f40"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/preview.gif",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/preview.gif",
+      "sha256": "3717c8406983bb3354590de4c8990b9b61c3d41dc99768a77563286dbc90e545"
+    },
+    {
+      "source": "outputs/poison-monsters/02_three_eye_morel/run/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/02_three_eye_morel/run/关键帧总览.png",
+      "sha256": "dccbce38d87a05875377f3cf6e2585efe5eeb3c8ccff68aea93b612cc279cc85"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/character.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/character.png",
+      "sha256": "40563dccc52edbaa8562fe1408aa302a409a1c32c77c543698118f8131134da1"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/atlas_3x4.png",
+      "sha256": "a052b9a1209850127ce7c680cdb9c692afc608a8c1b08aa0209f8fded775d0d3"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_01.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_01.png",
+      "sha256": "40563dccc52edbaa8562fe1408aa302a409a1c32c77c543698118f8131134da1"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_02.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_02.png",
+      "sha256": "43d173092b4f13ced0924b6b8c28fd5dbfcc3fedf9c6c38104feb75b25a0da3d"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_03.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_03.png",
+      "sha256": "7f51c8f05d3fe362df0a9784e43bdc83151356f44f1cc0897714cbad5b0f3fd9"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_04.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_04.png",
+      "sha256": "62fca993e6ccaebed1ae3f3af2b263887cf3e0a26da94a2b2b28723bfc8de442"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_05.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_05.png",
+      "sha256": "6c06ff36a4748d176d5e3dc109f80d719ba50f81453272d8d5351dc83206bb3c"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_06.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_06.png",
+      "sha256": "7f38ac15075609e94e9a5c31410381fdb80764cf0bff07ef3622b6397207b5f9"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_07.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_07.png",
+      "sha256": "d5982b1a48877400954e8965ccb3ddc8e60b5af088818be6ee68764c74ee8385"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_08.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_08.png",
+      "sha256": "0a32a2f26de5709c3e165162fe11b0ef6d50f5ef922d09e1f8bea685346041a5"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_09.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_09.png",
+      "sha256": "3000e8472e66d608cd62cbdbaf5cfab004239f02be1731c142bb05602967719c"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_10.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_10.png",
+      "sha256": "5092a60a8684ad2ac86d677fd0a2ac7676457b55fb80b98a1bcc6ab405c5159f"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_11.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_11.png",
+      "sha256": "ca7f06c877c1754795bbd66a65c7414b2b3673c8891a9d905cb7777f9e5b1aef"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/frames/idle_12.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/frames/idle_12.png",
+      "sha256": "fdaa9fa308b3adaacd846d8b684879e2788b5c660ebc19a597942f8fe630aaed"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/preview.apng",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/preview.apng",
+      "sha256": "cc50a70aca5d65099cfe3598e9ade33c10f075c3bcf1cc78a6775f37b42ba630"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/preview.gif",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/preview.gif",
+      "sha256": "b1736a7579771e03792e8d67c658429611028855c59b234cc9e591a0f660d29c"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/idle/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/idle/关键帧总览.png",
+      "sha256": "7fc9c69e50a80d99daaefbc803814f3776686cf35ac3b9e6a92f14803f470a63"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/native/idle_generated.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/native/idle_generated.png",
+      "sha256": "d6cd9b00f4963459f4eb042081d614d64a245dd9bd7bee057da124e9ad916e49"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/native/run_generated.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/native/run_generated.png",
+      "sha256": "45f651f54ba739d06263634c7ffc73259df47f4e3427b0e8d4544f6897bef33f"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/atlas_3x4.png",
+      "sha256": "e94e11650919523890e907a398cb96c2beec4841ccf80571132de2f9e3c329e5"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_01.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_01.png",
+      "sha256": "d8723fe47a0857a0f0db9c5cf3de796988584f8d0be9f77bbbc236abe2f0493c"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_02.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_02.png",
+      "sha256": "405d0832b5217fb1482f54eb8982dc107f97aff3c4a2141a1e9d9784bf6b6c9e"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_03.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_03.png",
+      "sha256": "06edcac6d39d8fd557f42874af04a557a40cf414a9d4c67246049058beb09830"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_04.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_04.png",
+      "sha256": "ba7da48024d741ac01aed18389fd6eb34034a969b57b0b87a5c30ee455bf6329"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_05.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_05.png",
+      "sha256": "74a21f947557d28d063ad7d54a0de7a61c4c6cef19b0a0b4ea102aa78f46e4ba"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_06.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_06.png",
+      "sha256": "065260e88830d6c9e0b6c7030ca09d4be40a86b8b172aea3f89f49220d8f2f71"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_07.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_07.png",
+      "sha256": "6a5df0ee281ca41cb9f6a97f5c0aa7376e2d79e38f8ffbc6ba379028c0543be8"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_08.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_08.png",
+      "sha256": "b4a307054c6b730970b711ab590536b73255b11c668e20371aa3978ea1de2b3d"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_09.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_09.png",
+      "sha256": "f990d703f9eb770dc5863baa40ae21d6ac2f1daf97043e794cfcb92c99121ddf"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_10.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_10.png",
+      "sha256": "e65c6cfc49b2fbcda994016749a1e136e29b2d3e615c9ede583209a52d177a36"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_11.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_11.png",
+      "sha256": "f27b0aa27ab16e185d1c7419d166557eba15623bf2c8aa1f9e92bd4e078c27af"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/frames/run_12.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/frames/run_12.png",
+      "sha256": "62cd51cd0432f21c04cd51d5008780e970e4ff063763ca1f989fdf6013f1e231"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/preview.apng",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/preview.apng",
+      "sha256": "0ffa23f5fff3fff93caf017cfd8b0da40fe2ccaaa4b4c6478c7b47214683411e"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/preview.gif",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/preview.gif",
+      "sha256": "3b9c4c31fe6e40fb6da29bff0d3cb7f62470d977e9808b4926b5916af8b47883"
+    },
+    {
+      "source": "outputs/poison-monsters/03_bell_toxin/run/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/03_bell_toxin/run/关键帧总览.png",
+      "sha256": "a6596562eb82b1505d3457e3ba123ca8888529d4db93dc5a3cb35942d38c6e3b"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/character.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/character.png",
+      "sha256": "9ffa4389c4f5b4a0f5a7fad961fb5045d3336a460e6514e2b79ca67af41ac1eb"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/atlas_3x4.png",
+      "sha256": "52a15fcea2340447524d63252bfce42bc055bf007a956d03a90959eae688fec9"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_01.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_01.png",
+      "sha256": "9ffa4389c4f5b4a0f5a7fad961fb5045d3336a460e6514e2b79ca67af41ac1eb"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_02.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_02.png",
+      "sha256": "d04d973d68fd7e3e742c7363aadfcfe1dfad51f375c4f72d84328ce489a3b987"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_03.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_03.png",
+      "sha256": "a9f7a6b20ae6fec54984ce38536e13967e42f837f8f59be51b8349ac6b98137e"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_04.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_04.png",
+      "sha256": "6d2ff0c3fa76bbf28d113774dc5cf649b6dc30bfa396d452aeac36d7279f1f50"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_05.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_05.png",
+      "sha256": "45e30cb77506623a89f960e7af6606dfa9e592d5e0eef33b6fc9403dd03ec918"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_06.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_06.png",
+      "sha256": "75350bbc4a1425bf820db253fc0baa0af8fc1226f319a63ff35b5d0eb7afca45"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_07.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_07.png",
+      "sha256": "d87839e9036fbdeb90bb97e7b94fc19f9afd1c612c2bc1fe78081bc9c8e0a9b0"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_08.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_08.png",
+      "sha256": "45032858c16969d1fa98c672621744f0f579d3f8d7171299d38341328408d23a"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_09.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_09.png",
+      "sha256": "64139483dad4730a9cd92800f55aa842b49c4f121f47b0e4cafcd1930a372265"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_10.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_10.png",
+      "sha256": "ce8acdc6139f1cf68846e533caf63300cfe5785f48db596a0f78375ac6052f63"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_11.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_11.png",
+      "sha256": "0e09dd3b19abc26fb6c5cb096c1da64a6c2def1f884559651bba2e885871697d"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/frames/idle_12.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/frames/idle_12.png",
+      "sha256": "2693251fa87e088f41751dd81f2b29ca56e8a477c0a577f7e89fc1464935c0e2"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/preview.apng",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/preview.apng",
+      "sha256": "e611011fe08abc258ea6fcb013fe0c83e63f2b4ab31ec61bbe3dfdb345d0e347"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/preview.gif",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/preview.gif",
+      "sha256": "ed2f9f78e02b081685e690a425b806a40131efec98eb867ff6ebbb91d14e1964"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/idle/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/idle/关键帧总览.png",
+      "sha256": "2ec5b0c42cc37bbf6b18ac0ea5fdbeff3203ec19f17de79c3399299d31edbfcc"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/native/idle_generated.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/native/idle_generated.png",
+      "sha256": "1aa942a04cd76c499ffc87ced49b275c6c46d4946a6b8ab7f45f680eeb84186e"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/native/run_generated.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/native/run_generated.png",
+      "sha256": "4827cd50dee10ee932585429279300475ca4b99ae027be4960c1d5884b57044b"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/atlas_3x4.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/atlas_3x4.png",
+      "sha256": "72883905b347fcf39e9f7c37711fa8ca9d4c63c2f8482a4beae93ffec6a57751"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_01.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_01.png",
+      "sha256": "d0ad27bd177382b3aff97b5815458e1e7dea7256492dac91954a8abf878c649c"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_02.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_02.png",
+      "sha256": "8264d3b437a88d3899b3e3a550d3cd58acdf05b62c93b85b60f3a061002354a5"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_03.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_03.png",
+      "sha256": "aa5f7f22a664902f8194611aee2cb1ae8a354d43748889c44cd5a3cf8827d1aa"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_04.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_04.png",
+      "sha256": "c0da67054936bc0be150bf03a93934e5637a197f46e3998ea261544989384c7b"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_05.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_05.png",
+      "sha256": "a8d1e5179c2b28e3b58ced55fc9837aa8020777c44f0fab7b5b6b4870a34a15a"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_06.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_06.png",
+      "sha256": "d02ff22bf8db75b0ab02ca1e0d836a1d863a8b96d07862becec775a71dde35e6"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_07.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_07.png",
+      "sha256": "23e3d89e0e2895af3c51a52676811fa79051a8095900bbcb3bf9cf2a66464dc6"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_08.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_08.png",
+      "sha256": "23a037e7e1ecea392daf810e662de1934963a51f3cc4f40903b14ba6e1c390f7"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_09.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_09.png",
+      "sha256": "a9ed2d88e74b55e77475fa9ca52d10ab3b8ef98a3864d0539b93b3c8d87dff3f"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_10.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_10.png",
+      "sha256": "1bfb854cedd4a26459758460ae202de17c20eb8a75981d3326914a451adf8bb0"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_11.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_11.png",
+      "sha256": "11e5f1b9187841ff1385a3feef8b2c8688df290e254a1c177e08efd5c7dabaab"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/frames/run_12.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/frames/run_12.png",
+      "sha256": "186cec93d4eb2a33fe29618175e3a0afa160c5b1c5f4fe8c1b941251d67d025a"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/preview.apng",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/preview.apng",
+      "sha256": "94f8ef68dec7d3124ba5294cce003d481e60410272e133cd32f9370e5409e110"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/preview.gif",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/preview.gif",
+      "sha256": "7348196e894ca0fe56202a6b0f842ff1efd00b2a9358bae04295cd594095ea2b"
+    },
+    {
+      "source": "outputs/poison-monsters/04_curl_hat/run/关键帧总览.png",
+      "archive": "source_assets/poison-monsters/04_curl_hat/run/关键帧总览.png",
+      "sha256": "dfed046f1428ed9e1994af32cec5abb71ea445918b5ec6872f81e37ab7460877"
+    },
+    {
+      "source": "outputs/poison-monsters/使用说明.txt",
+      "archive": "source_assets/poison-monsters/使用说明.txt",
+      "sha256": "1467dbbeb161980b5b0ab97bb0b7245d1e151d2523577a95b231a44dde1f23c0"
+    },
+    {
+      "source": "outputs/poison-monsters/动画参数与检查.json",
+      "archive": "source_assets/poison-monsters/动画参数与检查.json",
+      "sha256": "94d9e7df3325d23fe55ac8223eba2fa24b3bb70670a3214dc0af401cf04e4884"
+    },
+    {
+      "source": "outputs/poison-monsters/四种怪兽_原地动作对比.gif",
+      "archive": "source_assets/poison-monsters/四种怪兽_原地动作对比.gif",
+      "sha256": "3d6a55fd202673910653b47e04a53dce0c41c7bb9777b220ff281e10b4fb5086"
+    },
+    {
+      "source": "outputs/poison-monsters/四种怪兽_奔跑对比.gif",
+      "archive": "source_assets/poison-monsters/四种怪兽_奔跑对比.gif",
+      "sha256": "aa3a189c8d59d5e16971c59cd90078523c58bbd02ead88385c3fc45eac02aa88"
+    },
+    {
+      "source": "outputs/poison-monsters/四种怪兽_角色总览.png",
+      "archive": "source_assets/poison-monsters/四种怪兽_角色总览.png",
+      "sha256": "b8f9b841b3c27c9a0f92ddb5cf3738300183acdcbda7e8f62d77329ce29e2504"
+    },
+    {
+      "source": "outputs/poison-monsters/四种怪兽_跑步12帧总览.png",
+      "archive": "source_assets/poison-monsters/四种怪兽_跑步12帧总览.png",
+      "sha256": "712f89b2324bdbd0d2993d9796853865835348231af656963408522c3efcf51e"
+    },
+    {
+      "source": "outputs/poison-monsters/生成提示词.json",
+      "archive": "source_assets/poison-monsters/生成提示词.json",
+      "sha256": "b065c75b486e1568edbcb55ea8e076ebdf7f3310132ef4f442c32b3ef9c80691"
+    },
+    {
+      "source": "outputs/roadside-scenery/01_low_grass.png",
+      "archive": "source_assets/roadside-scenery/01_low_grass.png",
+      "sha256": "600c8bd2d65fef787557ab2a194c3a68542ce611927c2b5e36732ac3074c6cd9"
+    },
+    {
+      "source": "outputs/roadside-scenery/02_fern_bush.png",
+      "archive": "source_assets/roadside-scenery/02_fern_bush.png",
+      "sha256": "459088d5b2afeb6a78d790f34ce2a3d72599990148df6c3c2fea18db31225e2a"
+    },
+    {
+      "source": "outputs/roadside-scenery/03_broad_leaves.png",
+      "archive": "source_assets/roadside-scenery/03_broad_leaves.png",
+      "sha256": "52f1ed1bb2fe329f058473e9fb363053f611c32f250656d05f4e0ac5ce82f91b"
+    },
+    {
+      "source": "outputs/roadside-scenery/04_twisted_tree.png",
+      "archive": "source_assets/roadside-scenery/04_twisted_tree.png",
+      "sha256": "56acc5ba4791c76c8b0136bab347e51b5ad5801fa312365e66d0bb08e99b9f1e"
+    },
+    {
+      "source": "outputs/roadside-scenery/05_round_crown_tree.png",
+      "archive": "source_assets/roadside-scenery/05_round_crown_tree.png",
+      "sha256": "ae69fc585884e50721d95e9ca66540432b85c02626345040659bde4519be7e55"
+    },
+    {
+      "source": "outputs/roadside-scenery/06_moss_boulder.png",
+      "archive": "source_assets/roadside-scenery/06_moss_boulder.png",
+      "sha256": "93598b132de28df75b82b1a8bdf961113546fbf4ab708add54ed6839b57a2904"
+    },
+    {
+      "source": "outputs/roadside-scenery/07_three_rocks.png",
+      "archive": "source_assets/roadside-scenery/07_three_rocks.png",
+      "sha256": "50d35dd3c11a86171bb43d80ce5138dc36c07655d8bdbd9395e119cb52abe55c"
+    },
+    {
+      "source": "outputs/roadside-scenery/08_upright_stone.png",
+      "archive": "source_assets/roadside-scenery/08_upright_stone.png",
+      "sha256": "d35122f78b62aaca4cb78b04726af9d149539dd3b6cba3d138ce48b8b3bb65ff"
+    },
+    {
+      "source": "outputs/roadside-scenery/09_hollow_stump.png",
+      "archive": "source_assets/roadside-scenery/09_hollow_stump.png",
+      "sha256": "c4a8d5d5810a304cd23b37d0696cf6fab46f642b323f3f220c969e7207a99102"
+    },
+    {
+      "source": "outputs/roadside-scenery/10_curled_roots.png",
+      "archive": "source_assets/roadside-scenery/10_curled_roots.png",
+      "sha256": "c24dcf526b02b07b6a11e38ffb06e762e07b2cc92231c12cb3b90dc1b8bce676"
+    },
+    {
+      "source": "outputs/roadside-scenery/使用说明.txt",
+      "archive": "source_assets/roadside-scenery/使用说明.txt",
+      "sha256": "5d5704d52ad7d223edaa0fd6430b8a2352ab56bebf458ac16c9f0391419d4a9f"
+    },
+    {
+      "source": "outputs/roadside-scenery/生成提示词.json",
+      "archive": "source_assets/roadside-scenery/生成提示词.json",
+      "sha256": "ac9426cea2410438742b4c07da86cf8e9d1e97f64f9405ea76e12ea7996af5c5"
+    },
+    {
+      "source": "outputs/roadside-scenery/素材尺寸与透明检查.json",
+      "archive": "source_assets/roadside-scenery/素材尺寸与透明检查.json",
+      "sha256": "fd7fa77014d6903b2810c389466c0433428cb16b8aa165f5776cff4a1e65ce69"
+    },
+    {
+      "source": "outputs/roadside-scenery/道路旁配景总览.png",
+      "archive": "source_assets/roadside-scenery/道路旁配景总览.png",
+      "sha256": "f9ad8c6698480cc8a9e9fb508edaa524535d541c2fd16bd0f4d339de5855fa1f"
+    },
+    {
+      "source": "outputs/runner/frames/idle.png",
+      "archive": "source_assets/runner/frames/idle.png",
+      "sha256": "ac5255188dff4cb2c1c653462cb5ef8da6e67b2ad029f7c85db290ed9f07a5b7"
+    },
+    {
+      "source": "outputs/runner/frames/run_01.png",
+      "archive": "source_assets/runner/frames/run_01.png",
+      "sha256": "dfc708fed1860ab7888c9024830c9bb36b6f6c5ab13443e91308f2742a506c84"
+    },
+    {
+      "source": "outputs/runner/frames/run_02.png",
+      "archive": "source_assets/runner/frames/run_02.png",
+      "sha256": "f52ca62480c7075813a95df954b43988a1c422403e80eccf735c625d646304d5"
+    },
+    {
+      "source": "outputs/runner/frames/run_03.png",
+      "archive": "source_assets/runner/frames/run_03.png",
+      "sha256": "92f5f38973ae4f44459cd9736bea89641cc9d83aa83c9c163edc81106a9c17ae"
+    },
+    {
+      "source": "outputs/runner/frames/run_04.png",
+      "archive": "source_assets/runner/frames/run_04.png",
+      "sha256": "455f61e37de5d8cc7a5fb2ce4be99ddb529fd469831bd118225c9f2b3bd4a5a2"
+    },
+    {
+      "source": "outputs/runner/frames/run_05.png",
+      "archive": "source_assets/runner/frames/run_05.png",
+      "sha256": "594d5d37fc6b253ccd8530be590e6ce1baae5c5c74a9b2456df2651ada843a3e"
+    },
+    {
+      "source": "outputs/runner/frames/run_06.png",
+      "archive": "source_assets/runner/frames/run_06.png",
+      "sha256": "0b6e54180602af807ec1e6f28cdec32380566c9153362615de011691684f8000"
+    },
+    {
+      "source": "outputs/runner/frames/run_07.png",
+      "archive": "source_assets/runner/frames/run_07.png",
+      "sha256": "017a23a660e87532c5be35a73e9a8add496d96c773af548075a593e9e9fb1c1e"
+    },
+    {
+      "source": "outputs/runner/frames/run_08.png",
+      "archive": "source_assets/runner/frames/run_08.png",
+      "sha256": "6de59dc47d9f51daecb6044ff66c525b4dd3e2f9c8a6ced4ba10ee63194becd9"
+    },
+    {
+      "source": "outputs/runner/使用说明.txt",
+      "archive": "source_assets/runner/使用说明.txt",
+      "sha256": "407ed326b0b6c0e3a37496466342f27ea48c8e2ffab1f77882fa0d931f0453f2"
+    },
+    {
+      "source": "outputs/runner/关键帧总览.png",
+      "archive": "source_assets/runner/关键帧总览.png",
+      "sha256": "389f11fd53c44bf5f5b9956c855e98d19592ab63bc71d43cb3d2c9fbe4630fc1"
+    },
+    {
+      "source": "outputs/runner/生成提示词.json",
+      "archive": "source_assets/runner/生成提示词.json",
+      "sha256": "a7845d6d48534e77849e1a8924be80f824e1452f7bac0ca53ac44d250c68dadd"
+    },
+    {
+      "source": "outputs/runner/背影站立.png",
+      "archive": "source_assets/runner/背影站立.png",
+      "sha256": "2778768837ad2d22c80e468c15e92449dc591fba91f2d4a168f1d253a90c26f3"
+    },
+    {
+      "source": "outputs/runner/跑步图集参数.json",
+      "archive": "source_assets/runner/跑步图集参数.json",
+      "sha256": "555e353c04299c2f5b8f26a6c88718761a965141798f87883eaaf41444ed5b0f"
+    },
+    {
+      "source": "outputs/runner/跑步循环图集_4x2.png",
+      "archive": "source_assets/runner/跑步循环图集_4x2.png",
+      "sha256": "15b1b9a3df368e45ba478bc0b648cdbf5e218bdda618f62e9ec09ed757d91f88"
+    },
+    {
+      "source": "outputs/runner/跑步循环透明预览.apng",
+      "archive": "source_assets/runner/跑步循环透明预览.apng",
+      "sha256": "847b977c32cda1267de8aeed5b1a6b8c70a07f8940b294bc5b72f21fae67c269"
+    },
+    {
+      "source": "outputs/runner/跑步循环预览.gif",
+      "archive": "source_assets/runner/跑步循环预览.gif",
+      "sha256": "149e6683a31cc7b6e66a878b795209c7f60e0d7bb49834f247af28eac0413c5d"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_01.png",
+      "archive": "source_assets/runner/高清原图/run_01.png",
+      "sha256": "4f4ec4ca80a043ff7a8d86a0377720fbd6a72b4afcc1f089343464ea811a44ae"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_02.png",
+      "archive": "source_assets/runner/高清原图/run_02.png",
+      "sha256": "abef0b4140fd7228f9b7f2a1353463b4cf68ac7208cf83305715af4c6c73ae8d"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_03.png",
+      "archive": "source_assets/runner/高清原图/run_03.png",
+      "sha256": "35bf1c53ade5422e109a280841336214264a3c71d44ff0130e2a202fd37cf114"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_04.png",
+      "archive": "source_assets/runner/高清原图/run_04.png",
+      "sha256": "e39d6dedfcd83956fe83fa1e2e5f79355da97a8612d486d758da33b70853300f"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_05.png",
+      "archive": "source_assets/runner/高清原图/run_05.png",
+      "sha256": "21ef4d77c44f74780bfbcc207a3056547df2994b3163b0a3f8316aaee51d829c"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_06.png",
+      "archive": "source_assets/runner/高清原图/run_06.png",
+      "sha256": "9329534881aa0ca9e6736c27b47b912b344dfecbc99510f8e3cd91e00fedb92d"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_07.png",
+      "archive": "source_assets/runner/高清原图/run_07.png",
+      "sha256": "16d79889125e31e729627dc1620fda8c5e0ac7bc266dd48a8d3df1da5b70b2f0"
+    },
+    {
+      "source": "outputs/runner/高清原图/run_08.png",
+      "archive": "source_assets/runner/高清原图/run_08.png",
+      "sha256": "e1b8601a41ed3d228102f6c83bdb89903d995db471d20d6130edae4703d74c51"
+    },
+    {
+      "source": "outputs/ui-components/failure_badge.png",
+      "archive": "source_assets/ui-components/failure_badge.png",
+      "sha256": "ae8d97e668f9945f0d1ff6f2c194c9dc84f60c3cb9f97549e70b93a3b41dbbfa"
+    },
+    {
+      "source": "outputs/ui-components/game_start_badge.png",
+      "archive": "source_assets/ui-components/game_start_badge.png",
+      "sha256": "f8eceb19488724a4db1c614fe24a16bfed1c65e5a9d17cc9cdcadce64c62f319"
+    },
+    {
+      "source": "outputs/ui-components/ui_frame_2160x4680.png",
+      "archive": "source_assets/ui-components/ui_frame_2160x4680.png",
+      "sha256": "3a3ea6b56c4f94b53fa8e6ec429e63d6455c3bbc9e6f8ef72632ac3afa66035d"
+    },
+    {
+      "source": "outputs/ui-components/UI素材总览.png",
+      "archive": "source_assets/ui-components/UI素材总览.png",
+      "sha256": "907507d4c61c97b6fa7d812a826f69830dcbf804249bed1f7b1c5ef00d90f05a"
+    },
+    {
+      "source": "outputs/ui-components/victory_badge.png",
+      "archive": "source_assets/ui-components/victory_badge.png",
+      "sha256": "015a76ad0a9b19e9360df762cfff51e524b8213350e44b54267af020c9841d4b"
+    },
+    {
+      "source": "outputs/ui-components/使用说明.txt",
+      "archive": "source_assets/ui-components/使用说明.txt",
+      "sha256": "eec8fc4be82a6373f8e736ffa44a727b84f09744522755abca61474e0d39b118"
+    },
+    {
+      "source": "outputs/ui-components/生成提示词.json",
+      "archive": "source_assets/ui-components/生成提示词.json",
+      "sha256": "fc0ec0bd324f26d39956dee3042227145ccc69c9f045d1cf19556e22602cf263"
+    },
+    {
+      "source": "outputs/ui-components/素材参数.json",
+      "archive": "source_assets/ui-components/素材参数.json",
+      "sha256": "80616081e935264ba27c52a6524d74e1abcf38d7f6588f8ef08e1c780b1f40d6"
+    }
+  ]
+}

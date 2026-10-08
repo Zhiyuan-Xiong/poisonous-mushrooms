@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "target": "Godot modular forward runner scene",
+  "phone_aspect": "9:19.5",
+  "background": {
+    "opaque": true,
+    "native_width": 853,
+    "height": 4680,
+    "native_file": "native/background_distant_forest_native.png",
+    "file": "background_distant_forest_2160x4680.png",
+    "width": 2160,
+    "native_height": 1844,
+    "export": "High-quality bicubic size conversion from native AI image, with a minimal aspect-ratio crop"
+  },
+  "ground": {
+    "checker_columns": 8,
+    "normal_map_included": false,
+    "perspective_baked": false,
+    "view": "flat orthographic",
+    "role": "repeating ground albedo",
+    "checker_rows": 8,
+    "file": "ground_checker_albedo.png"
+  },
+  "canopy": {
+    "file": "top_tree_canopy.png",
+    "alpha": true,
+    "upper_edge": "Upper canopy attachments can reach the top edge; all lower tips are finished on-canvas",
+    "bottom_padding_px": 65,
+    "contains_mushrooms": false
+  },
+  "mushrooms": [
+    {
+      "file": "mushroom_pale.png",
+      "alpha": true,
+      "role": "single pale accent mushroom; duplicate to form the original small cluster"
+    },
+    {
+      "file": "mushroom_rose.png",
+      "alpha": true,
+      "role": "single dusty-rose accent mushroom"
+    }
+  ],
+  "files": [
+    {
+      "file": "background_distant_forest_2160x4680.png",
+      "width": 2160,
+      "height": 4680,
+      "bbox": [
+        0,
+        0,
+        2159,
+        4679
+      ],
+      "transparent_percent": 0.0,
+      "edge_opaque": [
+        2160,
+        2160,
+        4680,
+        4680
+      ],
+      "mean_luminance": 19.73,
+      "alpha_min": 255,
+      "alpha_max": 255
+    },
+    {
+      "file": "ground_checker_albedo.png",
+      "width": 1254,
+      "height": 1254,
+      "bbox": [
+        0,
+        0,
+        1253,
+        1253
+      ],
+      "transparent_percent": 0.0,
+      "edge_opaque": [
+        1254,
+        1254,
+        1254,
+        1254
+      ],
+      "mean_luminance": 101.68,
+      "alpha_min": 255,
+      "alpha_max": 255
+    },
+    {
+      "file": "mushroom_pale.png",
+      "width": 1254,
+      "height": 1254,
+      "bbox": [
+        301,
+        310,
+        951,
+        998
+      ],
+      "transparent_percent": 83.85,
+      "edge_opaque": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "mean_luminance": 28.69,
+      "alpha_min": 0,
+      "alpha_max": 255
+    },
+    {
+      "file": "mushroom_rose.png",
+      "width": 1254,
+      "height": 1254,
+      "bbox": [
+        274,
+        283,
+        977,
+        1021
+      ],
+      "transparent_percent": 81.03,
+      "edge_opaque": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "mean_luminance": 28.19,
+      "alpha_min": 0,
+      "alpha_max": 255
+    },
+    {
+      "file": "top_tree_canopy.png",
+      "width": 1536,
+      "height": 1024,
+      "bbox": [
+        9,
+        0,
+        1535,
+        958
+      ],
+      "transparent_percent": 57.64,
+      "edge_opaque": [
+        752,
+        0,
+        0,
+        21
+      ],
+      "mean_luminance": 61.8,
+      "alpha_min": 0,
+      "alpha_max": 254
+    }
+  ],
+  "native_background": {
+    "file": "background_distant_forest_native.png",
+    "width": 853,
+    "height": 1844,
+    "bbox": [
+      0,
+      0,
+      852,
+      1843
+    ],
+    "transparent_percent": 0.0,
+    "edge_opaque": [
+      853,
+      853,
+      1844,
+      1844
+    ],
+    "mean_luminance": 19.73,
+    "alpha_min": 255,
+    "alpha_max": 255
+  },
+  "validation": {
+    "tree_lower_edge_opaque_pixels": 0,
+    "asset_preview_is_not_a_game_texture": true,
+    "ground_brightness_reduction_percent": 44.0
+  }
+}

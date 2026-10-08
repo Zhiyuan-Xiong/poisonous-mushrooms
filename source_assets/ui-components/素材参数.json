@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "file": "failure_badge.png",
+      "width": 1536,
+      "height": 1024,
+      "visible_bounds": [
+        69,
+        150,
+        1466,
+        867
+      ],
+      "transparent_percent": 56.76,
+      "edge_opaque": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "near_black_visible_percent": 0.0,
+      "centre_alpha": 254
+    },
+    {
+      "file": "game_start_badge.png",
+      "width": 1536,
+      "height": 1024,
+      "visible_bounds": [
+        40,
+        117,
+        1495,
+        896
+      ],
+      "transparent_percent": 48.83,
+      "edge_opaque": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "near_black_visible_percent": 0.0,
+      "centre_alpha": 254
+    },
+    {
+      "file": "ui_frame_2160x4680.png",
+      "width": 2160,
+      "height": 4680,
+      "visible_bounds": [
+        0,
+        0,
+        2159,
+        4679
+      ],
+      "transparent_percent": 80.87,
+      "edge_opaque": [
+        2160,
+        2160,
+        4680,
+        4680
+      ],
+      "near_black_visible_percent": 0.0,
+      "centre_alpha": 0
+    },
+    {
+      "file": "victory_badge.png",
+      "width": 1536,
+      "height": 1024,
+      "visible_bounds": [
+        64,
+        52,
+        1472,
+        908
+      ],
+      "transparent_percent": 52.21,
+      "edge_opaque": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "near_black_visible_percent": 0.0,
+      "centre_alpha": 254
+    }
+  ],
+  "frame": {
+    "source": "D:\\灵感版mushroom\\mushroom\\mushroom3.png",
+    "original_size": [
+      3126,
+      6768
+    ],
+    "visible_bounds": [
+      0,
+      0,
+      3125,
+      6183
+    ],
+    "target_size": [
+      2160,
+      4680
+    ],
+    "uniform_decorations_scale": 0.690978886756238,
+    "rail_extension_source_band": [
+      2500,
+      2750
+    ],
+    "sections": [
+      {
+        "dy": 0,
+        "sy": 0,
+        "sh": 2500,
+        "dh": 1727
+      },
+      {
+        "dy": 1727,
+        "sy": 2500,
+        "sh": 250,
+        "dh": 580
+      },
+      {
+        "dy": 2307,
+        "sy": 2750,
+        "sh": 3434,
+        "dh": 2373
+      }
+    ],
+    "centre_alpha": 0,
+    "generation": "Original raster retained; transparent padding trimmed; top and bottom decorations scaled uniformly; only straight rail band extended",
+    "source_row_checks": [
+      {
+        "y": 2450,
+        "foreground_extents": [
+          219,
+          2906
+        ]
+      },
+      {
+        "y": 2500,
+        "foreground_extents": [
+          219,
+          2906
+        ]
+      },
+      {
+        "y": 2600,
+        "foreground_extents": [
+          219,
+          2906
+        ]
+      },
+      {
+        "y": 2700,
+        "foreground_extents": [
+          219,
+          2906
+        ]
+      },
+      {
+        "y": 2750,
+        "foreground_extents": [
+          219,
+          2906
+        ]
+      },
+      {
+        "y": 2800,
+        "foreground_extents": [
+          219,
+          2906
+        ]
+      }
+    ]
+  },
+  "badges": [
+    {
+      "palette": "muted golden / champagne",
+      "file": "victory_badge.png",
+      "contour": "warm ochre-gold",
+      "rendering": "flat matte hand-drawn",
+      "text": "蘑菇们都很佩服你！"
+    },
+    {
+      "palette": "cool blue / grey-lavender",
+      "file": "failure_badge.png",
+      "contour": "muted grey-blue / violet",
+      "rendering": "flat matte hand-drawn",
+      "text": "糟糕！被蘑菇惹到了"
+    },
+    {
+      "palette": "sage-teal / cream / dusty rose",
+      "file": "game_start_badge.png",
+      "contour": "muted grey-teal",
+      "rendering": "flat matte hand-drawn",
+      "text": "游戏开始"
+    }
+  ],
+  "generation": {
+    "frame": "Original high-resolution raster geometry and layout adjustment; decorations kept, no AI redraw",
+    "preview": "Contact sheet only; four standalone transparent asset PNGs remain separate",
+    "badges": "Built-in imagegen"
+  },
+  "validation": {
+    "transparent_frame_centre": true,
+    "all_badge_contours_complete": true,
+    "wording_checked_visually": true,
+    "badge_near_black_pixels_check": "RGB below 45 in every channel, for alpha >= 200",
+    "exact_frame_size": true
+  }
+}

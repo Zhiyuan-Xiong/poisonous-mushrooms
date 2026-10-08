@@ -1,0 +1,47 @@
+[
+  {
+    "file": "assets/scene/distant_fog.png",
+    "width": 1536,
+    "height": 1024,
+    "alphaMin": 0,
+    "alphaMax": 219,
+    "hasAlpha": true,
+    "bytes": 1504220
+  },
+  {
+    "file": "assets/scene/grass_contact.png",
+    "width": 1024,
+    "height": 505,
+    "alphaMin": 0,
+    "alphaMax": 255,
+    "hasAlpha": true,
+    "bytes": 350590
+  },
+  {
+    "file": "assets/ui/start.png",
+    "width": 1536,
+    "height": 1024,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "hasAlpha": true,
+    "bytes": 1570886
+  },
+  {
+    "file": "assets/ui/victory.png",
+    "width": 1536,
+    "height": 1024,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "hasAlpha": true,
+    "bytes": 1626895
+  },
+  {
+    "file": "assets/ui/failure.png",
+    "width": 1536,
+    "height": 1024,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "hasAlpha": true,
+    "bytes": 1524198
+  }
+]

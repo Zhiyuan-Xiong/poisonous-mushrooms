@@ -1,0 +1,8 @@
+.godot/
+tools/editor_data/
+tools/*.exe
+build/
+*.log
+.env*
+__pycache__/
+*.pyc
