@@ -1,0 +1,32 @@
+[
+  {
+    "name": "01_地图",
+    "duration": 5,
+    "fps": 30,
+    "decodedFrames": 150,
+    "width": 2048,
+    "height": 1152,
+    "keyframes": 15,
+    "decodeErrors": 0
+  },
+  {
+    "name": "02_毒蘑菇标题",
+    "duration": 5,
+    "fps": 30,
+    "decodedFrames": 150,
+    "width": 2048,
+    "height": 1152,
+    "keyframes": 15,
+    "decodeErrors": 0
+  },
+  {
+    "name": "03_角色选择",
+    "duration": 5,
+    "fps": 30,
+    "decodedFrames": 150,
+    "width": 2048,
+    "height": 1152,
+    "keyframes": 15,
+    "decodeErrors": 0
+  }
+]

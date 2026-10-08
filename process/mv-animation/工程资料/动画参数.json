@@ -1,0 +1,88 @@
+{
+  "width": 2048,
+  "height": 1152,
+  "durationSeconds": 5,
+  "framesPerSecond": 30,
+  "framesPerVideo": 150,
+  "keyframesPerScene": 15,
+  "audio": false,
+  "plantMotionAmplitudeMultiplier": 3,
+  "scenes": [
+    {
+      "name": "01_地图",
+      "iconOrder": [
+        "房屋",
+        "贝壳",
+        "棋子",
+        "餐罩"
+      ],
+      "iconStartsSeconds": [
+        0.2,
+        1.233333,
+        2.266667,
+        3.3
+      ],
+      "iconDurationSeconds": 1.333333,
+      "maximumScale": 1.2,
+      "environment": "植物摆动幅度为原来的3倍，周期3秒；蘑菇轻微摆动",
+      "growingDashedRoute": true,
+      "routeRevealWindowsSeconds": [
+        [
+          0.28,
+          1.68
+        ],
+        [
+          1.68,
+          2.8
+        ],
+        [
+          2.8,
+          3.86
+        ],
+        [
+          1.4,
+          2.18
+        ],
+        [
+          3.78,
+          4.67
+        ]
+      ],
+      "sourceLabel": "ui修改后.png"
+    },
+    {
+      "name": "02_毒蘑菇标题",
+      "titleFadeSeconds": [
+        0.133333,
+        1.5
+      ],
+      "gameStartFadeSeconds": [
+        0.8,
+        1.866667
+      ],
+      "verticalFloatPixels": 5.5,
+      "floatPeriodSeconds": 2.9,
+      "environment": "左右蘑菇轻微摆动，草叶和灌木明显摆动",
+      "sourceLabel": "ui大图.png"
+    },
+    {
+      "name": "03_角色选择",
+      "allCardsVisibleFromFirstFrame": true,
+      "order": [
+        "左",
+        "中",
+        "右"
+      ],
+      "startsSeconds": [
+        0.216667,
+        1.683333,
+        3.15
+      ],
+      "durationSeconds": 1.6,
+      "maximumScale": 1.055,
+      "highlight": "暖金色柔光",
+      "environment": "外缘藤叶和底部植物摆动",
+      "sourceLabel": "42d407a2-cf88-47fc-bbd5-e34f8d0100c0.png"
+    }
+  ]
+}
